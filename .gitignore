@@ -1,0 +1,31 @@
+# Jekyll build output & caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+.bundle/
+vendor/bundle/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor / OS cruft
+*.swp
+Thumbs.db
+
+# refactor working data + tooling (regenerable; leaked name->code mapping — keep out of public repo)
+.refactor-baseline/
+
+# local Claude Code settings + instructions (not site content; contain names/cipher — keep out of public repo)
+.claude/
+claude.md
+
+# internal refactor process docs (narrate the name-scrub; keep out of public repo)
+refactor-log-May2026.md
+refactor-plan-May2026.md
+
+# Phase 2 backup staging — large, export to backup disk then delete; never commit
+collect-for-export-to-backup/

@@ -1,0 +1,97 @@
+#
+# to serve donkey locally so accessible from mobile etc:-)
+# bundle exec jekyll serve --ssl-key ssl/localhost.key --ssl-cert ssl/localhost.crt --host minizardoz.local
+#
+
+title: 'A donkey on the edge'
+description: "The contents of Dug's head, in no particular order."
+logo: 'images/dug_logo_333_transparent.png'
+favicon: 'images/favicon.png'
+baseurl: ''
+# baseurl: '/donkey'
+commentcutoff: 1900
+email: 'dug@donkeyontheedge.com'
+
+affiliates-sidebar: AWIN
+
+# mailchimp-list: 'https://goodlookslikethis.us19.list-manage.com/subscribe/post?u=8e7f9c68165a3970d4c9a3752&amp;id=f366ba2ac9'
+
+# The URL for the staticman API bridge endpoint
+# You will want to modify some of the values:
+#  ${github-username}: the username of the account with which you publish your blog
+#  ${blog-repo}: the name of your blog repository in github
+#  master: this the branch out of which your blog is published, often master or gh-pages
+#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
+#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
+#
+# for me, this line reads:
+# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+
+staticman_url: https://staticmanapp-donkeyb.herokuapp.com/v2/entry/lrdj/donkey/master/comments
+
+reCaptcha:
+  enabled: true
+  siteKey: 6LcspusUAAAAACQsyUimGzVS574SgmEIkbUMZeIc
+  secret: K2GE4ENKjPmb47++VXslTpPq9x0wYzKbNA1lM/pJyECU8ZsVeNU0Eh2HI07j2DMkq0B90vKWoFz06IH32uuk4vzMgc6eQUM9WB854h+tGDq0r2JVcIBTBDhXtIegeQE27m/4Wp4JDFMIlj/TMJHoqFwzIIVrtoUHH7qjwmgN38dGo9SWeJ9eby3OYqPMJfDrC2VkjzDu6+f1npMGNd20kKF3xyJ8aIecez1gpwCLQkOZxW81A6wpq4VDV8btqUgiC6pS0Uw89EyoEiSkak8UPtRyejd/VeGxL6s/7kwpIEqlHMqsW9EvuUBh4cEBikgKVpgKom+HF0RkALeaReiJT/1EbzxE5dH8bYEwn0gGf7LCV9uefh1cspMI6v2FTcanuH+sZfsltIAyPWeUqg60ReY8piCMSJSRdOaTIV+brVdFdDZBSd8xfr9FIEZZW5odwAg150lhvH8tAWJowERuE161pqib2HgSUkYXChIlSiT8BY0nMnaPAFNewvMu7+tQuhuCao1PsXjCAp7dkiQT+dMsjhQy1hIGcGmdGn+Iz3jwxrTRAdgi7Mezhf/bqjsJfLt3Nnp76ucDSKWunXGGrWWoyaCy3jiP71xlnajlfK0S12Buu6nnbPpgxcbOtbFzfl2/boEw/0rbj9YGivO/ktqZHkx9H4vYnzp65vFpWrs=
+
+# hCaptchaSiteKey: 9793f20c-5f8e-40cc-b2ef-a5f9071ebcab 
+
+include: ["_pages","_redirect"]
+
+permalink: /:title/
+# permalink: /:year/:month/:title.html
+
+url: "https://donkeyontheedge.com"
+
+plugins: 
+#  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    dug:
+      name:           dug
+      site:           https://goodlookslikethis.com
+      avatar:         images/dug-achilles-avatar.jpg
+      bio:            "Hiya, life goes like this. Step 1: Get out of bed. Step 2: Make things better:-)"
+      email:          dug@goodlookslikethis.com
+      twitter:        https://twitter.com/dug
+
+#    jane:
+#      name:           Jane
+#      site:           https://www.wowthemes.net
+#      avatar:         /assets/images/avatar2.jpg
+#      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+#      email:          fakemail@gmail.com
+#      twitter:        https://twitter.com/wowthemesnet
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: Dug
+      avatar: /assets/images/avatar1.jpg
+      comments: true
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+# paginate: 40
+paginate: 40
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .DS_Store]
+

@@ -1,0 +1,46 @@
+
+/* table reset and style */
+
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    vertical-align: baseline
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    vertical-align: middle
+}
+
+caption,
+th,
+td {
+    text-align: left;
+    font-weight: 400;
+    vertical-align: middle
+}
+
+/* table-like behaviours for centering */
+
+.x_vertical-center-container {
+    display: table
+}
+
+.x_vertical-center-item {
+    display: table-cell;
+    vertical-align: middle
+}

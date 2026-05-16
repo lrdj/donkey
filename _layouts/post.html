@@ -1,0 +1,180 @@
+---
+layout: default
+---
+{% assign author = site.authors[page.author] %}
+<div class="container">
+<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+		<div class="h-100 tofront">
+			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
+				<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+					<p class="text-uppercase font-weight-bold">
+                        <span class="catlist">
+						{% for topic in page.categories %}
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/topics.html#{{ topic | downcase }}">{{ topic | downcase }}</a><span class="sep">, </span>
+                        {% endfor %}
+                        </span>
+					</p>
+					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
+					<div class="d-flex align-items-center">
+                        {% if author.avatar %}
+                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
+                        {% endif %}
+						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+                            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
+						</small>
+					</div>
+				</div>
+
+                {% if page.headergallery %}
+					<div class="gallery_container col-md-6 pr-0 align-self-center">
+					    <div class="headergallery">
+							{% for img in page.headergallery %}
+						        <figure class="gallery__item gallery__item--{{forloop.index}}">
+						            <a {% if img.first[1] != nil %}href="{{ site.url }}/{{ img.first[1] }}" title="read the original post"{%- else -%}href="{{ site.baseurl }}/images/{{ img.first[0] }}" title="view whole image"{%- endif -%}><img src="{{ site.baseurl }}/images/{{ img.first[0] }}" alt="Gallery image {{forloop.index}}" class="gallery__img"></a>
+						        </figure>
+							{% endfor %}	
+					    </div>
+					</div>
+                {% else %}
+	                {% if page.image %}
+					<div class="col-md-6 pr-0 align-self-center">
+						{% if page.target %}<a href="{% if page.target contains "://" %}{{ page.target }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" title="{{ page.alt }}">{% endif %}<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{% if page.alt %}{{ page.alt }}{% else %}{{ page.title }}{% endif %}">{% if page.target %}</a>{% endif %}
+					</div>
+	                {% endif %}
+                {% endif %}
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<div class="container-lg pt-4 pb-4">
+	<div class="row justify-content-center">
+        
+        
+        <!-- affiliates -->
+		{% include affiliate-links.html %}
+
+		<div class="col-md-12 col-lg-8">
+
+            {% if page.bodygallery %}
+			<div class="gallery_container pr-0 align-self-center">
+			    <div class="bodygallery">
+					{% for img in page.bodygallery %}
+			        <figure class="gallery__item gallery__item--{{forloop.index}}">
+			            <a {% if img.first[1] != nil %}{% if img.first[1] contains "://" %}href="{{ img.first[1] }}" title="Were did I find this image?"{% else %}href="{{ site.url }}/{{ img.first[1] }}" title="read the original post"{% endif %}{%- else -%}href="{{ site.baseurl }}/images/{{ img.first[0] }}" title="view whole image"{%- endif -%}><img src="{{ site.baseurl }}/images/{{ img.first[0] }}" alt="Gallery image {{forloop.index}}" class="gallery__img"></a>
+			        </figure>
+      	 			{% endfor %}
+			    </div>
+			</div>
+            {% endif %}
+
+            {% if page.bodygallerysmaller %}
+			<div class="gallery_container pr-0 align-self-center">
+			    <div class="bodygallerysm">
+					{% for img in page.bodygallerysmaller %}
+			        <figure class="gallery__item gallery__item--{{forloop.index}}">
+			            <a {% if img.first[1] != nil %}href="{{ site.url }}/{{ img.first[1] }}" title="read the original post"{%- else -%}href="{{ site.baseurl }}/images/{{ img.first[0] }}" title="view whole image"{%- endif -%}><img src="{{ site.baseurl }}/images/{{ img.first[0] }}" alt="Gallery image {{forloop.index}}" class="gallery__img"></a>
+			        </figure>
+      	 			{% endfor %}
+			    </div>
+			</div>
+            {% endif %}
+
+            <!-- Article -->
+			<article class="article-post">
+
+			{{ content }}
+
+			</article>
+			
+			<!-- Tags -->
+			<div class="mb-4">
+				<span class="taglist">
+				{% for tag in page.tags %}
+				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+				{% endfor %}
+				</span>
+			</div>
+
+
+            <!-- Comments (edit 16 Dec 2020) -->
+            
+            {% if page.comments != false %}
+				{% assign postyear = page.date | date: '%Y' | plus: 0 %}
+				{% if postyear > site.commentcutoff %}
+					{% include comments.html %}
+				{% endif %}
+            {% endif %}
+ 
+            <!-- Mailchimp Subscribe Form -->
+            {% if site.mailchimp-list %}
+			<div class="border p-5 bg-lightblue">
+				<div class="row justify-content-between">
+					<div class="col-md-6 mb-2 mb-md-0">
+						<h5 class="font-weight-bold">Join Newsletter</h5>
+						 Get the latest news right in your inbox. We never spam!
+					</div>
+					<div class="col-md-6">
+						<div class="row">
+                            <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" novalidate>
+                            <div class="mc-field-group">
+							
+								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
+							
+							
+								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
+							
+                            </div>
+                            </form>
+						</div>
+					</div>
+				</div>
+			</div>
+            {% endif %}
+            
+            
+             <!-- Author Box -->
+                {% if page.author %}				
+				<div class="row mt-5">
+					<div class="col-md-2 align-self-center">
+                         {% if author.avatar %}
+                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
+                        {% endif %} 
+					</div>
+					<div class="col-md-10">		
+                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
+						{{ author.bio }}					
+					</div>
+				</div>				
+                {% endif %}
+            
+            
+		</div>
+        
+        
+	</div>
+</div>
+
+
+<!-- Aletbar Prev/Next -->
+<div class="alertbar">
+    <div class="container">
+        <div class="row prevnextlinks small font-weight-bold">
+          {% if page.previous.url %}
+            <div class="col-md-6 rightborder pl-0">
+                <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}">{% if page.previous.image %} <img height="30px" class="mr-1" src="{{site.baseurl}}/{{page.previous.image}}"> {% endif %} {{page.previous.title}}</a>
+            </div>
+          {% endif %}
+          {% if page.next.url %}
+            <div class="col-md-6 text-right pr-0">
+                <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{site.baseurl}}/{{page.next.image}}"> {% endif %}</a>
+            </div>
+          {% endif %}
+        </div>
+    </div>
+</div>

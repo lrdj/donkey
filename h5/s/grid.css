@@ -1,0 +1,17 @@
+
+
+/*  grid for main section  */
+
+#Index { bxackground-color: #eef; }
+
+#paginatedIndexListing { 
+	float:left;
+	width: 60%; 
+}
+
+#Index aside {
+	float: right;
+	width: 30%;
+	bxackground-color: orange;
+}
+

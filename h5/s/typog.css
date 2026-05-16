@@ -1,0 +1,235 @@
+/* typography font data links for embedding */
+
+@font-face {
+    font-family: Helvetica Neue LT W05_45 Light;
+    src: url('./f/Helvetica-Light.eot');
+    src: url('./f/Helvetica-Light.eot?#iefix') format('embedded-opentype'),
+         url('./f/Helvetica-Light.woff2') format('woff2'),
+         url('./f/Helvetica-Light.woff') format('woff'),
+         url('./f/Helvetica-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Helvetica Neue LT W05_85 Heavy;
+    src: url('./f/Helvetica-Heavy.eot');
+    src: url('./f/Helvetica-Heavy.eot?#iefix') format('embedded-opentype'),
+         url('./f/Helvetica-Heavy.woff2') format('woff2'),
+         url('./f/Helvetica-Heavy.woff') format('woff'),
+         url('./f/Helvetica-Heavy.ttf') format('truetype');}
+
+
+@font-face {
+    font-family: icomoon;
+    src: url('./f/icomoon.eot');
+    src: url('./f/icomoon.eot?#iefix') format('embedded-opentype'),
+        url('./f/icomoon.woff2') format('woff2'),
+        url('./f/icomoon.woff') format('woff'),
+        url('./f/icomoon.ttf') format('truetype'),
+        url('./f/icomoon.svg#icomoon') format('svg');
+}
+
+/* icon font handling */
+
+.x_icon,
+.icon--chevron-left,
+.icon--chevron-right,
+.icon--close,
+.icon--hamburger,
+.icon--heart,
+.icon--logo,
+.icon--loupe,
+.icon--medium,
+.icon--facebook,
+.icon--instagram,
+.icon--twitter,
+.icon--vimeo,
+.icon--linkedin,
+.job-list__expand-arrow {
+    font-family: icomoon !important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon--chevron-left:before,
+.job-list__expand-arrow:before {
+    content: "\1f302"
+}
+
+.icon--chevron-right:before {
+    content: "\e901"
+}
+
+.icon--close:before {
+    content: "\e902"
+}
+
+.icon--hamburger:before {
+    content: "\e903"
+}
+
+.icon--heart:before {
+    content: "\e904"
+}
+
+.icon--logo:before {
+    content: "\e905"
+}
+
+.icon--loupe:before {
+    content: "\e906"
+}
+
+.icon--medium:before {
+    content: "\e907"
+}
+
+.icon--facebook:before {
+    content: "\ea90"
+}
+
+.icon--instagram:before {
+    content: "\ea92"
+}
+
+.icon--twitter:before {
+    content: "\ea96"
+}
+
+.icon--vimeo:before {
+    content: "\eaa0"
+}
+
+.icon--linkedin:before {
+    content: "\eaca"
+}
+
+/* baseline helv light for everything */
+body {
+    font-family: Helvetica Neue LT W05_45 Light;
+    font-size: small;
+    line-height: 147%;
+    letter-spacing: .2px    
+    text-rendering: optimizeLegibility; /* from inverted text style */
+    -webkit-font-smoothing: antiAliased /* from inverted text style */
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Helvetica Neue LT W05_85 Heavy;
+    font-size: medium;
+    line-height: 100%;
+    letter-spacing: -1.5px
+}
+
+h1 {font-size: xx-large;}
+article h2 {font-size: x-large;}
+article h3 {font-size: large;}
+article h4 {font-size: medium;}
+article h5 {font-size: small;}
+article h6 {font-size: x-small;}
+
+.x_main-heading,
+.article-body h1:not([class]),
+.hero__heading,
+.promo-list--highlight-first .promo-list__item:first-child .promo__heading,
+.notfound h1 {
+    font-size: 90px
+}
+
+.x_heading,
+.article-body .heading,
+.article-body h2:not([class]),
+.footer__heading,
+.section-header__header,
+.statement__header,
+.promo-list__heading,
+.studio-directions__studio-name {
+    font-family: Helvetica Neue LT W05_85 Heavy;
+    font-size: 36px;
+    line-height: 117%;
+    letter-spacing: -.2px
+}
+
+.x_emphasized,
+.article-body blockquote:not([class]),
+.quote,
+.impact p,
+.promo-list--services .promo__heading {
+    font-family: Helvetica Neue LT W05_85 Heavy;
+    font-size: 22px;
+    line-height: 136%;
+    letter-spacing: -.2px
+}
+
+.x_emphasized,
+.article-body blockquote:not([class]),
+.quote,
+.impact p,
+.promo-list--services .promo__heading {
+    font-size: 44px;
+    letter-spacing: -.5px
+}
+
+.x_preamble,
+.article-body p.preamble {
+    font-family: Helvetica Neue LT W05_45 Light;
+    font-size: 22px;
+    line-height: 136%;
+    letter-spacing: -.2px
+}
+
+.x_preamble,
+.article-body p.preamble {
+    font-size: 44px;
+    letter-spacing: -.5px
+}
+
+.x_body-title,
+.statement__line2 p a,
+.promo__heading,
+.cta-button,
+.body-text a,
+.body-text a:hover,
+.body-text a:focus,
+.body-text a:active,
+.body-text h3,
+.body-text .body-text__heading {
+    font-family: Helvetica Neue LT W05_85 Heavy;
+    font-size: 15px;
+    line-height: 147%;
+    letter-spacing: 0
+}
+
+.x_subtitle,
+.article-body .subtitle,
+.article-body h3:not([class]),
+.job-list__heading,
+.studio-directions__col h3 {
+    font-family: Helvetica Neue LT W05_85 Heavy;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -.2px
+}
+
+.blur {
+    transition: transform 300ms, opacity 300ms
+}
+
+/* styled OL numerals */
+ol {list-style: none;counter-reset: zardoz;}
+ol li {counter-increment: zardoz;}
+ol li::before {
+    content: "0" counter(zardoz) ". ";
+    font-family: Helvetica Neue LT W05_85 Heavy;
+    font-size: x-large;
+    line-height: 140%;
+    letter-spacing: -.2px
+}
+
+
+

@@ -1,0 +1,13 @@
+_id: 8c119230-de16-11ea-ab83-c968882bfc1a
+_parent: 'https://donkeyontheedge.com/installing-staticman/'
+replying_to_uid: 8dec03e0-dddc-11ea-884b-f5630e00f345
+message: >
+  Sorry Adam, realise that was a really unhelpful reply in that it doesn't address the original comment about the 'Error whilst parsing Staticman config file' error message.
+  I'm embarrassed to admit I now don't remember the exact details:-( 
+  Most of the problems people have are to do with ssh keys for the github bot. I declared them a few times following the instructions from Travis and eventually it all loaded.
+  The problems I'm having now are as a result of a non-technical person (me) hacking two different Jekyll templates together and making a bit of a mess of everything.
+  What would be super helpful would be an ultra-simple \"hello world\" single, static page website for Staticman. It's amazing how complicated it gets once you start adjusting even the tinyest thing!
+name: Dug
+email: ''
+hp: ''
+date: 1597399901

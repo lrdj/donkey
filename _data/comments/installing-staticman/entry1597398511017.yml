@@ -1,0 +1,11 @@
+_id: 4f6bc830-de13-11ea-ab83-c968882bfc1a
+_parent: 'https://donkeyontheedge.com/installing-staticman/'
+replying_to_uid: 8dec03e0-dddc-11ea-884b-f5630e00f345
+message: |
+  Hi Adam, actually it's still broken. 
+  I ran out of time. Getting rid of the nice CSS helped a bit but the JS code that filters the outputs and triggers the call to Staticman isn't behaving as expected. I'm getting mostly spam in the meantime.
+  Really hard to find a dev who could help with Staticman, I asked Eduardo if I could hire hire him for a day or two but no joy. Will have to get back in an fix as soon as I get some free time
+name: Dug
+email: ''
+hp: ''
+date: 1597398511
