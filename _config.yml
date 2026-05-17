@@ -10,6 +10,8 @@ favicon: 'images/favicon.png'
 baseurl: ''
 # baseurl: '/donkey'
 commentcutoff: 1900
+# word shown before a category name, e.g. "In Our story" / "Filed under Our story"
+categoryLeader: 'In'
 email: 'dug@donkeyontheedge.com'
 
 affiliates-sidebar: AWIN
@@ -93,5 +95,5 @@ highlighter: rouge
 paginate: 40
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .DS_Store, collect-for-export-to-backup]
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .DS_Store, collect-for-export-to-backup, refactor-log-May2026.md, refactor-plan-May2026.md, claude.md, _refactoring-May-2026]
 

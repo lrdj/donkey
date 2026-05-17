@@ -4,7 +4,7 @@ title: "Before, after"
 date: 2008-02-05 13:12:10
 image: images/defaultThumbnail.png
 categories: 
- - "In our story"
+ - "Our story"
 tags:
  - arthroscopy
  - Bristol

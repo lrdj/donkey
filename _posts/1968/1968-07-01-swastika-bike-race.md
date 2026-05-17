@@ -3,7 +3,7 @@ title: "Faces of anger?"
 image: images/angry-1968-Paris.jpg
 alt: "distant memory recreated (poorly) by Dalle2"
 categories:
- - "In our story"
+ - "Our story"
 author: dug
 ---
 

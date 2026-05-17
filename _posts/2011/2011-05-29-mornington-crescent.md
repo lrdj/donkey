@@ -2,7 +2,7 @@
 title: "Mornington Crescent"
 image: images/morningtoncrescent.jpg
 categories:
- - "In our story"
+ - "Our story"
 tags:
  - diary
  - family

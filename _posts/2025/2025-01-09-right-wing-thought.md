@@ -7,7 +7,7 @@ alt: >
    alt text
 
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 
 author: dug
 

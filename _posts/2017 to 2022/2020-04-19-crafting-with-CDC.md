@@ -4,7 +4,7 @@ image: images/cdc/facemask-instructions-sewn-05.png
 target: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html
 alt: "Home-made PPE in the kingdom of Midas..."
 categories:
- - "In our story"
+ - "Our story"
 tags: 
  - CDC
  - pictures

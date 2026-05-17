@@ -6,7 +6,7 @@ target: u-h8-myspac3-lolz
 alt: "Read the original post"
 
 categories:
- - "In our story"
+ - "Our story"
 
 tags: 
  - pictures

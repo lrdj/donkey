@@ -9,7 +9,7 @@ tags:
   - Childhood
 image: images/af-dug.jpg
 categories:
-  - "In our story"
+  - "Our story"
 author: dug
 ---
 Grandad Jed sent me a photocopy of an old Art Directors annual showing an award for a pro-bono TV ad Y&R did for the Alliance Francaise back in (I think) 1970.

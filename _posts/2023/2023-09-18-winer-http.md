@@ -3,7 +3,7 @@ title: "Looking after things we take for granted?"
 image: images/google-http-header.jpg
 alt: "developer.chrome.com/blog/referrer-policy-new-chrome-default/"
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 tags:
  - 5G
  - network

@@ -3,7 +3,7 @@ title: "Carney gets it right"
 image: images/carney-montreal.jpg
 alt: "Mark Carney accuses Liz Truss of delivering 'Argentina on the Channel' with her mini-budget last year"
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 tags:
  - brexit
  - neoliberalism

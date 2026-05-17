@@ -7,7 +7,7 @@ tags:
   - longboarding
   - skate
 categories:
-  - "In the joy of rediscovered longboarding"
+  - "The joy of rediscovered longboarding"
 author: dug
 ---
 This is so awesome. One of the things that drives me nuts at longboard shops is how hard it is to compare relative board lengths. The comparison is made trickier as it's not just the size of the deck it's also the wheelbase options (how far apart the axels are set).

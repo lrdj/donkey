@@ -3,7 +3,7 @@ title: "Loss of nationality"
 image: images/celine.jpg
 alt: "Lloyd, the bartender: One of the most memorable elements of the bar is the ghostly bartender, Lloyd. Always calm and collected, Lloyd serves Jack drinks and listens to his grievances. Lloyd's presence and the interaction Jack has with him emphasize Jack's descent into madness. The bar becomes a space where the boundaries between reality and supernatural blur for Jack."
 categories:
- - "In Memories"
+ - "Memories"
 author: dug
 ---
 

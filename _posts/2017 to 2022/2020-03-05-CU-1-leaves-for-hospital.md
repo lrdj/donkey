@@ -6,7 +6,7 @@ tags:
   - Doctors
   - Health
 categories:
-  - "In our story"
+  - "Our story"
 image: images/CU-1-hospital/CU-1-to-hospital.jpg
 ---
 

@@ -8,7 +8,7 @@ tags:
   - brakes
   - speed
 categories:
-  - "In the joy of rediscovered longboarding"
+  - "The joy of rediscovered longboarding"
 ---
 
 OK so it's embarrassing but I can't slide. I am learning but at my age and limited free time and other excuses it's taking a while...

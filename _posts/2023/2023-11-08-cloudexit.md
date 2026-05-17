@@ -7,7 +7,7 @@ alt: >
    About David Heinemeier Hansson: Made Basecamp and HEY for the underdogs as co-owner and CTO of 37signals. Created Ruby on Rails. Wrote REWORK, It Doesn't Have to Be Crazy at Work, and REMOTE. Won at Le Mans as a racing driver. Fought the big tech monopolies as an antitrust advocate. Invested in Danish startups.
 
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 author: dug
 tags: 
   - cloud

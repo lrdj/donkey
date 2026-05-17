@@ -3,7 +3,7 @@ title: "From the nation - fuck you"
 image: images/ten-minutes.jpg
 alt: ""
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 author: dug
 tags: 
   - covid

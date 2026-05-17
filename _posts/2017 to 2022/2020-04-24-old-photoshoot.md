@@ -5,7 +5,7 @@ target: https://www.youtube.com/user/LJPFILMS/videos
 alt: "Leslie's Youtube channel..."
 
 categories:
- - "In Dug's really old stuff"
+ - "Dug's really old stuff"
 
 tags:
  - pictures

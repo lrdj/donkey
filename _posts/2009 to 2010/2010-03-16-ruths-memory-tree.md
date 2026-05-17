@@ -7,7 +7,7 @@ alt: "Ruth's memory tree. The leaves on this tree are paper leaves attached with
 target: images/ruthmemorytree.png
 
 categories:
- - "In our story"
+ - "Our story"
 
 tags: 
   - diary

@@ -4,7 +4,7 @@ image: images/BM-report-B.png
 alt: "I may be experienced, but I learn something new pretty much every project I work on"
 
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 
 tags:
  - businessdesign

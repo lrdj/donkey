@@ -3,7 +3,7 @@ title: "My first job in digital."
 image: images/book/ski364_1.gif
 
 categories:
- - "In Dug's really old stuff"
+ - "Dug's really old stuff"
 
 tags: 
  - design

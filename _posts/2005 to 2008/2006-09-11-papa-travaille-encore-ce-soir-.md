@@ -3,7 +3,7 @@ title: "Bonne nuit CU-1, Papa travaille encore ce soir:-("
 image: images/makine.jpg
 alt: "La confiture Francaise"
 categories: 
- - "In our story"
+ - "Our story"
 author: dug
 ---
 

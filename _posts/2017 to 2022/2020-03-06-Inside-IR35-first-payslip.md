@@ -8,7 +8,7 @@ tags:
  - Umbrella
  - HMRC
 categories:
- - "In running a consulting business"
+ - "Running a consulting business"
 ---
 So have just received my first 'mock-paye' payslip (aka _inside-IR35_). My first question is down to the wording; what is an "applicable company deduction". I ask because I thought you were saying my company wasn't a proper company? Righto, need to get a bit more info on how this is supposed to work. 
 

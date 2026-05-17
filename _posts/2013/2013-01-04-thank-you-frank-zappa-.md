@@ -7,7 +7,7 @@ tags:
  - rights
 author: dug
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 ---
 
 Way ahead of his time...

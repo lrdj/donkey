@@ -4,7 +4,7 @@ image: images/true-or-false/measure-the-experience.png
 alt: "Helping unblock customer assumptions, one workshop at a time:-)"
 
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 
 tags:
  - customerexperience

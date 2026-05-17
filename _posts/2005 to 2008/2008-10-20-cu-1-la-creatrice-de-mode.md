@@ -2,7 +2,7 @@
 title: "CU-1 la creatrice de mode"
 image: images/pattern-hat.jpeg
 categories: 
- - "In our story"
+ - "Our story"
 tags: 
  - CU-1
  - fashion

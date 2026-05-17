@@ -3,7 +3,7 @@ title: "CU-1's shiny new Lamy ABC fountain pen"
 image: images/lamy.gif
 alt: "The Lamy ABC fountain pen"
 categories: 
- - "In our story"
+ - "Our story"
 tags: 
  - calligraphy
  - Family

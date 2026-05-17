@@ -3,7 +3,7 @@ title: "Stevie the wonderpup and her friends"
 image: images/steviegrid/stevie-grid-8.jpeg
 
 categories:
- - "In our story"
+ - "Our story"
 
 tags: 
  - dogs

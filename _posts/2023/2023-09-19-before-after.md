@@ -3,7 +3,7 @@ title: "Elon at work wasting human capital..."
 image: images/elon.jpg
 alt: "Elon Musk"
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 tags:
  - twiter
  - mastodon

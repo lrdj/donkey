@@ -3,7 +3,7 @@ title: "Assumptions in product design"
 image: images/BCN-LHR-EDI.jpeg
 alt: "The prodigal son returns..."
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 tags:
  - productdesign
  - assumptions

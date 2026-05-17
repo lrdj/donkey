@@ -3,7 +3,7 @@ title: "Kayaks and canoes"
 image: images/kayak-camping.jpg
 alt: "Our party camping just north of Rhu Point Beach -  Port Nam Murrach near Arisaig. Photo (c)fascinatinglight.com"
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 tags:
  - canoes
  - kayaks

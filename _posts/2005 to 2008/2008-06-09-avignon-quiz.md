@@ -3,7 +3,7 @@ title: "Avignon quiz"
 date: 2008-06-09 13:08:35
 image: images/green-tongue-thumb.jpg
 categories: 
- - "In our story"
+ - "Our story"
 tags: 
   - Billy
   - "pub quiz"

@@ -9,7 +9,7 @@ tags:
   - speed
 #  - sticky
 categories:
-  - "In the joy of rediscovered longboarding"
+  - "The joy of rediscovered longboarding"
 author: dug
 ---
 So I hacked a short video review of the Brakeboard truck and wheel kit (version 3.5) together last night. Quality's a bit rubbish but perfect being the enemy of done etc. so I've just uploaded it. Key product details from video are:

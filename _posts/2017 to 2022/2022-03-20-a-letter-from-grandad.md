@@ -4,7 +4,7 @@ image: images/eurostar-ukraine.jpg
 alt: "Jed draws refugees waiting on the Eurostar concourse"
 
 categories:
- - "In our story"
+ - "Our story"
 
 tags:
  - ukraine

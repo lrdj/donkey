@@ -8,7 +8,7 @@ tags:
  - Sharepoint
  - featured
 categories:
- - "In interesting old stuff"
+ - "Interesting old stuff"
 author: dug
 ---
 

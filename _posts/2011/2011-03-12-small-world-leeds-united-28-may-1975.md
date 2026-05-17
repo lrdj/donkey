@@ -9,7 +9,7 @@ tags:
  - Leeds
  - "Service Design"
 categories:
- - "In our story"
+ - "Our story"
 author: dug
 last_modified_at: 2020-04-11
 ---

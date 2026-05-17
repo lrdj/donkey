@@ -4,7 +4,7 @@ image: images/yukatan-sm.jpeg
 alt: "zoom in"
 target: /images/yukatan.jpeg
 categories:
- - "In Dug's really old stuff"
+ - "Dug's really old stuff"
 tags:
  - digital
  - photography

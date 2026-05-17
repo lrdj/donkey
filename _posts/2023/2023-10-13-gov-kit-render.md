@@ -3,7 +3,7 @@ title: "Push #govuk protokit to render.com"
 image: images/protokit.png
 alt: "V13 of the kit is an amazing thing to behold."
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 author: dug
 tags: 
   - govuk

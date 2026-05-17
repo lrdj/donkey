@@ -7,7 +7,7 @@ alt: >
    From "Interesting Snippets" by linetter on Flickr: This is my personal dumping ground for various cool quotes, the odd stat, as slides to talk around when describing how things are changing online
 
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 
 author: dug
 

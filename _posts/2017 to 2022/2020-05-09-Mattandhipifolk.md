@@ -4,8 +4,8 @@ image: images/mattjukes.jpg
 alt: "Matt Jukes on pi-shaped people"
 target: https://digitalbydefault.com/2020/02/12/multi-hyphenates/
 categories:
- - "In Dug's really old stuff"
- - "In how we got here"
+ - "Dug's really old stuff"
+ - "How we got here"
 tags:
  - digital
  - "pi-shaped"

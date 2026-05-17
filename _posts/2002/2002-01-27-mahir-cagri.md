@@ -5,7 +5,7 @@ last_modified_at: 2020-04-12
 image: images/mahir_homepage.jpg
 author: dug
 categories: 
- - "In the best of early internet memes"
+ - "The best of early internet memes"
 tags:
  - "Mahir Çağrı"
  - mahir

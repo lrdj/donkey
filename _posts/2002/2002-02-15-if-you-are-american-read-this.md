@@ -3,7 +3,7 @@ title: "If you are American read this"
 author: dug
 image: images/trump.jpg
 categories: 
- - "In things Dug cares about"
+ - "Things Dug cares about"
 tags: 
  - politics
  - USA

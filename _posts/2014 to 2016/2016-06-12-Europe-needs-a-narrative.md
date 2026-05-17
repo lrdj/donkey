@@ -11,7 +11,7 @@ tags:
   - remain
   - Izzard
 categories:
-  - "In things Dug cares about"
+  - "Things Dug cares about"
 ---
 
 So the way I've been writing in Jekyll means I name the post before writing. I titled this one _Europe needs a new narrative_ before Googling around and finding [this initiative](http://ec.europa.eu/culture/policy/new-narrative/index_en.htm). Looks like an interesting effort but can't say it made UK headlines back in 2013?

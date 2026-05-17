@@ -7,7 +7,7 @@ alt: >
    The Coalition for a Free South Africa planned the blockade for nearly two months. A week beforehand, seven leaders began a fast to demonstrate their commitment to the cause. When they met with Columbia administration a few days later to ask what they had to do to win the support of the trustees, the administration answered “keep on fasting.” Not only did the CFSA keep on fasting, they escalated their push.
 
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 
 author: dug
 

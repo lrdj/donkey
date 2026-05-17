@@ -15,7 +15,7 @@ bodygallery:
   - bland/bland-beach-7.jpeg:
   - bland/bland-beach-8.jpeg:
 categories:
-  - "In friends & family"
+  - "Friends & family"
 image: images/bland-fire.jpeg
 ---
 Mesothelioma is an evil fucking thing. It just cut a notch for Air Vice Marshall Rear Admiral Sir Michael Bland and leaves Charlotte, Natalie and Christine without father and husband:-(

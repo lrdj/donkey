@@ -8,7 +8,7 @@ tags:
  - typography
  - InternationalWomensDay2020
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 author: dug
 ---
 So have just noticed Chi Onwurah's [tweet about #InternationalWomensDay2020](https://twitter.com/ChiOnwurah/status/1236941661940391936) where she brings up the contributions of Ada Lovelace and Katherine Johnson and am struck by how empty the house is:-(

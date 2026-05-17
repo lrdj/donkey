@@ -3,7 +3,7 @@ title: "Help a mum and dad..."
 image: images/help-small-shop.jpg
 alt: "Old pic of a whiteboard in a small shop"
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 author: dug
 ---
 

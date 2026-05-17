@@ -11,7 +11,7 @@ tags:
   - EFF
   - featured
 categories:
-  - "In things Dug cares about"
+  - "Things Dug cares about"
 image: images/sonny-and-cher.jpg
 ---
 Checking your phone on Hogmanay eh? This piece from 2013 on the amen break just popped up in my twitter feed [via openculture.com](http://www.openculture.com/2013/03/the_amen_break_the_most_famous_6-second_drum_loop_how_it_spawned_a_sampling_revolution.html) and got me thinking of challenges ahead (I also love the fact that the talk is a disposable demo pressing itself which is kind of a circular thing etc.)

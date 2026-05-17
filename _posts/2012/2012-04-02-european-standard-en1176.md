@@ -10,7 +10,7 @@ tags:
   - HEF
 author: dug
 categories:
- - "In our story"
+ - "Our story"
 ---
 
 "Look at me Dad, I can run up the slide". Well done, CU-2! nice moves:-) I can't remember the last time I was in a park with the kids. Mostly it seems we're dropping off or picking up from viola practice or Enjoyaball, it's so rare to just be killing time, goofing around on the zip-wire, climbing the tension frame...

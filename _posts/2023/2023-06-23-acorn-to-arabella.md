@@ -3,7 +3,7 @@ title: "Building a boat from tree felling to launch in 7 years"
 image: images/acorn-screenshot.jpg
 alt: "A screen-grab of Arabella's home page - acorntoarabella.com"
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 tags:
  - boats
  - design

@@ -5,7 +5,7 @@ tags:
  - family
  - featured
 categories:
- - "In our story"
+ - "Our story"
 author: dug
 ---
 

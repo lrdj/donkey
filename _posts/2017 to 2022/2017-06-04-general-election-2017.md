@@ -6,7 +6,7 @@ tags:
   - election
   - politics
 categories:
-  - "In things Dug cares about"
+  - "Things Dug cares about"
 image: images/bbc-elec-logo.jpg
 ---
 OK Kids, the election is this Thursday. Your dad has been discussing the issues on Twitter but he's found that some things are hard to explain in 140 characters. So here in long-form are some things your dad believes to be true.

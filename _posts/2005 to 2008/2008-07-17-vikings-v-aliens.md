@@ -2,7 +2,7 @@
 title: "Vikings v. Aliens"
 image: images/dirk-viking.jpg
 categories: 
- - "In our story"
+ - "Our story"
 tags:
  - CU-2
  - Halfdan

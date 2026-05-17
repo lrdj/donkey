@@ -2,7 +2,7 @@
 title: "Boxing Day mayhem"
 date: 2006-12-26 22:24:48
 categories:
-  - "In friends & family"
+  - "Friends & family"
 image: images/bland-fire.jpeg
 tags: 
  - "Boxing day"

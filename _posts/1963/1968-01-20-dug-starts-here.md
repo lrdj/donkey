@@ -9,7 +9,7 @@ tags:
  - MLK
  - Vietnam
 categories:
- - "In our story"
+ - "Our story"
 author: dug
 ---
 

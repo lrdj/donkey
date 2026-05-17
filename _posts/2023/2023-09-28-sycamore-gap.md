@@ -3,7 +3,7 @@ title: "Tears for Northumberland:-("
 image: images/sycamore-gap.jpg
 alt: "The Guardian's coverage of the tree felling"
 categories:
- - "In Things Dug Cares About"
+ - "Things Dug cares about"
 author: dug
 ---
 

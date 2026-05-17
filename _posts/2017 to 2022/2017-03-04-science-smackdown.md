@@ -4,7 +4,7 @@ image: images/science.jpg
 alt: "Science teacher 1 Bigot 0"
 
 categories: 
-  - "In things Dug cares about"
+  - "Things Dug cares about"
 tags:
   - bigotry
   - science

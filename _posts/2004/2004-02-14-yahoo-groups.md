@@ -8,8 +8,8 @@ tags:
  - email
  - yahoo
 categories:
- - "In things Dug cares about"
- - "In Dug's really old stuff"
+ - "Things Dug cares about"
+ - "Dug's really old stuff"
 author: dug
 ---
 

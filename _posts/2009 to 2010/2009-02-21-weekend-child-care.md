@@ -7,7 +7,7 @@ tags:
  - facepainting
  - family
 categories:
- - "In our story"
+ - "Our story"
 author: dug
 ---
 

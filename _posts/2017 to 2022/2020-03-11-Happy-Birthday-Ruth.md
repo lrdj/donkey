@@ -1,7 +1,7 @@
 ---
 title: "Happy birthday Mum"
 categories:
- - "In our story"
+ - "Our story"
 image: images/CU-1-ruth-giggle.jpg
 author: dug
 ---

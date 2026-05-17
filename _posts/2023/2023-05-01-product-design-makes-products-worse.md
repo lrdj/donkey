@@ -3,7 +3,7 @@ title: "Have products gotten worse during the decade of the Product Designer?"
 image: images/Marianna-Brandt.jpg
 alt: "Tea pot by Marianna Brandt. The Bauhaus school brought deicsions around product choices into a space that queried multiple sources, business, art, materials, mathematics etc. It was the start of a good thing and I'd like to try and get back to some of those positives"
 categories:
- - "In things Dug cares about"
+ - "Things Dug cares about"
 tags:
  - design
  - servicedesign
