@@ -2,7 +2,7 @@
 author: dug
 title: "Things you don't remember from childhood"
 categories:
- - "Childhood memories"
+ - "Family"
 ---
 
 Nicki and I had dinner with Billy and Ohna last weekend. We got talking after dinner about stuff that happened years ago when we were kids growing up in France. There's been quite a lot of talk about childhood recently what with the baby on the way...

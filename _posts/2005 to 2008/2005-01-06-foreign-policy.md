@@ -7,7 +7,7 @@ description: "Fantastic -- -)&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-category: "Picture stuff"
+category: "Pictures"
 
 author: dug
 ---

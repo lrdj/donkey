@@ -7,7 +7,7 @@ description: " Well, merry Christmas all. The water was extremely cold today but
 
 image: images/defaultThumbnail.png
 alt: ""
-category: "Memory"
+category: "Family"
 tags: budleigh salterton, Christmas2008, swim
 author: dug
 ---

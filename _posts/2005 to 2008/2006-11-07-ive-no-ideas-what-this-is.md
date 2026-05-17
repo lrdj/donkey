@@ -7,7 +7,7 @@ description: " But the photo is geotagged so if you follow the map to the store 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: "Flickr"
+category: "Pictures"
 tags: acupuncture, alternative therapies, chinese medicine, flickr, geolocation, geotagging, photography
 author: dug
 ---

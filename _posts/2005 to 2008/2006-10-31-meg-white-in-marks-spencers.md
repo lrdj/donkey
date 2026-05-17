@@ -7,7 +7,7 @@ description: " I&#8217;ve walked past this mannequin (is that the word?) for a w
 
 image: images/defaultThumbnail.png
 alt: ""
-category: "Picture stuff"
+category: "Pictures"
 tags: manequins, meg, meg white, white stripes
 author: dug
 ---

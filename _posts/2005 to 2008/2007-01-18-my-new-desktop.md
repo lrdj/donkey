@@ -7,7 +7,7 @@ description: " Total fabulousness, now that&#8217;s what I call a desktop. (get 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: "Picture stuff"
+category: "Pictures"
 tags: bigbrother, cbb, shilpashetty
 author: dug
 ---
