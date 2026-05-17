@@ -14,7 +14,7 @@ author: dug
 
 Ok, does meme have two ems? (as in memme, not mememe) - not sure about that one. Just came a cross one of them in the making (well ok, not a meme exactly). Perhaps a new form of haiku. Apple have started shipping ipods (<a target="sausages" href="http://www.apple.com/ipod/">www.apple.com/ipod/</a>) with laser engraving and the Apple online store has a facility for testing your engraving.
 
-My guess is that people will start sharing these silly thumbnails (see my humble <a target="sausages" href="/i/opium.gif">first attempt</a>) online, subverting the intent of the manufacturer.
+My guess is that people will start sharing these silly thumbnails (see my humble <a target="sausages" href="/images/opium.gif">first attempt</a>) online, subverting the intent of the manufacturer.
 
 Not sure if this is pitiful geeky stuff or very cool... I guess if it were performed by the same people that painted their powerbook g3s electric blue, or if some manga-obsessed Japanese customer will do something interesting in Kanji I could be impressed ;-)
 
