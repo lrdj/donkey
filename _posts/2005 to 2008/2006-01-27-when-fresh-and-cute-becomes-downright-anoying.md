@@ -7,7 +7,7 @@ description: " When your javascript goes wrong it just makes you look sad. I swe
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

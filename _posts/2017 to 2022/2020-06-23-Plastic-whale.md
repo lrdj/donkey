@@ -7,7 +7,7 @@ tags:
  - capitalism
  - circulareconomy
  - customerexperience
-category: "In Things Dug Cares About"
+category: "Things Dug cares about"
 author: dug
 ---
 

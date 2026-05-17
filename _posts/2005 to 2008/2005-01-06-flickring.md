@@ -7,7 +7,7 @@ description: "Have been playing with Flickr and it&#8217;s bloody brilliant  -- 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Picture stuff
+category: "Picture stuff"
 author: dug
 ---
 

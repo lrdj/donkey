@@ -7,7 +7,6 @@ description: "Disclamer --  We&#8217;ve had a bit of an ongoing debate on this o
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: movable type, movabletype, mt, mt4, mtengine, wordpress
 author: dug
 ---

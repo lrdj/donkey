@@ -7,7 +7,7 @@ description: "Just a quick post to apologise for all the portfolio stuff going t
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

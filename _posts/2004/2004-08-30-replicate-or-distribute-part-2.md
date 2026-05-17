@@ -7,7 +7,7 @@ description: "Bonusprint, the UK&#8217;s leading mail order photo processor, wil
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "I&#8217;m repeatedly amazed at how Google maps manages to generate
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: gmaps, google, maps, petersprojection
 author: dug
 ---

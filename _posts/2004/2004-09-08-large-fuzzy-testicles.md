@@ -7,7 +7,7 @@ description: "Could a Japanese speaker please let me know what this is all about
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

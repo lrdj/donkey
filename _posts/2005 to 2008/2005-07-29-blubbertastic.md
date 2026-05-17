@@ -7,7 +7,7 @@ description: "Sitting here chopping some complex css and Eminem&#8217;s Mockingb
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

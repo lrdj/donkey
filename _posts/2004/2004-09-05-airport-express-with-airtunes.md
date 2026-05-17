@@ -7,7 +7,7 @@ description: "So last night I was in my bath listening to a scratchy 78 of a blu
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

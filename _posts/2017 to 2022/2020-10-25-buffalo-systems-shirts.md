@@ -8,7 +8,7 @@ tags:
  - layering
  - paddling
  - canoe
-category: "In things Dug cares about"
+category: "Things Dug cares about"
 author: dug
 ---
 > Special 6 Shirt

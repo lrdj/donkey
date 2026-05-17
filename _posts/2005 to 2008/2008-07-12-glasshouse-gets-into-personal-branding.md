@@ -7,7 +7,7 @@ description: "I&#8217;ve been trying to get Nick interested in personal branding
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 tags: nicki, personalbranding, wine
 author: dug
 ---

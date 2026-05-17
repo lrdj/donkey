@@ -8,7 +8,7 @@ tags:
  - vision
  - scope
  - "Service Design"
-category: "In things Dug cares about"
+category: "Things Dug cares about"
 author: dug
 ---
 > It's only when you get the whole picture, 

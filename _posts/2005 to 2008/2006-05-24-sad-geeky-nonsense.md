@@ -7,7 +7,7 @@ description: "Just got this from the Movable Type developer list Coming soon -- 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

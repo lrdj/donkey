@@ -7,7 +7,7 @@ description: "Jed sent me this drawing a while back. Just came across it again a
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

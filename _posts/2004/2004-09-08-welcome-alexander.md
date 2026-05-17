@@ -7,7 +7,7 @@ description: "A post about Melina&#8217;s baby Alexander, except that the only v
 
 image: images/Turnham_Green.jpg
 alt: "CU-1 with some guy with brown teeth"
-category: Techno-bollocks
+category: "Techno-bollocks"
 author: dug
 ---
 

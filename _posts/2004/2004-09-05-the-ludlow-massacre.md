@@ -7,7 +7,7 @@ description: "Well, not knowing who that bluegrassy artist was made me want to l
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

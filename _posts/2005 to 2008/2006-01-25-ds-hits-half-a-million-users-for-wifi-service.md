@@ -7,7 +7,7 @@ description: "Nintendo Breaches the 3-million connections and 500,000-user mark!
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Been listening to a lot of Tiga recently. Following a link got me 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

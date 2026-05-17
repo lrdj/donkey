@@ -7,7 +7,7 @@ description: "Well, had to get CU-1 to school this morning so I missed the first
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: FOWA, FOWALondon07, khoivinh, newyorktimes
 author: dug
 ---

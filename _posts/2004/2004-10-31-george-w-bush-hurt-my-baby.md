@@ -7,7 +7,7 @@ description: "So CU-1 was wearing her mommy wants a new president teeshirt today
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

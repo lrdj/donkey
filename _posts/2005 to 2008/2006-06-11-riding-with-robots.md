@@ -7,7 +7,7 @@ description: "Browsing the Apple website in search of support details and came a
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Picture stuff
+category: "Picture stuff"
 
 author: dug
 ---

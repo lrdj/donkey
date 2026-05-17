@@ -7,7 +7,7 @@ description: "For a theoretically unemployed person, I seem to be very very busy
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "I love this use of as big as a house on this Italian forum iMovie 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

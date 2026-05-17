@@ -7,7 +7,7 @@ description: "Wey hey! Nicki has scored our little familly an all-expenses-paid 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 author: dug
 ---
 

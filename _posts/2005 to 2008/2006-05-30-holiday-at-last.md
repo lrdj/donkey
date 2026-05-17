@@ -7,7 +7,7 @@ description: "Mucking about in the Pyrenees. On holiday and offline (largely). B
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

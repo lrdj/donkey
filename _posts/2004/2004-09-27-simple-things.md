@@ -7,7 +7,7 @@ description: " I love this calendar Nicki brought back from Cuba. 2 cubes = 6 &#
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

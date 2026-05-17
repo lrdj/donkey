@@ -7,7 +7,7 @@ description: "Damn, this thing went from Mena&#8217;s intermediate template to t
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

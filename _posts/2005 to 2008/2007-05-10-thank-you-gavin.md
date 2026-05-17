@@ -7,7 +7,7 @@ description: " I just wanted to say thanks to Gavin at Mac Upgrades for a really
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: breakfast, friendly, helpful, mac, service
 author: dug
 ---

@@ -7,7 +7,7 @@ description: " Demo KABLOG photo / moblogging software for Nokia / Series 60 pho
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

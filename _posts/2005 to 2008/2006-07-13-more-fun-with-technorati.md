@@ -7,7 +7,7 @@ description: "I can&#8217;t believe I&#8217;m the only blogger who uses the cate
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Just came across a fabulous post by Joel Spolsky from back in 2001
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

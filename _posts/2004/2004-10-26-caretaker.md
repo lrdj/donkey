@@ -7,7 +7,7 @@ description: "This will have no meaning to most people, but if Bill Bissell read
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

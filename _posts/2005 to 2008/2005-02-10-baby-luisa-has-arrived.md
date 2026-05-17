@@ -7,7 +7,7 @@ description: " The latest from Andy and Michaela  -- -) Dear All. sorry for taki
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

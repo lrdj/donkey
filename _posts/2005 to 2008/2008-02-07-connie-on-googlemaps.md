@@ -7,7 +7,7 @@ description: " From Wikipedia&#8217;s entry on the Lockheed Constellation --  On
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: connie, L-1049G Super Constellation
 author: dug
 ---

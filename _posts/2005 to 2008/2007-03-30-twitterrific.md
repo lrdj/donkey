@@ -7,7 +7,6 @@ description: "OK, have just downloaded Twitterrific and it is good -- -)&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: ambientintimacy, Twitter, Twitterrific
 author: dug
 ---

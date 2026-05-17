@@ -7,7 +7,7 @@ description: " This time it&#8217;s Google calendar. Cross your fingers and try 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: calendar, google, problems, unavailable
 author: dug
 ---

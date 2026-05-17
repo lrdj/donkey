@@ -7,7 +7,7 @@ description: "OK, so this post is going up courtesy of a fresh instal of MT3.1 S
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

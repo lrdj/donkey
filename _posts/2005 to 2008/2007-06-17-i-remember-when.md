@@ -7,7 +7,7 @@ description: "Parmi les Sept Merveilles du monde figurent les jardins suspendus 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

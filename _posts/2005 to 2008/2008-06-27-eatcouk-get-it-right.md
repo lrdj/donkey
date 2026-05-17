@@ -7,7 +7,6 @@ description: " Wow, when was the last time you thought you&#8217;d get a respons
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: card, customer service, eat, feedback, fraud, identity theft, value
 author: dug
 ---

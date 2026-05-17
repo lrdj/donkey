@@ -7,7 +7,7 @@ description: " Spent the whole day at IKEA (both Wembley and Edmonton) not buyin
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

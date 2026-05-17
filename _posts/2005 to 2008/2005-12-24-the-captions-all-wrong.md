@@ -7,7 +7,7 @@ description: "Still, does Apoa know she&#8217;s got a portrait in the V&amp;A? V
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

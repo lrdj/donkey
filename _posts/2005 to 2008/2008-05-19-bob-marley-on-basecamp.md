@@ -7,7 +7,7 @@ description: ""
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Picture stuff
+category: "Picture stuff"
 
 author: dug
 ---

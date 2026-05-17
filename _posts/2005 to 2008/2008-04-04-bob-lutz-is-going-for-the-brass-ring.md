@@ -7,7 +7,6 @@ description: "Wow, you know, I don&#8217;t normally read Bob Lutz&#8217;s stuff 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: Bob Lutz, ev, GM, Tesla, Tesla Motors, Volt
 author: dug
 ---

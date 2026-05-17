@@ -7,7 +7,7 @@ description: " Stanley Kubrik&#8217;s Napoleon (pdf file) The first Creative Com
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Shut up and let the guy answer the question&#8230;"
 image: images/defaultThumbnail.png
-category: 
 tags: 
  - blog
  - influencemonitoring

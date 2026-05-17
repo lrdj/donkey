@@ -7,7 +7,7 @@ description: "Jason D. O&#8217;Grady is blogging the conference in real time. Th
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: apple, iPhone, MSWF07
 author: dug
 ---

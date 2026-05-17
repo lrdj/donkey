@@ -6,7 +6,7 @@ tags:
  - Steve
  - Family
  - "slo-mo"
-category: "In our story"
+category: "Our story"
 author: dug
 ---
 

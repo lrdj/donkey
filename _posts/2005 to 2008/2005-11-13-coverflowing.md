@@ -7,7 +7,6 @@ description: " Can I just add that I&#8217;m not a big playlist composer and ten
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 
 author: dug
 ---

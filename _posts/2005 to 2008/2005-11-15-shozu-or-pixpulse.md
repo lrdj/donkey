@@ -7,7 +7,7 @@ description: "There&#8217;s an interesting conversation going on between David X
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

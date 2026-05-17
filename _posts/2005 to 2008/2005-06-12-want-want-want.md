@@ -7,7 +7,7 @@ description: "Embedded in the back of the bag are three lightweight, tough, wate
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

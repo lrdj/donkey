@@ -7,7 +7,7 @@ description: "There has been a real grassroots effort by the parents of kids at 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "You may remember, a wee while ago I did the CSS implementation of 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

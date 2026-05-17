@@ -7,7 +7,7 @@ description: "Tom writes Trackback is dead. Are Comments dead too? I&#8217;m not
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

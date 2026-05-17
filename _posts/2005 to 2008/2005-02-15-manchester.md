@@ -7,7 +7,7 @@ description: "We did a day trip to Manchester this Saturday to pick the little g
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

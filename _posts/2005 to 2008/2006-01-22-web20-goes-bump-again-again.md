@@ -7,7 +7,7 @@ description: " Sunday night and Flickr is displaying the above&#8230; I&#8217;ll
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

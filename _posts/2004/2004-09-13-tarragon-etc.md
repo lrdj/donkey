@@ -7,7 +7,7 @@ description: "Given that I have no prior knowledge of gardening beyond the long 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

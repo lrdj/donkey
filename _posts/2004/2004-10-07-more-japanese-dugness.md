@@ -7,7 +7,7 @@ description: "OK, I&#8217;d really like to know what&#8217;s going on here&#8230
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

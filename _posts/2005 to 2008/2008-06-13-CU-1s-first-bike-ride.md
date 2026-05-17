@@ -7,7 +7,7 @@ description: " Well, actually her first go on the GS was a couple of years ago i
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 tags: CU-1, CU-1
 author: dug
 ---

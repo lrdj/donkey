@@ -7,7 +7,7 @@ description: " My Japanese is a little rusty, but I know what &#8220;802.11&#822
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

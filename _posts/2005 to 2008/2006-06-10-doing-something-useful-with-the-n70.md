@@ -7,7 +7,7 @@ description: "Just uploading the sys file to my N70&#8230; alebic.net � flash,
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

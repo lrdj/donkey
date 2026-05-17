@@ -7,7 +7,6 @@ description: " 9 minutes and 22 seconds to rebuild Donkey. That feels pretty slo
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: mt, mt4, mtengine, Six Apart
 author: dug
 ---

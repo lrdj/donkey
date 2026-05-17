@@ -7,7 +7,6 @@ description: " I was gonna get this sexy-looking piece of kit but darn, look at 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 
 author: dug
 ---

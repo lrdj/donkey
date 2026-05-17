@@ -7,7 +7,7 @@ description: "Very cool toy by a man called Jim. Colorfields lets you view rando
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

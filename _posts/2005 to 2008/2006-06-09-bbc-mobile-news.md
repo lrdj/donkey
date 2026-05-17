@@ -7,7 +7,7 @@ description: "Been playing with the Flash client for BBC News. It&#8217;s anothe
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

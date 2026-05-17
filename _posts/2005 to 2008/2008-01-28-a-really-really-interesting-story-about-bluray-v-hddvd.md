@@ -7,7 +7,7 @@ description: "Woolworths stores to stop selling HD DVD | Reg Hardware Gosh, I kn
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: technopants, whatever
 author: dug
 ---

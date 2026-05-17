@@ -7,7 +7,7 @@ description: "CU-1 walked up to me this lunchtime and asked --  So big boy, are 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

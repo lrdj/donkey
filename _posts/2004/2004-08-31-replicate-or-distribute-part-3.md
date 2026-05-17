@@ -7,7 +7,7 @@ description: " Never before in the history of trivial snapshot production has th
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

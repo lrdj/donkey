@@ -7,7 +7,7 @@ description: "Well, I didn&#8217;t have the camera with me but this morning we p
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 tags: bicycle, bike, CU-1, CU-1, CU-1
 author: dug
 ---

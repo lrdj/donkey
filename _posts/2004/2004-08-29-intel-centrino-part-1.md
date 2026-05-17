@@ -7,7 +7,7 @@ description: "A search on Jiwire for Teatro Greco, Taormina, Italy reveals that 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

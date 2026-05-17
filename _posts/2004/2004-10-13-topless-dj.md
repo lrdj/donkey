@@ -7,7 +7,7 @@ description: "You know, there&#8217;s nothing I hate more than spam. So I really
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

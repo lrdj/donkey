@@ -7,7 +7,7 @@ description: "Turns out Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

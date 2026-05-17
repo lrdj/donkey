@@ -7,7 +7,7 @@ description: "This piece over at Digital Dad™ made me chuckle. CU-1 isn&#8217;
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

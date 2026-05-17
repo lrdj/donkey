@@ -7,7 +7,7 @@ description: "I got this note at work this morning. This is crazy as it&#8217;s 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

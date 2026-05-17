@@ -7,7 +7,6 @@ description: "The DVD format is a fiasco born out of a desire to control the way
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: 802.11x, broadband, cooperation, networks, unique value, value, wi-fi, wifi
 author: dug
 ---

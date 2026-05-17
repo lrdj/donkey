@@ -7,7 +7,7 @@ description: "I take 100 daft pictures a day with the N70 and ain&#8217;t it jus
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Just came across this and I can sooo empathise. I remember being u
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

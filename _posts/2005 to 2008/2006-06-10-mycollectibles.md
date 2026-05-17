@@ -7,7 +7,7 @@ description: "eBay and Kaboodle Partner on MyCollectibles - Mashable*&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: " 07 -- 30 good catch-up meeting with Agathe near République 11 --
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Memory
+category: "Memory"
 tags: cfdt, cgt, paris, ratp, sncf, strike
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "sorry ass excuse for middleware&#8230;&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

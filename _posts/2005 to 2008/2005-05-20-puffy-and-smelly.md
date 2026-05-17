@@ -7,7 +7,7 @@ description: "So I&#8217;m sitting here at my desk, it&#8217;s 5am and I&#8217;m
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 author: dug
 ---
 

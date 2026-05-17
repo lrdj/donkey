@@ -7,7 +7,7 @@ description: "Well, I&#8217;ve got to do some work so am listening but not takin
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: FOWA, FOWALondon07
 author: dug
 ---

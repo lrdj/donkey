@@ -7,7 +7,7 @@ description: "I drop into AJ&#8217;s english-language website once or twice a we
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

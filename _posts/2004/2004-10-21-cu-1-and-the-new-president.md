@@ -7,7 +7,7 @@ description: "Well, the shirts finally arrived -- -) CU-1 just left for school h
 
 image: images/CU-1_new_pres.jpg
 alt: "Mommy wants a new president"
-category: Family
+category: "Family"
 author: dug
 ---
 

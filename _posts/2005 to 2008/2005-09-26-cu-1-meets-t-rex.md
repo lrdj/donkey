@@ -7,7 +7,7 @@ description: " CU-1 had a great afternoon today. She was totally terrified by th
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "ME --  Thanks, this looks good. Could you please send your spreads
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

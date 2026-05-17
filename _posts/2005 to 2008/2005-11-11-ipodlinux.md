@@ -7,7 +7,7 @@ description: "Linux for your iPod And there&#8217;s a Doom port as well  -- -)&#
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Just wanted to register my surprise at the poor quality of BTOpenz
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

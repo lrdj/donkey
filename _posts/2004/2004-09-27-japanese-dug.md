@@ -7,7 +7,7 @@ description: "Modern Jazz and Booze&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

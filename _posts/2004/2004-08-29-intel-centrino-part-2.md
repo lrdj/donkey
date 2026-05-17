@@ -7,7 +7,7 @@ description: "The manager in Taormina replies --  From --  reservation.tim@framo
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

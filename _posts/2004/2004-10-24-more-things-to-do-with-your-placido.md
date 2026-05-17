@@ -7,7 +7,7 @@ description: "As the election looms, thoughts turn to another Republican congres
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

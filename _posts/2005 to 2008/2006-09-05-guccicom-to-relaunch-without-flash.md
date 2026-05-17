@@ -7,7 +7,7 @@ description: "Adverblog --  Gucci, welcome to Web 2.0 (wow, after years of argui
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

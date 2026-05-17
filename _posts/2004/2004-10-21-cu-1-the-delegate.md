@@ -7,7 +7,7 @@ description: "OK, wee un is now officially contributing to the Kerry cause. And 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

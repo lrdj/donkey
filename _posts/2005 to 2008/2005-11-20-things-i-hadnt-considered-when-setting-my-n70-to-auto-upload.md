@@ -7,7 +7,7 @@ description: "I&#8217;ve been using ShoZu to seamlessly upload my N70 pics to Fl
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

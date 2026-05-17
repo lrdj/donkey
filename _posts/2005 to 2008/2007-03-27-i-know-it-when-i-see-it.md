@@ -7,7 +7,7 @@ description: "Just re-read that last post. What a load of pants, let me try agai
 
 image: images/defaultThumbnail.png
 alt: ""
-category: flickr
+category: "Flickr"
 tags: censorship, flickr, flickryahoo, legislation, supremecourt
 author: dug
 ---

@@ -7,7 +7,7 @@ description: " Little CU-1 was playing at her friend Sophia&#8217;s house yester
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

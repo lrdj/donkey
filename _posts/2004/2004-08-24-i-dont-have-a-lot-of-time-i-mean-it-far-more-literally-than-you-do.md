@@ -6,7 +6,7 @@ date: 2004-08-24 19:00:59
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Linkage
+category: "Linkage"
 author: dug
 ---
 > THE STORY -- It seemed like a good time to start something new. 

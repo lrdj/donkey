@@ -7,7 +7,7 @@ description: "Having the stereo in my flat hooked up with AirTunes is beginning 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

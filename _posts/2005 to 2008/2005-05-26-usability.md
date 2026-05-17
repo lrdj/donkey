@@ -7,7 +7,7 @@ description: "I&#8217;m on a couple of usability lists and one of them sparked a
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

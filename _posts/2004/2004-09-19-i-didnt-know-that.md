@@ -7,7 +7,7 @@ description: "The expression &#8216;hoist on his own petard&#8217; comes from th
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

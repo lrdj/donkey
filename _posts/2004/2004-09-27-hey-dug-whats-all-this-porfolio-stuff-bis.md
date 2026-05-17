@@ -7,7 +7,7 @@ description: "But on a more personal, Donkey-esque note, one side-effect of traw
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

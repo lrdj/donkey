@@ -11,7 +11,7 @@ tags:
  - customerexperience
  - "hey.com"
  - "Jason Fried"
-category: "In Things Dug Cares About"
+category: "Things Dug cares about"
 author: dug
 ---
 

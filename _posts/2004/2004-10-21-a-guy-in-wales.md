@@ -7,7 +7,7 @@ description: "I know I&#8217;ve been a bit of a wreck these past couple of days,
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

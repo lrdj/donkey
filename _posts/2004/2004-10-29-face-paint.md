@@ -7,7 +7,7 @@ description: "I figured if I let CU-1 paint my face as I painted hers, I would b
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

@@ -7,7 +7,6 @@ description: "With all those &#8220;experiences of one&#8221; going on out there
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 
 author: dug
 ---

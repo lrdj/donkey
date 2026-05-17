@@ -7,7 +7,6 @@ description: "Get ready for a crackdown on broadband use Man, this pisses me off
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: broadband, connectivity, isp
 author: dug
 ---

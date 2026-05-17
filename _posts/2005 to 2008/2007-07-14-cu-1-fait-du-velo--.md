@@ -2,7 +2,7 @@
 layout: post
 title: "CU-1 fait du vélo"
 date: 2007-07-14 23:53:29
-category: Family
+category: "Family"
 tags: bike, CU-1, CU-1
 categories:
  - "Parce que Papa est Francais dans sa tête"

@@ -7,7 +7,7 @@ description: "From georgetown.edu Afrikaans hie-h&ocirc; Albanian i-a i-a Arabic
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

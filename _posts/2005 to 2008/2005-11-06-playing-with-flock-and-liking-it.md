@@ -7,7 +7,7 @@ description: "Blog This!You can easily blog interesting web content with Flock, 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

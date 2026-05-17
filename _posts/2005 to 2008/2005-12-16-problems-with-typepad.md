@@ -7,7 +7,7 @@ description: " I just tried to comment on a blog whose author is taking part in 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

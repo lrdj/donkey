@@ -7,7 +7,7 @@ description: " Apple says get a Mac So you know, I replaced my lovely 12&#8221; 
 
 image: images/another_hotel_room.jpg
 alt: "Another hotel room"
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: 12, Apple, Macbook Air, Steve jobs
 author: dug
 ---

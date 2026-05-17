@@ -7,7 +7,7 @@ description: "If Nokia were running the US Federal Emergency Management Agency, 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: apple, competition, iphone, logistics, N95, nokia, pparry
 author: dug
 ---

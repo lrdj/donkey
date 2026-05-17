@@ -7,7 +7,7 @@ description: "So it looks like Movable Type 3.3 is going to have some advanced e
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

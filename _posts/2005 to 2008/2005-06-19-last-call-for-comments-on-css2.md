@@ -7,7 +7,7 @@ description: "Attention all CSS boffins, you have until 15 July to post comments
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

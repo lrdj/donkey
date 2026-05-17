@@ -7,7 +7,7 @@ description: "Sitting in the car outside my flat typing this. Thank you open 802
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

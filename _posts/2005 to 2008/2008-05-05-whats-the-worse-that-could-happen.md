@@ -7,7 +7,6 @@ description: "This just in from Billy --  Finally, Kiloh discovered that Boris&#
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: billy, boris, ken, london, mayor, strange
 author: dug
 ---

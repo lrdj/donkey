@@ -7,7 +7,7 @@ description: "Apparently there is an acknowledged syndrome called PEAD&#8212;pre
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

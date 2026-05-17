@@ -7,7 +7,7 @@ description: "There seems to be a spate of online services going awry. Last week
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

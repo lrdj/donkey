@@ -7,7 +7,6 @@ description: "Well, Russell&#8217;s just been hit by his first evil little troll
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: edgedujour, evil, little, troll
 author: dug
 ---

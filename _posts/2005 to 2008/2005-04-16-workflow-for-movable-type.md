@@ -7,7 +7,7 @@ description: "If you can get past the mind-bending idea of plugins having their 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

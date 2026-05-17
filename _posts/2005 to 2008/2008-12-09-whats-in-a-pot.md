@@ -7,7 +7,7 @@ description: "Darn, I&#8217;ve just this second dropped the last of my beautiful
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Memory
+category: "Memory"
 tags: banania, coffee
 author: dug
 ---

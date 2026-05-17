@@ -7,7 +7,7 @@ description: "Flickr is currently displaying the following header message on all
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

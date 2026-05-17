@@ -7,7 +7,6 @@ description: "Just got this from Flickr&#8230; You may have heard on the grapevi
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 
 author: dug
 ---

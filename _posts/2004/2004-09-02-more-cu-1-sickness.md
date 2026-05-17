@@ -7,7 +7,7 @@ description: "Having a 13.4 kilo little girl sound asleep on your left shoulder 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

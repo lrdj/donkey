@@ -3,7 +3,7 @@ layout: post
 title: "Knee arthroscopy part deux"
 date: 2008-03-07 16:40:14
 image: images/knee.jpg
-category: "In our story"
+category: "Our story"
 tags: 
  - arthroscopy
  - Bristol

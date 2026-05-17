@@ -7,7 +7,7 @@ description: "In days of yore, before Donkey was published using movabletype, I 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

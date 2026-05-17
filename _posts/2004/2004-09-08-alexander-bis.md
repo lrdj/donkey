@@ -7,7 +7,7 @@ description: "Alexander, Michael, George, Goodbody Born on 27th July 2004 Weighi
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

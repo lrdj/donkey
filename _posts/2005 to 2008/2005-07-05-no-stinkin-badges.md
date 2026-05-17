@@ -7,7 +7,7 @@ description: "At last, I&#8217;ve been promoted to &#8220;official photographer&
 
 image: images/defaultThumbnail.png
 alt: ""
-category: flickr
+category: "Flickr"
 
 author: dug
 ---

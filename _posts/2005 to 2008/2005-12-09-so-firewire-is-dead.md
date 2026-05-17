@@ -7,7 +7,7 @@ description: "So apparently, FireWire is on life support&#8212;Jason O&#8217;Gra
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

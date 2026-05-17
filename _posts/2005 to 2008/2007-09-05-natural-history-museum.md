@@ -7,7 +7,6 @@ description: " I love this photograph for the Natural History Museum kids only s
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: advertising, naturalhistorymuseum, nhm, photography
 author: dug
 ---

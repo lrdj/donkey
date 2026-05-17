@@ -7,7 +7,7 @@ description: " Well, those boffins over at Carnegie Mellon University are workin
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

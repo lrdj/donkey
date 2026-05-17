@@ -7,7 +7,7 @@ description: " Mark has new toy  -- -) Technotag --  facewarp k800i&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

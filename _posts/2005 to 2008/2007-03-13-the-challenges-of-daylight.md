@@ -7,7 +7,7 @@ description: "So doesn&#8217;t anybody else think this daylight savings time (DS
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: antichrist, daylightsavingstime, dst, incompetence, nonsense
 author: dug
 ---

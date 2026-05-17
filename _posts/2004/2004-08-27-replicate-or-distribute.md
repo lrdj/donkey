@@ -7,7 +7,7 @@ description: " I&#8217;m just about to join a trial with a company called Cognim
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

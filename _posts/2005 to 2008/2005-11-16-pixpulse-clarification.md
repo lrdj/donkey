@@ -7,7 +7,7 @@ description: "David wrote in this morning. He is concerned that the debate is mi
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Very excited, have just read a piece on pdafrance.com which claims
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

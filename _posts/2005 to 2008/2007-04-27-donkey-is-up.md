@@ -7,7 +7,6 @@ description: "This is great --  free server monitoring - check your dedicated or
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: monitoring, sas, server, services, sla, uptime
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Sony has stopped production of the &#8216;root-kit&#8217; protecte
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

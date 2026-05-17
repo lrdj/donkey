@@ -7,7 +7,7 @@ description: "So yesterday morning, the thing that I wanted was a black, v-neck 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

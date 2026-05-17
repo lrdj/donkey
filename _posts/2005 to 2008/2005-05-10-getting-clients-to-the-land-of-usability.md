@@ -7,7 +7,7 @@ description: "I forget if I&#8217;ve mentioned this before, but we&#8217;re all 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: " So I bought Nicki a Sony Ericsson K750i as she&#8217;s starting t
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

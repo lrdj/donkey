@@ -7,7 +7,7 @@ description: "Great piece on CSS negotiation. Focus on minimal hacks with emphas
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

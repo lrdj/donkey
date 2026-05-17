@@ -7,7 +7,7 @@ description: "Can one use the flow created by the cyclical capilary action gener
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

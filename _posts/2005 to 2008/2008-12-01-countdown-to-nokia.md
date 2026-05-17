@@ -7,7 +7,7 @@ description: "Well, this is one way of becoming an internet business ;-) So I wo
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: nokia
 author: dug
 ---

@@ -7,7 +7,7 @@ description: " Yay! a bit of a scoopy news-flash, Netvibes just announced the la
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: api, netvibes, tariqkrim, universalwidgetapi
 author: dug
 ---

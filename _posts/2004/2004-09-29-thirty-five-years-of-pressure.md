@@ -7,7 +7,7 @@ description: " Saw this gorgeous early-70&#8217;s coffee machine in use near the
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

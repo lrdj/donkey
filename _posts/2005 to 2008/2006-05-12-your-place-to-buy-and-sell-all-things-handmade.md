@@ -7,7 +7,7 @@ description: "Playing with etsy.com Check out the &#8220;shop by colour&#8221; i
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

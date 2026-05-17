@@ -7,7 +7,7 @@ description: "So that was fun, if utterly exhausting (started my day 06 -- 00 on
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

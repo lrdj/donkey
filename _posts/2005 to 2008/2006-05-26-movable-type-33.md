@@ -7,7 +7,7 @@ description: "ooh ooh ooh&#8230; Six Apart - ProNet - What&#8217;s new in Movabl
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

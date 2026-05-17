@@ -7,7 +7,7 @@ description: "We&#8217;ll, the big one has just gone live  -- -) Some of you ask
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

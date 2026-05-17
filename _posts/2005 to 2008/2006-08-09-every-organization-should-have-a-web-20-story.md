@@ -7,7 +7,7 @@ description: "More good stuff from Dion Hinchcliffe. Does every organization nee
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

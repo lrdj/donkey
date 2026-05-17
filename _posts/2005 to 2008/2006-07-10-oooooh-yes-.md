@@ -7,7 +7,7 @@ description: "Apache on Symbian. Just imagine what you could do with that (updat
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

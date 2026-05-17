@@ -7,7 +7,7 @@ description: "Well it&#8217;s been a week now and CU-2 is eating non-stop (even 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 author: dug
 ---
 

@@ -7,7 +7,7 @@ description: "So C, it was a Tuesday afternoon, the 7th of February 2006. When I
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

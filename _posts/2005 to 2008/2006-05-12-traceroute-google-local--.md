@@ -7,7 +7,7 @@ description: "Another fine 2.0 app --  http -- //www.codefromthe70s.org/tracerou
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

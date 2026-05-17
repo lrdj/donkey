@@ -7,7 +7,7 @@ description: " Helping CU-1 with her homework. The brief was &#8220;what would y
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 tags: CU-1, CU-1, CU-1, keynote, powerpoint
 author: dug
 ---

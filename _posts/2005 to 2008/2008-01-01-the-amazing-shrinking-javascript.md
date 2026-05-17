@@ -7,7 +7,7 @@ description: "OK, so I occasionally hack some bits of Javascript around to see i
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 tags: javascript, jquery, scripting, UI
 author: dug
 ---

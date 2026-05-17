@@ -7,7 +7,7 @@ description: "Would you guys mind terribly debugging your frigging JS code befor
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

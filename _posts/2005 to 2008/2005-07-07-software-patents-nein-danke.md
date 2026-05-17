@@ -7,7 +7,6 @@ description: "I&#8217;m always amazed when the European Parliament sees sense an
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "You know, my dad, Jed, has for most of his long life been a master
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

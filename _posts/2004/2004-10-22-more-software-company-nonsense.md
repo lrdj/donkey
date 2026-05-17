@@ -7,7 +7,7 @@ description: "A new feature has arrived on my desktop that prevents Nicki and I 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

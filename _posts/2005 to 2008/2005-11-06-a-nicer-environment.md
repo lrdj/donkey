@@ -7,7 +7,7 @@ description: "I love this and this made me smile -- -)&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

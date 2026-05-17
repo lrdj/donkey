@@ -6,7 +6,7 @@ description: " Just love this picture. Not sure why exactly, but it&#8217;s some
 
 image: images/whipsnade_paints.jpg
 alt: ""
-category: Family
+category: "Family"
 author: dug
 ---
 

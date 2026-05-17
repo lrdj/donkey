@@ -7,7 +7,7 @@ description: "Been reading about the Orange home screen on Symbian phones. &#822
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

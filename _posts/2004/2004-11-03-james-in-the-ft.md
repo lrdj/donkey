@@ -7,7 +7,7 @@ description: "James has a piece in this week&#8217;s creative business (sub requ
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

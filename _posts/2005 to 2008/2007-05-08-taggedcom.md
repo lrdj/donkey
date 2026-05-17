@@ -7,7 +7,6 @@ description: "Well, I&#8217;m glad I&#8217;m not the only consultant out there t
 
 image: images/defaultThumbnail.png
 alt: ""
-category: 
 tags: edgedujour, evil, spam, spammers
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Rob Ferrara isn&#8217;t 100% in agreement re Flickr. His point is 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: flickr
+category: "Flickr"
 tags: flickr, social software, web2.0
 author: dug
 ---

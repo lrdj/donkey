@@ -7,7 +7,7 @@ description: "Just so I know, exactly what hapened to make the amount of comment
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

@@ -7,7 +7,7 @@ description: "Just when you thought you were safe from bouncing CU-1s, these thr
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

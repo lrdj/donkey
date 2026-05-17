@@ -7,7 +7,7 @@ description: "Damn&#8212;bitchslapped again. I suggest that the republics of Pac
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---

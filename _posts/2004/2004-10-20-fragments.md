@@ -7,7 +7,7 @@ description: "&#8220;Karen Carpenter was of course famously anorexic but people 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Family
+category: "Family"
 
 author: dug
 ---

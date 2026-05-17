@@ -7,7 +7,7 @@ description: "So somebody tell me how the creationist mafia is managing to skew 
 
 image: images/defaultThumbnail.png
 alt: ""
-category: Techno-bollocks
+category: "Techno-bollocks"
 
 author: dug
 ---
