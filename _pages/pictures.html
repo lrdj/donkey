@@ -6,7 +6,7 @@ author: dug
 ---
 
 <style>
-  .picwall-wrap { padding: 1.5rem 1rem 3rem; }
+  .picwall-wrap { padding: 1.5rem 0 3rem; }
   .picwall-wrap h1 { font-weight: 700; font-size: 1rem;
     text-transform: uppercase; letter-spacing: .04em; margin-bottom: .3rem; }
   .picwall-wrap .lede { color: #6c757d; font-size: .9rem; margin-bottom: 1.5rem; }
@@ -17,7 +17,13 @@ author: dug
   .picwall a { display: block; margin: 0 0 10px; break-inside: avoid;
     position: relative; overflow: hidden; background: #f0f0f0; }
   .picwall img { display: block; width: 100%; height: auto;
-    transition: transform .25s ease, filter .25s ease; }
+    transition: transform .25s ease, filter .25s ease;
+    animation: picfade .65s ease-out both; }
+  @keyframes picfade {
+    from { opacity: 0; transform: scale(.985); }
+    to   { opacity: 1; transform: scale(1); } }
+  @media (prefers-reduced-motion: reduce) {
+    .picwall img { animation: none; } }
   .picwall a:hover img { transform: scale(1.04); filter: brightness(.85); }
   .picwall a .cap { position: absolute; left: 0; right: 0; bottom: 0;
     padding: .5rem .6rem; font-size: .72rem; line-height: 1.25;
@@ -26,7 +32,7 @@ author: dug
   .picwall a:hover .cap { opacity: 1; }
 </style>
 
-<div class="container-fluid picwall-wrap">
+<div class="container picwall-wrap">
   <h1>Pictures</h1>
   <p class="lede">{{ site.data.pictures.pictures | size }} images, scattered
     out of order, from across the years. Click any to read the post it came
