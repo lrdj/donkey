@@ -1,40 +1,43 @@
 ---
-title: "Gallery"
+title: "Pictures"
 layout: default
-permalink: "/gallery.html"
+permalink: "/pictures/"
 author: dug
 ---
 
-<link rel="stylesheet" href="/assets/css/gallery.css">
+<style>
+  .picwall-wrap { padding: 1.5rem 1rem 3rem; }
+  .picwall-wrap h1 { font-weight: 700; font-size: 1rem;
+    text-transform: uppercase; letter-spacing: .04em; margin-bottom: .3rem; }
+  .picwall-wrap .lede { color: #6c757d; font-size: .9rem; margin-bottom: 1.5rem; }
+  .picwall { column-gap: 10px; column-count: 5; }
+  @media (max-width: 1200px) { .picwall { column-count: 4; } }
+  @media (max-width: 900px)  { .picwall { column-count: 3; } }
+  @media (max-width: 600px)  { .picwall { column-count: 2; } }
+  .picwall a { display: block; margin: 0 0 10px; break-inside: avoid;
+    position: relative; overflow: hidden; background: #f0f0f0; }
+  .picwall img { display: block; width: 100%; height: auto;
+    transition: transform .25s ease, filter .25s ease; }
+  .picwall a:hover img { transform: scale(1.04); filter: brightness(.85); }
+  .picwall a .cap { position: absolute; left: 0; right: 0; bottom: 0;
+    padding: .5rem .6rem; font-size: .72rem; line-height: 1.25;
+    color: #fff; background: linear-gradient(transparent, rgba(0,0,0,.78));
+    opacity: 0; transition: opacity .25s ease; }
+  .picwall a:hover .cap { opacity: 1; }
+</style>
 
-<div class="container">
-    <div class="gallery">
-        <figure class="gallery__item gallery__item--1">
-            <a href="/images/ixus/101.jpg" title="view whole image"><img src="/images/ixus/101.jpg" alt="Gallery image 1" class="gallery__img"></a>
-        </figure>
-        <figure class="gallery__item gallery__item--2">
-            <a href="/images/ixus/103.jpg" title="view whole image"><img src="/images/ixus/103.jpg" alt="Gallery image 2" class="gallery__img"></a>
-        </figure>
-        <figure class="gallery__item gallery__item--3">
-            <a href="/images/ixus/102.jpg" title="view whole image"><img src="/images/ixus/102.jpg" alt="Gallery image 3" class="gallery__img"></a>
-        </figure>
-        <figure class="gallery__item gallery__item--6">
-            <a href="/images/ixus/81.jpg" title="view whole image"><img src="/images/ixus/81.jpg" alt="Gallery image 1" class="gallery__img"></a>
-        </figure>
-        <figure class="gallery__item gallery__item--4">
-            <a href="/images/ixus/104.jpg" title="view whole image"><img src="/images/ixus/104.jpg" alt="Gallery image 4" class="gallery__img"></a>
-        </figure>
-        <figure class="gallery__item gallery__item--5">
-            <a href="/images/ixus/105.jpg" title="view whole image"><img src="/images/ixus/105.jpg" alt="Gallery image 5" class="gallery__img"></a>
-        </figure>
-        <figure class="gallery__item gallery__item--6">
-            <a href="/images/ixus/106.jpg" title="view whole image"><img src="/images/ixus/106.jpg" alt="Gallery image 6" class="gallery__img"></a>
-        </figure>
-        <figure class="gallery__item gallery__item--1">
-            <a href="/images/ixus/101.jpg" title="view whole image"><img src="/images/ixus/101.jpg" alt="Gallery image 1" class="gallery__img"></a>
-        </figure>
-    </div>
+<div class="container-fluid picwall-wrap">
+  <h1>Pictures</h1>
+  <p class="lede">{{ site.data.pictures.pictures | size }} images, scattered
+    out of order, from across the years. Click any to read the post it came
+    from.</p>
+
+  <div class="picwall">
+    {% for p in site.data.pictures.pictures %}
+    <a href="{{ site.baseurl }}{{ p.url }}" title="{{ p.title }} — {{ p.date }}">
+      <img loading="lazy" src="{{ site.baseurl }}{{ p.src }}" alt="{{ p.title }}">
+      <span class="cap">{{ p.title }}{% if p.date %}<br>{{ p.date }}{% endif %}</span>
+    </a>
+    {% endfor %}
+  </div>
 </div>
-
-See <a href="https://medium.com/free-code-camp/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c">link to medium post</a>
-
