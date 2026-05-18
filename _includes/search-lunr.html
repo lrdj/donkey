@@ -1,5 +1,3 @@
-<script src="{{site.baseurl}}/assets/js/lunr.js"></script>
-
 <script>
 $(function() {
     $("#lunrsearchresults").on('click', '#btnx', function () {
@@ -7,47 +5,94 @@ $(function() {
         $( "body" ).removeClass( "modal-open" );
     });
 });
-</script>
 
-<script src="{{site.baseurl}}/assets/js/lunr-static-index.js"></script>
+/* ---- LAZY search: nothing loads until the visitor uses search ----
+   Old design downloaded a ~716KB index and rebuilt the lunr index in
+   the browser on EVERY page view. Now lunr.js + the pre-serialized
+   index (built by .refactor-baseline/gen_search.js) load once, only on
+   first search interaction, then the browser caches them. */
+(function () {
+  var BASE = "{{site.baseurl}}";
+  var SITE = "{{site.url}}";
+  var loadingPromise = null;   // resolves to { idx, docs }
+  var ready = null;
 
-<script>
-var idx = lunr(function () {
-    this.ref('id')
-    this.field('title')
-    this.field('body')
+  function loadScript(src) {
+    return new Promise(function (resolve, reject) {
+      var s = document.createElement('script');
+      s.src = src; s.onload = resolve; s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
 
-    documents.forEach(function (doc) {
-        this.add(doc)
-    }, this)
-});
-    
-function lunr_search(term) {
+  function ensureSearch() {
+    if (loadingPromise) return loadingPromise;
+    loadingPromise = loadScript(BASE + "/assets/js/lunr.js")
+      .then(function () {
+        return Promise.all([
+          fetch(BASE + "/assets/search/lunr-index.json").then(function (r) { return r.json(); }),
+          fetch(BASE + "/assets/search/lunr-docs.json").then(function (r) { return r.json(); })
+        ]);
+      })
+      .then(function (out) {
+        ready = { idx: lunr.Index.load(out[0]), docs: out[1].docs };
+        return ready;
+      });
+    return loadingPromise;
+  }
+
+  function modalShell(inner) {
+    document.getElementById('lunrsearchresults').innerHTML =
+      '<div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0">' + (inner || '') + '</ul> </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
+  }
+
+  function setTitle(html) {
+    var t = document.getElementById('modtit');
+    if (t) t.innerHTML = html + t.innerHTML;
+  }
+
+  function renderResults(term, store) {
+    var results = store.idx.search(term);
+    var ul = document.querySelectorAll('#lunrsearchresults ul')[0];
+    if (results.length > 0) {
+      var out = '';
+      for (var i = 0; i < results.length; i++) {
+        var ref = results[i].ref;            // ref = post URL
+        var doc = store.docs[ref] || {};
+        var url = BASE + ref;
+        var title = doc.title || ref;
+        var body = (doc.snippet || '');
+        out += "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><small><span class='body'>" + body + "</span><br /><span class='url'>" + SITE + ref + "</span></small></a></li>";
+      }
+      ul.innerHTML = out;
+    } else {
+      ul.innerHTML = "<li class='lunrsearchresult'>Sorry, no results found. Close &amp; try a different search!</li>";
+    }
+  }
+
+  window.lunr_search = function (term) {
     $('#lunrsearchresults').show( 1000 );
     $( "body" ).addClass( "modal-open" );
-    
-    document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
-    if(term) {
-        document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Search results for '" + term + "'</h5>" + document.getElementById('modtit').innerHTML;
-        //put results on the screen.
-        var results = idx.search(term);
-        if(results.length>0){
-            //console.log(idx.search(term));
-            //if results
-            for (var i = 0; i < results.length; i++) {
-                // more statements
-                var ref = results[i]['ref'];
-                var url = documents[ref]['url'];
-                var title = documents[ref]['title'];
-                var body = documents[ref]['body'].substring(0,160)+'...';
-                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><small><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></small></a></li>";
-            }
-        } else {
-            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Sorry, no results found. Close & try a different search!</li>";
-        }
+    modalShell("<li class='lunrsearchresult'>Loading search…</li>");
+    if (term) {
+      setTitle("<h5 class='modal-title'>Search results for '" + term + "'</h5>");
+      ensureSearch().then(function (store) {
+        renderResults(term, store);
+      }).catch(function () {
+        var ul = document.querySelectorAll('#lunrsearchresults ul')[0];
+        if (ul) ul.innerHTML = "<li class='lunrsearchresult'>Search failed to load. Close &amp; try again.</li>";
+      });
     }
     return false;
-}
+  };
+
+  // Warm the load as soon as the visitor focuses the box, so results
+  // are usually ready by the time they hit enter.
+  document.addEventListener('DOMContentLoaded', function () {
+    var box = document.getElementById('lunrsearch');
+    if (box) box.addEventListener('focus', ensureSearch, { once: true });
+  });
+})();
 </script>
 <style>
     .lunrsearchresult .title {color: #d9230f;}
@@ -55,11 +100,13 @@ function lunr_search(term) {
     .lunrsearchresult a {display: block; color: #777;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
     .lunrsearchresult a:hover .title {text-decoration: underline;}
+    /* Mobile: keep the results modal inside the viewport (was overflowing). */
+    @media (max-width: 767px) {
+        #lunrsearchresults .modal-dialog {max-width: 94vw; margin: 1rem auto;}
+        #lunrsearchresults .modal-body {max-height: 70vh; overflow-y: auto;}
+    }
 </style>
 
-
-
-
-<form class="bd-search hidden-sm-down" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-<input type="text" class="form-control text-small"  id="lunrsearch" name="q" value="" placeholder="Type keyword and enter..."> 
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+<input type="text" class="form-control text-small"  id="lunrsearch" name="q" value="" placeholder="Type keyword and enter...">
 </form>
