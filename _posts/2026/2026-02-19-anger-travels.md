@@ -38,7 +38,7 @@ France in 2018 still had a living vocabulary for blaming the centre: a long repu
 
 Britain's centre-left seems to have largely abandoned that vocabulary, and so into that vacuum steps the entrepreneur with the clearest, most human-shaped villain on offer. Sideways is simply the path of least resistance when no one is making the case for up.
 
-Just to be clear, this comparison flatters no one. France has its own powerful sideways channel with Marinne LePen wearing the rosette. The Gilets Jaunes had their ugly moments too. 
+Just to be clear, this comparison flatters no one. France has its own powerful sideways channel with Marine Le Pen wearing the rosette. The Gilets Jaunes had their ugly moments too. 
 
 The difference isn't moral. It's structural. It's about who happens to be holding the microphone (or who is funding the microphone) when people are frightened, and what they choose to say into it.
 
