@@ -16,7 +16,7 @@ tags:
   - society
 ---
 
-I've been thinking about the ['Gilets Jaunes'](https://en.wikipedia.org/wiki/Yellow_vests_protests) movement that happened in France a few years ago. I'm trying to imagine what a similar movement in the UK would look like. A large group of broadly working class people decided they were pissed off at everything being expensive and the buying power of their euro being eroded. Reading about it, it seems like it stood out for having a greater proportion of women and first-time protesters. Also, members of the urban precariat were under-represented. 
+I've been thinking about the ['Gilets Jaunes'](https://en.wikipedia.org/wiki/Yellow_vests_protests) movement that happened in France a few years ago. I'm trying to imagine what a similar movement in the UK would look like. A large group of broadly working class people decided they were pissed off at everything getting more expensive and their wages not keeping up. Reading about it, it seems like it stood out for having a greater proportion of women and first-time protesters. Also, members of the urban precariat were under-represented. 
 
 I try to imagine the LBC broadcast or the Vox pop from the protest. I just can't imagine a group of anglo-saxons saying things like "we're angry at the erosion of our buying power". I mean we don't even have the language to go there...
 
@@ -27,6 +27,12 @@ What seems sort of wonderful about that moment is you have a large group of work
 In Britain, the same anxiety — flat wages, work that feels more precarious every year, public services buckling — gets offered a different outlet entirely. The other. The migrant. The small boat crossing the Channel.
 
 It would be easy to turn this into nonsense about national character — the French revolt upward, the British blame sideways. But I doubt that's true, and I think it's the wrong lesson. 
+
+Maybe I only notice this because my defaults point the other way. I grew up in France, where marching alongside your teachers at fifteen was just something you did. The reflex it left me with is that anger goes up, towards the people who could actually fix things. 
+
+I once did one of those corporate culture questionnaires on a management course, and secretly hoped it would score me as English. It came back ninety per cent French. That stung, because I thought I'd moved past all that years ago — but apparently it's wiring, not opinion. 
+
+So I'm not writing this as a neutral observer, and I'm certainly not exempt. I'm the one who keeps expecting the anger to travel upward, and keeps being puzzled when it slides sideways instead.
 
 A grievance has no built-in direction. Someone writes it one.
 
