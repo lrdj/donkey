@@ -42,4 +42,4 @@ Just to be clear, this comparison flatters no one. France has its own powerful s
 
 The difference isn't moral. It's structural. It's about who happens to be holding the microphone (or who is funding the microphone) when people are frightened, and what they choose to say into it.
 
-What frightens me currently is how cheaply the anger of precarity can be redirected, and how few voices are bothering to point it upward instead of at my Jewish or non-white neighbour:-(
+What frightens me currently is how cheaply the anger of precarity can be redirected, and how few voices are bothering to point it upward instead of at my Jewish or non-white neighbour.
