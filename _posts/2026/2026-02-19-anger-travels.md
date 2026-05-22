@@ -34,7 +34,9 @@ The same economic suffering can travel vertically — toward the people with pow
 
 Which way it goes depends almost entirely on the stories available at the moment the anger arrives. 
 
-France in 2018 still had a living vocabulary for blaming the centre: a long republican habit of holding the state responsible for the common good. The anger had somewhere upward to go, so it went there. Britain's centre-left has largely abandoned that vocabulary, and into the vacuum steps the entrepreneur with the clearest, most human-shaped villain on offer. Sideways is simply the path of least resistance when no one is making the case for up.
+France in 2018 still had a living vocabulary for blaming the centre: a long republican habit of holding the state responsible for the common good. The anger had somewhere upward to go, so it went there. 
+
+Britain's centre-left seems to have largely abandoned that vocabulary, and so into that vacuum steps the entrepreneur with the clearest, most human-shaped villain on offer. Sideways is simply the path of least resistance when no one is making the case for up.
 
 Just to be clear, this comparison flatters no one. France has its own powerful sideways channel with Marinne LePen wearing the rosette. The Gilets Jaunes had their ugly moments too. 
 
