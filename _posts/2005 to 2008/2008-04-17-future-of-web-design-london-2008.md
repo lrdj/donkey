@@ -3,10 +3,8 @@ layout: post
 title: "Future of Web Design, London 2008"
 date: 2008-04-17 10:08:01
 description: "Well, the afternoon was pretty good too, but with a dead powerbook battery and no charger I ended up sending commentary via Twitter. 13 -- 00 &#8212; Lunch One design direction will do &#8212; AMEN 12 -- 38 &#8212; Larissa Meek (AgencyNet) Getting your&#8230;"
-
-
-image: images/defaultThumbnail.png
-alt: ""
+image: images/Larissa-Meeks-12-Simple-Rules.jpg
+alt: "Larissa Meek (AgencyNet) Getting your designs approved - 12 Simple Rules"
 
 tags: fowd, fowd08, fowdlondon, fowdlondon08, poke
 author: dug
@@ -59,8 +57,6 @@ Finally, Steve reckons
 
 Well, I came to see Steve Pearce from Poke and managed to catch the last five minutes of his chat. 
 
-He did an interesting presentation on the process of creating user experiences. He uses a great iceberg metaphor (see <a href="http://tinyurl.com/6lestu">others on this</a>) to describe the process.
-
-<a href="http://www.flickr.com/photos/bozo/2420073221/" title="Steve Pearce and his iceberg by donkeyontheedge, on Flickr"><img src="http://farm4.static.flickr.com/3149/2420073221_674bdc7ce9_m.jpg" width="240" height="180" alt="Steve Pearce and his iceberg" /></a>
+He did an interesting presentation on the process of creating user experiences. He uses a great iceberg metaphor (see <a href="http://tinyurl.com/6lestu">others on this</a>) to describe the process. [Steve Pearce and his iceberg](https://www.affectivedesign.org/archives/tag/tip-of-the-iceberg)
 
 It's an interesting parallel to Jesse James Garett's "Elements" in that in the iceberg metaphor you dive under the surface to the bottom of the experience and then float up to the top will in <span class="caps">JJG </span>land you float up from abstract to concrete via the stages of strategy, scope, structure, skeleton and surface :-)
