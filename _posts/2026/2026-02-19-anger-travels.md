@@ -20,9 +20,9 @@ I've been thinking about the ['Gilets Jaunes'](https://en.wikipedia.org/wiki/Yel
 
 I try to imagine the LBC broadcast or the Vox pop from the protest. I just can't imagine a group of anglo-saxons saying things like "we're angry at the erosion of our buying power". I mean we don't even have the language to go there...
 
-In France, the ['Gilets Jaunes'](https://en.wikipedia.org/wiki/Yellow_vests_protests) movement began with the price of fuel — with the arithmetic of getting to the end of the month for people who work. And the chain of blame ran — almost mechanically — upward: to the state, to the executive, to the centre of power. They went after the sovereign.
+In France, the ['Gilets Jaunes'](https://en.wikipedia.org/wiki/Yellow_vests_protests) movement began with the price of fuel — with the basic sums of making it to the end of the month. And the blame ran straight upward: to the state, to the executive, to the centre of power. They went after the sovereign.
 
-What seems sort of wonderful about that moment is you have a large group of working-class people protesting angrily and no one is blaming immigrants or foreigners, they are blaming their elected government. 
+The wonderful thing about that moment is that a large group of working-class people are protesting angrily and nobody's blaming immigrants or foreigners — they're blaming their elected government.
 
 In Britain, the same anxiety — flat wages, work that feels more precarious every year, public services buckling — gets offered a different outlet entirely. The other. The migrant. The small boat crossing the Channel.
 
@@ -42,7 +42,9 @@ Which way it goes depends almost entirely on the stories available at the moment
 
 France in 2018 still had a living vocabulary for blaming the centre: a long republican habit of holding the state responsible for the common good. The anger had somewhere upward to go, so it went there. 
 
-Britain's centre-left seems to have largely abandoned that vocabulary, and so into that vacuum steps the entrepreneur with the clearest, most human-shaped villain on offer. Sideways is simply the path of least resistance when no one is making the case for up.
+Britain's centre-left seems to have largely abandoned that vocabulary, and so the entrepreneur with the clearest, most human-shaped villain on offer steps into that vacuum. 
+
+Sideways is simply the path of least resistance when no one is making the case for up.
 
 Just to be clear, this comparison flatters no one. France has its own powerful sideways channel with Marine Le Pen wearing the rosette. The Gilets Jaunes had their ugly moments too. 
 
