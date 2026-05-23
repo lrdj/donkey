@@ -19,13 +19,15 @@ tags:
 
 ---
 
-As a worker in digital, GDS has often seemed like a bit of a beacon. It sort of acted as the actualisation of my early beliefs and activism around accessibility, web standards, mobile web and many other issues we've been arguing about since the start of this century. Today we no longer care about bandwidth being a precious resource, or that the web is more than a channel to be broadcast to, and I guess that's fine, we need to look forward--things moving along left to right on the Wardley map as innovation matures to commodity--and we progress to new and interesting things...
+As a worker in digital, GDS has often seemed like a bit of a beacon. It sort of acted as the actualisation of my early beliefs and activism around accessibility, web standards, mobile web and many other issues we've been arguing about since the start of this century. 
+
+Today we no longer care about bandwidth being a precious resource, or that the web is more than a channel to be broadcast to, and I guess that's fine, we need to look forward--things moving along left to right on the Wardley map as innovation matures to commodity--and we progress to new and interesting things...
 
 But I'd hate to lose the magic of the moment, stars aligning and something truly wonderful being born. I wasn't there at the time, but Giles Turnbull [(Linkedin)](https://www.linkedin.com/in/giles-turnbull-ab41/) worked at GDS from 2013 to 2016 and has written up the origin story. This is Giles' content, not mine. Just to be clear. Here are his words:
 
 # How GDS began
 
-*This is the story of what happened **before** GDS was created. There's sometimes a misconception that GDS was the first thing of its kind in government, but that's simply not the case. This story first appeared as a talk, which I did 2 or 3 times in Aviation House. I decided to write it up here on the wiki so that it doesn't get lost. -- Giles T [(blog link)]](https://gilest.org/)*
+*This is the story of what happened **before** GDS was created. There's sometimes a misconception that GDS was the first thing of its kind in government, but that's simply not the case. This story first appeared as a talk, which I did 2 or 3 times in Aviation House. I decided to write it up here on the wiki so that it doesn't get lost. -- Giles T [(blog link)](https://gilest.org/)*
 
 Most of the time, when we do presentations about our origins, we say that GDS began with the publication of [Martha Lane Fox](http://www.marthalanefox.com)'s letter to Francis Maude, [Revolution not Evolution](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox).
 
