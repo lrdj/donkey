@@ -2,15 +2,21 @@
 layout: post
 title: "Our first foray into user testing with live participants"
 date: 2010-06-10 13:53:36
-description: "In the spirit of Rob&#8217;s earlier post I thought you guys might find a test report interesting reading. This morning, Debbie, Louis, Mohammed and Dug piled into Mohammed&#8217;s car and headed down to Hemel High Street. Debbie recruited, Louis kept&#8230;"
+description: "In the spirit of Rob&#8217;s earlier post I thought you guys might find a test report interesting reading. This morning, Debbie, Louis, Mohammed and Dug piled into Mo&#8217;s car and headed down to Hemel High Street. Debbie recruited, Louis kept&#8230;"
 
+image: images/guerilla.jpg
+alt: "Impromptu testing out of a Starbucks"
 
-image: images/defaultThumbnail.png
-alt: ""
+tags: 
+	- ui
+	- usability
+	- usertesting
+	- ux
 
-tags: ui, usability, usertesting, ux
 author: dug
 ---
+
+_(photo stolen from: https://ixdf.org/literature/article/the-pros-and-cons-of-guerrilla-research-for-your-ux-project)_
 
 In the spirit of Rob's <a href="http://donkeyontheedge.com/2010/06/real-user-experience-front-end-testing.html">earlier post</a> I thought you guys might find a test report interesting reading. This morning, Debbie, Louis, Mohammed and Dug piled into Mohammed's car and headed down to Hemel High Street. Debbie recruited, Louis kept the mac level and stable, Mohammed tracked the tests and Dug interviewed and moderated.
 
