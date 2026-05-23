@@ -18,7 +18,7 @@ author: dug
 
 _(photo stolen from: [https://ixdf.org/literature/](https://ixdf.org/literature/article/the-pros-and-cons-of-guerrilla-research-for-your-ux-project))_
 
-In the spirit of Rob's <a href="http://donkeyontheedge.com/2010/06/real-user-experience-front-end-testing.html">earlier post</a> I thought you guys might find a test report interesting reading. This morning, Debbie, Louis, Mohammed and Dug piled into Mohammed's car and headed down to Hemel High Street. Debbie recruited, Louis kept the mac level and stable, Mohammed tracked the tests and Dug interviewed and moderated.
+In the spirit of Rob's <a href="/real-user-experience-front-end-testing/">earlier post</a> I thought you guys might find a test report interesting reading. This morning, Debbie, Louis, Mohammed and Dug piled into Mohammed's car and headed down to Hemel High Street. Debbie recruited, Louis kept the mac level and stable, Mohammed tracked the tests and Dug interviewed and moderated.
 
 <h2>Introduction</h2>
 
