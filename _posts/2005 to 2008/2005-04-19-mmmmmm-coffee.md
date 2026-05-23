@@ -10,7 +10,7 @@ alt: ""
 author: dug
 ---
 
-<img src="http://www.donkeyontheedge.com/images/Stainless_Steel_Travel_Mug.gif" alt="Mmmmm coffee..." />
+<img src="/images/Stainless_Steel_Travel_Mug.gif" alt="Mmmmm coffee..." />
 
 Thank you Nicki for the lovely coffee flask I've got on my desk (brought all the way <a href="http://nanlong.en.alibaba.com/product/50044270/50204614/Vacuum_Flasks/Stainless_Steel_Travel_Mug.html">Nanlong Corporation's</a> factory in Shanghai courtesy of Mr Ikea). At 90p a cup, I'm already saving a fortune ;-)
 

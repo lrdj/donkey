@@ -12,7 +12,7 @@ tags: inmangable, paris, restaurants, resto
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/toilettes.jpg"><img alt="toilettes.jpg" src="http://www.donkeyontheedge.com/images/toilettes-thumb.jpg" width="370" height="277" /></a>
+<a href="/images/toilettes.jpg"><img alt="toilettes.jpg" src="/images/toilettes-thumb.jpg" width="370" height="277" /></a>
 
 Dans la série <em>c'est fou ce qu'on mange mal à Paris</em> je vous suggère d'eviter à tout prix la brasserie "Paris Orléans", Porte d'Orléan à Paris.
 

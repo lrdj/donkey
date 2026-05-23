@@ -16,7 +16,7 @@ author: dug
 
 Your system is simply diabolical. I have now been locked out twice and cannot access the 400 pounds in my account.
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Zopa your account is locked" src="http://www.donkeyontheedge.com/images/zopa-renew.jpg" width="516" height="173"  style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Zopa your account is locked" src="/images/zopa-renew.jpg" width="516" height="173"  style="" /></span>
 
 Your password reset and security questions are designed to <span class="caps">FAIL.</span> Quite simply, both my bank accounts (Lloyds and Barclays) have online security systems which are safe (enough) and (largely) usable.
 

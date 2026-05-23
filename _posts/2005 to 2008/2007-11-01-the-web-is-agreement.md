@@ -14,6 +14,6 @@ author: dug
 
 <span class="ccIcn"><a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution.gif" alt="Attribution" title="Attribution" border="0" /></a> Paul Downey</span>
 
-<a title="The Web is Agreement on Flickr - Photo Sharing!" href="http://www.flickr.com/photos/psd/1805709102/"><img alt="webisagreement.jpg" src="http://www.donkeyontheedge.com/images/webisagreement.jpg" width="370" height="506" /></a>
+<a title="The Web is Agreement on Flickr - Photo Sharing!" href="http://www.flickr.com/photos/psd/1805709102/"><img alt="webisagreement.jpg" src="/images/webisagreement.jpg" width="370" height="506" /></a>
 
 This poster by Paul Downey just totally made my morning: <a title="The Web is Agreement on Flickr - Photo Sharing!" href="http://www.flickr.com/photos/psd/1805709102/">The Web is Agreement</a> and how did I miss the <a href="http://www.osmosoft.com/">Osmosoft</a> thing?

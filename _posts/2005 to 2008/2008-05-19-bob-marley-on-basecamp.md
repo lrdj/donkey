@@ -12,4 +12,4 @@ category: "Pictures"
 author: dug
 ---
 
-<img alt="bobtodo.gif" src="http://www.donkeyontheedge.com/images/bobtodo.gif" width="370" height="230" />
+<img alt="bobtodo.gif" src="/images/bobtodo.gif" width="370" height="230" />

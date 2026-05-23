@@ -12,7 +12,7 @@ tags: paris, personalisation, personalspace, value co-creation
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/perso-pain.jpg"><img alt="perso-pain.jpg" src="http://www.donkeyontheedge.com/images/perso-pain-thumb.jpg" width="370" height="277" /></a>
+<a href="/images/perso-pain.jpg"><img alt="perso-pain.jpg" src="/images/perso-pain-thumb.jpg" width="370" height="277" /></a>
 
 I was working with a colleague this morning and she pointed at the table next door. "Look at what those guys did with the bread, it's a great metaphor for personalisation" and well, she's right of course.
 

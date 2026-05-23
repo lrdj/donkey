@@ -11,7 +11,7 @@ tags: mt, mt4, mtengine, Six Apart
 author: dug
 ---
 
-<img alt="9_minutes_22_seconds.gif" src="http://www.donkeyontheedge.com/images/9_minutes_22_seconds.gif" width="370" height="313" />
+<img alt="9_minutes_22_seconds.gif" src="/images/9_minutes_22_seconds.gif" width="370" height="313" />
 
 <em>9 minutes and 22 seconds</em> to rebuild Donkey. That feels pretty slow <em>and</em> this is on 4.2 release-candidate 2. The same site on <span class="caps">MT3.36 </span>on the same box with the same DBserver rebuilds in 7 minutes 28 seconds.
 

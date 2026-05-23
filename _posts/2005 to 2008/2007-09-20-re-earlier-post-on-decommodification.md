@@ -12,7 +12,7 @@ tags: decommodification, interesting07, Mobile Lifestyle, mobileoperator, pipes,
 author: dug
 ---
 
-I wrote <a href="http://www.donkeyontheedge.com/internet_culture_and_politics/you_heard_it_here_first_2008_is_the_year_of_decommodification.html">a little brain-dump</a> on decommodification this morning and have just now come across <a title="russell davies: tom at interesting (different tom)" href="http://russelldavies.typepad.com/planning/2007/09/tom-at-intere-1.html">tom at interesting (different tom)</a> a video from <a href="http://russelldavies.typepad.com/">Russell Davies</a> Interesting 2007 conference.
+I wrote <a href="/you-heard-it-here-first-2008-is-the-year-of-decommodification/">a little brain-dump</a> on decommodification this morning and have just now come across <a title="russell davies: tom at interesting (different tom)" href="http://russelldavies.typepad.com/planning/2007/09/tom-at-intere-1.html">tom at interesting (different tom)</a> a video from <a href="http://russelldavies.typepad.com/">Russell Davies</a> Interesting 2007 conference.
 
 Tom talks about pipes (or tubes) and starts off his presentation with the example of the tobacco infrastructure, the incredible world of resources and infrastructure required for you to smoke a cigarette...
 

@@ -12,6 +12,6 @@ category: "Techno-bollocks"
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/econsultancy.png"><img alt="econsultancy.png" src="http://www.donkeyontheedge.com/images/econsultancy-thumb.png" width="364" height="244" /></a>
+<a href="/images/econsultancy.png"><img alt="econsultancy.png" src="/images/econsultancy-thumb.png" width="364" height="244" /></a>
 
 When your javascript goes wrong it just makes you look sad. I swear no one tests this shit...

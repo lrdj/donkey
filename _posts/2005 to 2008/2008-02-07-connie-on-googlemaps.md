@@ -12,7 +12,7 @@ tags: connie, L-1049G Super Constellation
 author: dug
 ---
 
-<a title="Lockheed Constellation - Wikipedia, the free encyclopedia" href="http://en.wikipedia.org/wiki/Lockheed_Constellation"><img alt="Super Constellation" src="http://www.donkeyontheedge.com/images/connie-aguadilla.jpg" width="370" height="185" /></a>
+<a title="Lockheed Constellation - Wikipedia, the free encyclopedia" href="http://en.wikipedia.org/wiki/Lockheed_Constellation"><img alt="Super Constellation" src="/images/connie-aguadilla.jpg" width="370" height="185" /></a>
 
 From Wikipedia's entry on the <a href="http://en.wikipedia.org/wiki/Lockheed_Constellation">Lockheed Constellation</a>:
 

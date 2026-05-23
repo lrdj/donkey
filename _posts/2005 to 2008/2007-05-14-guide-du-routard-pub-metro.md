@@ -12,7 +12,7 @@ tags: guideduroutard, nokia, Nokia6300, photography, pub
 author: dug
 ---
 
-<img alt="routard.jpg" src="http://www.donkeyontheedge.com/images/routard.jpg" width="370" height="278" />
+<img alt="routard.jpg" src="/images/routard.jpg" width="370" height="278" />
 
 This photo really doesn't do the quality of the repro or indeed the quality of the original photograph justice. It's taken with a Nokia 6300 in the Paris Metro.
 

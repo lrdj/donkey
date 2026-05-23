@@ -17,7 +17,7 @@ author: dug
 
 Ok, this is my last post about Verisign, I promise I will leave it be after this.
 
-<img src="http://www.donkeyontheedge.com/images/imleavingverisign.gif" width="105" height="28" border="0" alt="I'm leaving verisign and you can too. Find an accredited registrar in your area and make the move today." style="float:left;margin-right:5px;" />
+<img src="/images/imleavingverisign.gif" width="105" height="28" border="0" alt="I'm leaving verisign and you can too. Find an accredited registrar in your area and make the move today." style="float:left;margin-right:5px;" />
 
 If you've got here by following a "Leaving Verisign" banner, read on, at the bottom of the post are links to help with your move...
 
@@ -45,7 +45,7 @@ So this gets us back to the "Leaving" graphic that linked you to this page.
 
 If you want to post a copy, cut and paste the following onto your site (lookout for line-breaks in the code, the whole thing should fit on one line):
 
-<code>&lt;a href=&quot;http://www.donkeyontheedge.com/dugs_random_musings/leaving_verisign.html&quot;&gt;&lt;img src=&quot;http://www.donkeyontheedge.com/images/imleavingverisign.gif&quot; width=&quot;105&quot; height=&quot;28&quot; border=&quot;0&quot; alt=&quot;I'm leaving verisign and you can too. Find an accredited registrar in your area and make the move today.&quot; /&gt;&lt;/a&gt;</code>
+<code>&lt;a href=&quot;/leaving-verisign/&quot;&gt;&lt;img src=&quot;/images/imleavingverisign.gif&quot; width=&quot;105&quot; height=&quot;28&quot; border=&quot;0&quot; alt=&quot;I'm leaving verisign and you can too. Find an accredited registrar in your area and make the move today.&quot; /&gt;&lt;/a&gt;</code>
 
 If it gets around, I hope it point out the alternatives. The Internic maintains a list of accredited alternatives. Here it is sorted by <a href="http://www.internic.net/origin.html">country</a> please take minute to read the Internic pages before you buy or renew a domain from verisign.
 

@@ -12,7 +12,7 @@ tags: dart, flickr, mobile, network operators, telecoms, unique value, value, va
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/hockney_CU-1.jpg"><img alt="hockney_CU-1.jpg" src="http://www.donkeyontheedge.com/images/hockney_CU-1-thumb.jpg" width="370" height="277" /></a>
+<a href="/images/hockney_CU-1.jpg"><img alt="hockney_CU-1.jpg" src="/images/hockney_CU-1-thumb.jpg" width="370" height="277" /></a>
 <p style="margin-top:0;text-align:right"><small><i>(Photo: <span class="caps">CU-1</span> Falby by <a href="http://bighugelabs.com/flickr/hockney.php">David Hockney</a>)</i></small>
 
 So I've just finished a user experience consultancy gig with a major mobile network operator based in France. It's an interesting project which I'll be picking up again in the new year. I've been working alongside product owners (ie individuals who are assigned with owning the business of a part of a website or service) and have been factoring their business objectives into the objectives versus needs process. Having just spent ten months working through the objectives of a UK network operator it was interesting to see the different approaches to the business. I can't really go into any details, but one of the key differences is that the French team have managed to build a business treating their products as containing inherent value. For example, the French customers are apparently happy to pay extra to add services to their account which the English would have added to the service for free in the interest of building a better experience, getting closer to the consumer and starting to build the bonds of trust that are a key component of the <a name title="dialogue, access, risk, transparency">d.a.r.t</a> approach.

@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="/mm/nurburgring.mpg" title="Download the mpg file of an 8-minute lap of the Ring"><img src="http://www.donkeyontheedge.com/images/nurburgring.gif" alt="An 8-minute lap of the Ring on an R100" height="199" width="200" class="left" style="float:left;border:none;" /></a> Which, as far as my crude appreciation of the language of Siegfried goes, translates to <em>the wall isn't so motorcycle-friendly</em> (he's commenting on an orange crash barrier he avoids at a corner's apex). 
+<a href="/mm/nurburgring.mpg" title="Download the mpg file of an 8-minute lap of the Ring"><img src="/images/nurburgring.gif" alt="An 8-minute lap of the Ring on an R100" height="199" width="200" class="left" style="float:left;border:none;" /></a> Which, as far as my crude appreciation of the language of Siegfried goes, translates to <em>the wall isn't so motorcycle-friendly</em> (he's commenting on an orange crash barrier he avoids at a corner's apex). 
 
 I downloaded this thing late last night and had a watch this morning--and I've forgotten the site I found it at--will credit later if i can track it down. 
 

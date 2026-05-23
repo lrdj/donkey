@@ -30,4 +30,4 @@ Also, re new stuff, if we experiment with ways to involve the crowd and the clou
 
 <a href="http://donkeyontheedge.com/assets_c/2011/03/candidates_A0-568.html" onclick="window.open('http://donkeyontheedge.com/assets_c/2011/03/candidates_A0-568.html','popup','width=4000,height=2799,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/images/candidates_A0.jpg" width="640" foo="405" alt="Project 2012 theme candidates"  style="" /></a>
 
-<em>(for those that are curious I've uploaded <a href="http://donkeyontheedge.com/images/candidates_A0.pdf">the <span class="caps">PDF</span></a> of the "themes for 2012" document that was our team's contribution to "life with impermanence")</em>
+<em>(for those that are curious I've uploaded <a href="/images/candidates_A0.pdf">the <span class="caps">PDF</span></a> of the "themes for 2012" document that was our team's contribution to "life with impermanence")</em>

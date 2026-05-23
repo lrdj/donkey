@@ -12,7 +12,7 @@ category: "Techno-bollocks"
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/flickr_bump2.png"><img alt="flickr_bump2.png" src="http://www.donkeyontheedge.com/images/flickr_bump2-thumb.png" width="364" height="240" /></a>
+<a href="/images/flickr_bump2.png"><img alt="flickr_bump2.png" src="/images/flickr_bump2-thumb.png" width="364" height="240" /></a>
 
 Sunday night and Flickr is displaying the above... I'll just repeat my earlier request:
 

@@ -15,7 +15,7 @@ tags: censorship, flickr, safe
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/safe.png"><img alt="safe.png" src="http://www.donkeyontheedge.com/images/safe-thumb.png" width="370" height="67" /></a>
+<a href="/images/safe.png"><img alt="safe.png" src="/images/safe-thumb.png" width="370" height="67" /></a>
 
 Safe???!! <span class="caps">WTF </span>does that mean?!! This from the Flickr help files:
 

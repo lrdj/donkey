@@ -12,8 +12,8 @@ category: "Techno-bollocks"
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/TPBarf.gif"><img src="http://www.donkeyontheedge.com/images/TPBarf-thumb.gif"" alt="TypePad is down" height="154" width="150" class="left" style="float:left" /></a>
-I just tried to comment on <a href="http://www.themanwhoinventedtheinternet.com">a blog</a> whose author is taking part in a 'fair and frank' with Anil Dash, SixApart's professional network guy. As luck would have it, when I clicked "Post comment" TypePad <a href="http://www.donkeyontheedge.com/images/TPBarf.gif">barfed</a> (so is that coincidence, irony or poetic justice?)
+<a href="/images/TPBarf.gif"><img src="/images/TPBarf-thumb.gif"" alt="TypePad is down" height="154" width="150" class="left" style="float:left" /></a>
+I just tried to comment on <a href="http://www.themanwhoinventedtheinternet.com">a blog</a> whose author is taking part in a 'fair and frank' with Anil Dash, SixApart's professional network guy. As luck would have it, when I clicked "Post comment" TypePad <a href="/images/TPBarf.gif">barfed</a> (so is that coincidence, irony or poetic justice?)
 
 So anyway, thought I'd post the comment here:
 

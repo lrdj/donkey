@@ -12,6 +12,6 @@ tags: ala, research, survey
 author: dug
 ---
 
-<img alt="Take the ALA survey" src="http://www.donkeyontheedge.com/images/i-took-the-2008-survey.gif" width="180" height="46" style="display:block;float:left;margin:0 0.25em 0.25em 0;" />Yes, the <em>A List Apart</em> guys are running an improved version of the survey they did in 2007. It's good to feel one's industry is maturing, it somehow helps when trying to make plans for the future:-)
+<img alt="Take the ALA survey" src="/images/i-took-the-2008-survey.gif" width="180" height="46" style="display:block;float:left;margin:0 0.25em 0.25em 0;" />Yes, the <em>A List Apart</em> guys are running an improved version of the survey they did in 2007. It's good to feel one's industry is maturing, it somehow helps when trying to make plans for the future:-)
 
 So why not <a href="http://alistapart.com/articles/survey2008">take the survey</a> yourself?

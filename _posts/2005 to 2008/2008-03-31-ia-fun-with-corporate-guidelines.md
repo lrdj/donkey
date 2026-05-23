@@ -12,7 +12,7 @@ tags: design, flexible layouts, grids, guidelines
 author: dug
 ---
 
-<img alt="the 955 pixel grid" src="http://www.donkeyontheedge.com/images/grid-thumb.jpg" width="370" height="277" />
+<img alt="the 955 pixel grid" src="/images/grid-thumb.jpg" width="370" height="277" />
 
 I am currently looking at a guideline which reads:
 

@@ -12,7 +12,7 @@ tags: 6300, fun, gner, nokia, train, trains, wifi
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/gner-twitter.jpg"><img alt="gner-twitter.jpg" src="http://www.donkeyontheedge.com/images/gner-twitter-thumb.jpg" width="370" height="277" /></a>
+<a href="/images/gner-twitter.jpg"><img alt="gner-twitter.jpg" src="/images/gner-twitter-thumb.jpg" width="370" height="277" /></a>
 
 Well, very impressed by the free and so far very reliable wifi on the <span class="caps">GNER </span>train to Inverness. I was worried I'd need to be on one of the 'Mallards' to guarantee conectivity but no, things are working fine...
 

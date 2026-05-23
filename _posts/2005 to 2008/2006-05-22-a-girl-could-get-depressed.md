@@ -12,6 +12,6 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/badweather.gif"><img alt="badweather.gif" src="http://www.donkeyontheedge.com/images/badweather-thumb.gif" width="364" height="151" style="border:none;" /></a>
+<a href="/images/badweather.gif"><img alt="badweather.gif" src="/images/badweather-thumb.gif" width="364" height="151" style="border:none;" /></a>
 
 But thank you <a href="http://www.risingslowly.com/">risingslowly</a> for the info. Any Americans out there know what "rising slowly" refers to?

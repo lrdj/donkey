@@ -12,7 +12,7 @@ tags: api, mobile, mobile operators, partnership, value co-creation
 author: dug
 ---
 
-<img alt="Mashery Logo" src="http://www.donkeyontheedge.com/images/mashery.png" width="125" height="125" class="mt-image-left" style="float: left; margin: 0 1em 0.25em 0;" />What a beautifully succinct way of expressing quite a complex system :-)
+<img alt="Mashery Logo" src="/images/mashery.png" width="125" height="125" class="mt-image-left" style="float: left; margin: 0 1em 0.25em 0;" />What a beautifully succinct way of expressing quite a complex system :-)
 
 Wow, and an interesting business model too... Or interesting way of expressing the business model. I can imagine how this could be the beginning of a fair split of value in a post-IP world (as long as everybody knows what everybody else is in it for that could work...) 
 

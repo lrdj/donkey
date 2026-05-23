@@ -12,7 +12,7 @@ category: "Techno-bollocks"
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/dugwarp.jpg"><img alt="dugwarp.jpg" src="http://www.donkeyontheedge.com/images/dugwarp-thumb.jpg" width="150" height="193" /></a>
+<a href="/images/dugwarp.jpg"><img alt="dugwarp.jpg" src="/images/dugwarp-thumb.jpg" width="150" height="193" /></a>
 
 Mark has <a title="K800i�-�Specifications - - Mobile phone - Sony Ericsson" href="http://www.sonyericsson.com/spg.jsp?cc=global&amp;lc=en&amp;ver=4001&amp;template=pp1_1_1&amp;zone=pp&amp;lm=pp1&amp;pid=10407">new toy</a> :-)
 

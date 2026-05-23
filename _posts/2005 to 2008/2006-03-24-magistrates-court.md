@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/backfromdevizes.jpg"><img alt="backfromdevizes.jpg" src="http://www.donkeyontheedge.com/images/backfromdevizes-thumb.jpg" width="100" height="133" style="float:left;margin-right:1em;" /></a> Well, am on the train back to London after an expensive and frustrating day in Wiltshire. Back when I was commuting to Salisbury I picked up a speeding ticket and looking at the evidence paperwork the rozzers sent I thought I had spotted a procedural mistake.
+<a href="/images/backfromdevizes.jpg"><img alt="backfromdevizes.jpg" src="/images/backfromdevizes-thumb.jpg" width="100" height="133" style="float:left;margin-right:1em;" /></a> Well, am on the train back to London after an expensive and frustrating day in Wiltshire. Back when I was commuting to Salisbury I picked up a speeding ticket and looking at the evidence paperwork the rozzers sent I thought I had spotted a procedural mistake.
 
 Anyhoo -- banged to rights, guilty, guilty, guilty.
 

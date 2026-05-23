@@ -12,7 +12,7 @@ category: "Techno-bollocks"
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/Alexander_Goodbody.jpg"><img src="/images/Alexander_Goodbody_tn.jpg" alt="Wee Alex" height="192" width="192" class="left" style="float:left" /></a>Alexander, Michael, George, Goodbody<br />
+<a href="/images/Alexander_Goodbody.jpg"><img src="/images/Alexander_Goodbody_tn.jpg" alt="Wee Alex" height="192" width="192" class="left" style="float:left" /></a>Alexander, Michael, George, Goodbody<br />
 Born on 27th July 2004<br /><br />
 Weighing at birth a mighty 6llb precisely.
 

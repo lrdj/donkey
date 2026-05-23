@@ -14,11 +14,11 @@ author: dug
 
 So I'm looking for satellite imagery of the island of <a href="http://www.adias-uae.com/marawah.html">Marawah</a> around 100 kilometres to the west of the city of Abu Dhabi, just to the north of the Khor al Bazm. I end up with a traditional satellite image courtesy of Googlemaps:
 
-<img src="http://www.donkeyontheedge.com/images/abu-dabi.jpg"" alt="Satellite image of Abu Dhabi" height="141" width="364" />
+<img src="/images/abu-dabi.jpg"" alt="Satellite image of Abu Dhabi" height="141" width="364" />
 
 So far so handy. I can zoom in on the island, not quite close enough to make out any real detail, but close enough to show geophysical features that when overlain onto the map of settlements makes some sort of sense (dwellings near a river, an old track linking two places an so on). Pretty neat, so I start looking at Abu Dhabi and the desert to the south. What I'm finding amazing is the level of detail you can get on some of these scan areas:
 
-<img src="http://www.donkeyontheedge.com/images/airbase.jpg" alt="Airbase" height="336" width="364" />
+<img src="/images/airbase.jpg" alt="Airbase" height="336" width="364" />
 
 I don't know if this is an American base, but that big grey thing on the runway sure looks like a <span class="caps">B52 </span>(note the empty parking spot between the other planes). The little, white, rectangular hut on the right looks a lot like the hardened hangars you operate out of in the FA/18-Hornet flight sim. 
 

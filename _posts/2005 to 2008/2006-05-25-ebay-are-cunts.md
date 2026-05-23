@@ -10,7 +10,7 @@ alt: ""
 author: dug
 ---
 
-<img alt="Ebay are cunts" src="http://www.donkeyontheedge.com/images/ebay_are_cunts.gif" width="793" height="530" />
+<img alt="Ebay are cunts" src="/images/ebay_are_cunts.gif" width="793" height="530" />
 
 So I get home at 23:15 last night, check my eBay listing and my bike didn't make the reserve price. Arrrggggg, I need to sell it tonight so I can pick up the new bike tomorrow before going on holiday on Saturday. Quickly, I click on the three top bidders and send them a message.
 

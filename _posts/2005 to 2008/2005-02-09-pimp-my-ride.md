@@ -14,4 +14,4 @@ author: dug
 
 Just fabulous, thank you <a href="http://felicitysfutility.blogspot.com/2005/02/stranger-things.html">felicity</a> :-)
 
-<img alt="Pimp my ride" src="http://www.donkeyontheedge.com/images/pimpenterprise8fy.gif" width="364" height="282" />
+<img alt="Pimp my ride" src="/images/pimpenterprise8fy.gif" width="364" height="282" />

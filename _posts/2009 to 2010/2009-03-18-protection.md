@@ -12,6 +12,6 @@ tags: collecting collectors geekery
 author: dug
 ---
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="pojman-pocket-protector.png" src="http://www.donkeyontheedge.com/images/pojman-pocket-protector.png" width="250" height="334" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="pojman-pocket-protector.png" src="/images/pojman-pocket-protector.png" width="250" height="334" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
 
 This made me smile. The Pojman pocket protector collection <a href="http://www.pojman.com/PP/pocket_protectors/pocket_protectors.html">802 and still growing!</a> <em>(via <a href="http://nota-bene.org">Stéphane</a>)</em>

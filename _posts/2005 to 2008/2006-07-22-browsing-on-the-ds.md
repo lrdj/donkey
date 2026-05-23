@@ -12,7 +12,7 @@ category: "Techno-bollocks"
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/dswww.jpg"><img alt="dswww.jpg" src="http://www.donkeyontheedge.com/images/dswww-thumb.jpg" width="364" height="202" /></a>
+<a href="/images/dswww.jpg"><img alt="dswww.jpg" src="/images/dswww-thumb.jpg" width="364" height="202" /></a>
 
 My Japanese is a little rusty, but I know what "802.11" and "URL" mean:-) <a href="http://www.nintendo.co.jp/ds/browser/">Browsing on the DS</a> looks sweet.
 

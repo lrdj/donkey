@@ -21,7 +21,7 @@ So I did a 45-mile charity run in October and I've been meaning to post a thank 
 
 I bought a bike a while back; got the cheapest thing that fit my size from a local (father/daughter) cycle shop in Finchley. It never really worked that well, even from new the brakes weren't very clever and after three trips back to the store for a tune-up the derailleur still clicked and dragged and required constant fiddling. 
 
-Basically, I was raising money for charity and didn't feel I could splash out on a fancy bike or specialist equipment. but the more I trained, the more it became apparent that I was going to break my neck in a long muddy downhill on a Cambridgeshire byway but I tweaked and patched and even hit the recycling centre to find <a href="http://donkeyontheedge.com/2012/09/dyi-handlebar-grips.html">insulation foam</a> and jubilee clips to improve the handlebar grips.
+Basically, I was raising money for charity and didn't feel I could splash out on a fancy bike or specialist equipment. but the more I trained, the more it became apparent that I was going to break my neck in a long muddy downhill on a Cambridgeshire byway but I tweaked and patched and even hit the recycling centre to find <a href="/dyi-handlebar-grips/">insulation foam</a> and jubilee clips to improve the handlebar grips.
 
 So as race day approached I finally bit the bullet and got the bike serviced at my local cycle shop (it's a family-run shop--a different one as the first one went out of business). Well in a nutshell what a difference. They tweaked, and tuned and put puncture-proof road tyres on and a new chain and cleaned and lubed everything and the damn thing ran better then when it was new.
 

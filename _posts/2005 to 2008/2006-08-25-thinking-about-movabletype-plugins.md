@@ -45,23 +45,23 @@ This means I can grab much of the source code and javascript and, more important
 
 Here's how the "manage static pages" screen might look (click for a bigger version) <i>sorry about the crap graphic quality, had to do this in a hurry, will correct details on images asap</i>:
 
-<a href="http://www.donkeyontheedge.com/images/manage_static_pages.gif"><img alt="manage_static_pages.gif" src="http://www.donkeyontheedge.com/images/manage_static_pages-thumb.gif" width="364" height="302" /></a>
+<a href="/images/manage_static_pages.gif"><img alt="manage_static_pages.gif" src="/images/manage_static_pages-thumb.gif" width="364" height="302" /></a>
 
 And here are some close-ups of the new attributes being selected. In this case, the user is creating a new page about leaflets in the "publications" section. The page is a child of "publications" and becomes a sibling of "essays" and "white papers":
 
-<a href="http://www.donkeyontheedge.com/images/select_parent.gif"><img alt="select_parent.gif" src="http://www.donkeyontheedge.com/images/select_parent-thumb.gif" width="364" height="140" /></a>
+<a href="/images/select_parent.gif"><img alt="select_parent.gif" src="/images/select_parent-thumb.gif" width="364" height="140" /></a>
 
 The page type is selected (in this case a standard page):
 
-<img alt="select_page_type.gif" src="http://www.donkeyontheedge.com/images/select_page_type.gif" width="251" height="126" />
+<img alt="select_page_type.gif" src="/images/select_page_type.gif" width="251" height="126" />
 
 And finally, the user chooses her pre-prepared templates to associate with the new page. In this example, an admin has created a template expressly for the new publications section:
 
-<img alt="page_template_selection.gif" src="http://www.donkeyontheedge.com/images/page_template_selection.gif" width="290" height="209" />
+<img alt="page_template_selection.gif" src="/images/page_template_selection.gif" width="290" height="209" />
 
 The "adding a static page" screen would look very similar to the existing "new entry" screen, also reusing as much code as possible:
 
-<a href="http://www.donkeyontheedge.com/images/adding_static_page.gif"><img alt="adding_static_page.gif" src="http://www.donkeyontheedge.com/images/adding_static_page-thumb.gif" width="364" height="407" /></a>
+<a href="/images/adding_static_page.gif"><img alt="adding_static_page.gif" src="/images/adding_static_page-thumb.gif" width="364" height="407" /></a>
 
 Has anyone out there been working on anything similar? Feel free to chime in.
 

@@ -12,7 +12,7 @@ tags: 12, Apple, Macbook Air, Steve jobs
 author: dug
 ---
 
-<a href="http://donkeyontheedge.com/images/another_hotel_room.jpg"><img alt="another hotel room..." src="/images/another_hotel_room.jpg" width="640" foo="435"  style="" /></a>
+<a href="/images/another_hotel_room.jpg"><img alt="another hotel room..." src="/images/another_hotel_room.jpg" width="640" foo="435"  style="" /></a>
 
 <a title="Apple says get a Mac" href="http://www.apple.com/getamac/">Apple says get a Mac</a>  So you know, I replaced my lovely 12" iBook with a lovely 12" powerbook back in 2006. Since then, I've travelled miles and miles on motorcycle and Eurostar and the whole time my mini workstation has been powering through... I tend to have Virtual <span class="caps">PC,</span> Photoshop, Illustrator, Indesign, Omnigraffle, <span class="caps">BBE</span>dit, three or four browsers and Omnioutline all running at the same time (while downloading podcasts and listening to iTunes) with snappy response and power to spare... 
 

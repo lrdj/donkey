@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.youtube.com/watch?v=bNF_P281Uu4"><img alt="whereismatt.jpg" src="http://www.donkeyontheedge.com/images/whereismatt.jpg" width="130" height="97"  style="float:left;margin:0 1em 0 0;" /></a> Just came across a <a href="http://www.youtube.com/watch?v=bNF_P281Uu4">fantastic video</a> on youtube. Matt, the guy responsible writes about the adventure on his blog: <a title="Where the Hell is Matt? New York, NY It's Done" href="http://www.wherethehellismatt.com/blog/2006/06/20/new-york-ny-its-done/#comments">Where the Hell is Matt? New York, NY It's Done</a>
+<a href="http://www.youtube.com/watch?v=bNF_P281Uu4"><img alt="whereismatt.jpg" src="/images/whereismatt.jpg" width="130" height="97"  style="float:left;margin:0 1em 0 0;" /></a> Just came across a <a href="http://www.youtube.com/watch?v=bNF_P281Uu4">fantastic video</a> on youtube. Matt, the guy responsible writes about the adventure on his blog: <a title="Where the Hell is Matt? New York, NY It's Done" href="http://www.wherethehellismatt.com/blog/2006/06/20/new-york-ny-its-done/#comments">Where the Hell is Matt? New York, NY It's Done</a>
 
 What I want to know is, <em>what exactly is the connection between Matt and Stride gum</em>. 
 

@@ -12,7 +12,7 @@ tags: iphone, n-series, n97, nokia, smartfone, symbian
 author: dug
 ---
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Nokia n97" src="http://www.donkeyontheedge.com/images/n97_pressbanner.jpg" width="538" height="185" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Nokia n97" src="/images/n97_pressbanner.jpg" width="538" height="185" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
 
 Say your friendly tech commentators <a href="http://gizmodo.com/5308440/nokia-n97-review-nokia-is-doomed?skyline=true&amp;s=x">Gizmodo</a>
 

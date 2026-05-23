@@ -14,7 +14,7 @@ author: dug
 
 I've been spending quite a lot of time looking at the British Museum website these past couple of months. I've nicked this graphic from <a href="http://www.thebritishmuseum.ac.uk/compass/ixbin/hixclient.exe?_IXDB_=compass&amp;search-form=graphical%2Fmain.html&amp;submit-button=search">Compass</a>, their editor-selected presentation of 5000 significant pieces from <a href="http://www.thebritishmuseum.ac.uk/">the main collection</a>.
 
-<a href="http://www.thebritishmuseum.ac.uk/compass/ixbin/hixclient.exe?_IXDB_=compass&amp;_IXFIRST_=1&amp;_IXMAXHITS_=1&amp;_IXSPFX_=graphical/full/&amp;$+with+all_unique_id_index+is+$=OBJ13492&amp;submit-button=summary"><img alt="See the Tree of Life at The British Museum's website" src="http://www.donkeyontheedge.com/images/tol.gif" width="352" height="513" style="border:0;" /></a>
+<a href="http://www.thebritishmuseum.ac.uk/compass/ixbin/hixclient.exe?_IXDB_=compass&amp;_IXFIRST_=1&amp;_IXMAXHITS_=1&amp;_IXSPFX_=graphical/full/&amp;$+with+all_unique_id_index+is+$=OBJ13492&amp;submit-button=summary"><img alt="See the Tree of Life at The British Museum's website" src="/images/tol.gif" width="352" height="513" style="border:0;" /></a>
 
 <em>Maputo, Mozambique, 2001</em>
 

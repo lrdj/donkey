@@ -11,7 +11,7 @@ tags: httpd, Newton
 author: dug
 ---
 
-<img alt="newton.splorp.com" src="http://www.donkeyontheedge.com/images/slorp.gif" width="320" height="480" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;border:1px solid #ccc;" />
+<img alt="newton.splorp.com" src="/images/slorp.gif" width="320" height="480" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;border:1px solid #ccc;" />
 
 OK one last post before bed... I've just been reviewing the impact my mucking about with the templates has had on old <span class="caps">URL</span>s and came across the old splorp post with the "powered by Newton" gif.
 

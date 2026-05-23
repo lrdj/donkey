@@ -15,7 +15,7 @@ author: dug
 
 Have been playing with quirky.com so here's a concept to get us started. It's called "Paperplayer" :-)
 
-<img src="http://donkeyontheedge.com/images/paper-mp3-player.png" width="640" foo="311" alt="paper-mp3-player.png"  style="" />
+<img src="/images/paper-mp3-player.png" width="640" foo="311" alt="paper-mp3-player.png"  style="" />
 
 # The problem
 
@@ -40,6 +40,6 @@ From a technology standpoint, the player is an mp3 player plugged into whatever 
 
 Here's the kinda visual look I was thinking of. Add a couple of Vu meters and you're good to go...
 
-<img src="http://donkeyontheedge.com/images/philips.jpg" width="640" foo="434" alt="hi-fi"  style="" />
+<img src="/images/philips.jpg" width="640" foo="434" alt="hi-fi"  style="" />
 
 This idea is <a href="http://www.quirky.com/ideations/297179">on Quirky</a> if you're curious to see how the service works (or doesn't)

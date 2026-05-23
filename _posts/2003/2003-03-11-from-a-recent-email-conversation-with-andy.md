@@ -10,8 +10,8 @@ alt: ""
 author: dug
 ---
 
-Animal on speed attached: <a href="http://www.donkeyontheedge.com/images/Drum15.aiff">escuchar</a>
+Animal on speed attached: <a href="/images/Drum15.aiff">escuchar</a>
 
-A voodoo doctor being punished (for drinking vodka) at a very quiet but well attended flogging attached: <a href="http://www.donkeyontheedge.com/images/Drum12.aiff">escuchar</a>
+A voodoo doctor being punished (for drinking vodka) at a very quiet but well attended flogging attached: <a href="/images/Drum12.aiff">escuchar</a>
 
 (Andy sent me the link to the very fabulous <a href="http://artopod.com/groovelab/"> Groovelab 47</a>)

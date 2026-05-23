@@ -12,13 +12,13 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.greenpeace.org/apple/"><img alt="ilovemymac.jpeg" src="http://www.donkeyontheedge.com/images/ilovemymac-thumb.jpeg" width="364" height="142" /></a>
+<a href="http://www.greenpeace.org/apple/"><img alt="ilovemymac.jpeg" src="/images/ilovemymac-thumb.jpeg" width="364" height="142" /></a>
 
 So I got the Greenpeace <a href="http://www.greenpeace.org/apple/">spoof site</a> link on Viralmonitor this morning. Lovely idea, it'll be interesting to see if, and how fast Apple comes down hard on it. Just in case, I've grabbed their home page. If you click on the smaller image below you'll get a full-size screengrab.
 
 The site is surprisingly deep, and this being the era of value co-creation, Greenpeace is collaborating with its supporters. The <a href="http://www.greenpeace.org/apple/procreate.html">user-generated section</a> allows the visitor to design t-shirts, write an alternative Steve speech and design the obligatory television commercial using existing greenpeace footage. 
 
-<a href="http://www.donkeyontheedge.com/images/greenpeace.png"><img alt="greenpeace.png" src="http://www.donkeyontheedge.com/images/greenpeace-thumb.png" width="364" height="338" /></a>
+<a href="/images/greenpeace.png"><img alt="greenpeace.png" src="/images/greenpeace-thumb.png" width="364" height="338" /></a>
 
 Very nice work, am off to put words in Steve's mouth...
 

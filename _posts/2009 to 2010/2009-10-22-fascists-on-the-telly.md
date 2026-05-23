@@ -12,6 +12,6 @@ tags: #bbcqt, bnp, nf, NickGriffin, politics
 author: dug
 ---
 
-<img alt="bnp.jpg" src="http://www.donkeyontheedge.com/images/bnp.jpg" width="300" height="330" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+<img alt="bnp.jpg" src="/images/bnp.jpg" width="300" height="330" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
 
 Quite like this pic of Nick Griffin back when his position was outlined in slightly more explicit terms.

@@ -11,11 +11,11 @@ tags: ecss, edgedujour, interface, iphone, mobile, mobileoperator, self-care, us
 author: dug
 ---
 
-<img alt="Current edge icon" src="http://www.donkeyontheedge.com/images/edge_du_jour_03082008.gif" width="78" height="82" style="float: left; margin: 0 20px 5px 0;" /><span class="caps">OK,</span> I think O2 wins this donkey's current "Edge du Jour" tag.
+<img alt="Current edge icon" src="/images/edge_du_jour_03082008.gif" width="78" height="82" style="float: left; margin: 0 20px 5px 0;" /><span class="caps">OK,</span> I think O2 wins this donkey's current "Edge du Jour" tag.
 
 Take a look at this wizard-style information display from the O2 self-care website. I landed here as I had just invested a chunk of my free time trying to review my invoice online having received my monthly <em>your invoice is ready</em> html email. Of course I failed, and I then failed to refresh my password, and sent a few paragraphs of vitriol to the support email only to be told that O2 can only be contacted using their customer contact wizard (perversly named "email us").
 
-<img alt="This wizard display suggests a reluctance to engage in dialogue" src="http://www.donkeyontheedge.com/images/ecss.gif" width="370" height="86" style="margin:1em 0 1em 0;" />
+<img alt="This wizard display suggests a reluctance to engage in dialogue" src="/images/ecss.gif" width="370" height="86" style="margin:1em 0 1em 0;" />
 
 So before you even get started, what does this display suggest?
 
@@ -43,6 +43,6 @@ This is bad on further level. Dialog and transparency are now key elements of mo
 
 Finally, the contact form has an input box which I think demonstrates the marketing team's deep understanding of the customer:
 
-<img alt="are you sure you have an iPhone?" src="http://www.donkeyontheedge.com/images/doyouiphoneQ.gif" width="280" height="29" />
+<img alt="are you sure you have an iPhone?" src="/images/doyouiphoneQ.gif" width="280" height="29" />
 
 Now I'm pretty sure most iPhone customers can't tell the difference between an <span class="caps">N95, </span>an iPhone and a <span class="caps">K800</span>i. I know i certainly struggle with that one every day;-)

@@ -12,6 +12,6 @@ tags: brainstorm, design, ideas, lift
 author: dug
 ---
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Brainstorm table" src="http://www.donkeyontheedge.com/images/brainstormtable.jpg" width="400" height="240"  style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Brainstorm table" src="/images/brainstormtable.jpg" width="400" height="240"  style="" /></span>
 
 Love this <a href="http://interactivemediadesign.blogspot.com/2009/01/brainstorm-tables.html">giant post-it pad</a> made with paper and pallet :-)

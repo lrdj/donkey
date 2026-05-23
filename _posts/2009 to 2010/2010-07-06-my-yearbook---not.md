@@ -14,4 +14,4 @@ author: dug
 
 Eh ben on a pris un pot avec Anoop et mon voisin m'a pris en photo avec son iPhone 4. Voila le résultat:
 
-<img alt="dug-old-book.jpg" src="http://www.donkeyontheedge.com/images/dug-old-book.jpg" width="320" height="460" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+<img alt="dug-old-book.jpg" src="/images/dug-old-book.jpg" width="320" height="460" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />

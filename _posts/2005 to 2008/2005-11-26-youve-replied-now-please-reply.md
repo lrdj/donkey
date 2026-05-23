@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/ebay_respondnow.gif"><img alt="ebay_respondnow.gif" src="http://www.donkeyontheedge.com/images/ebay_respondnow-thumb.gif" width="364" height="252" /></a>
+<a href="/images/ebay_respondnow.gif"><img alt="ebay_respondnow.gif" src="/images/ebay_respondnow-thumb.gif" width="364" height="252" /></a>
 
 I'm routinely amazed at how eBay manages to be one of the internet's most successful services with one of the worst interfaces in the business sitting on top of some of the nastiest presentation-layer code I've had the misfortune to view source on...
 

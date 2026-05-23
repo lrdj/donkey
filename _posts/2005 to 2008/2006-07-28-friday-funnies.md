@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.masturbate-a-thon.co.uk/" title="support the charity"><img alt="whocancome.jpg" src="http://www.donkeyontheedge.com/images/whocancome-thumb.jpg" width="364" height="104" /></a>
+<a href="http://www.masturbate-a-thon.co.uk/" title="support the charity"><img alt="whocancome.jpg" src="/images/whocancome-thumb.jpg" width="364" height="104" /></a>
 
 One of the guys in strategy just sent this around. Apparently the <a href="http://www.masturbate-a-thon.co.uk/">Masturbathon</a> is to support the <a href="http://www.mariestopes.org.uk/">Marie Stopes</a> reproductive health charity.
 

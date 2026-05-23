@@ -12,7 +12,7 @@ tags: bloggers, computersbehindblogs, flickr groups, iain tait
 author: dug
 ---
 
-<a href="http://www.flickr.com/photos/bozo/380517082/" title="Photo Sharing"><img src="http://www.donkeyontheedge.com/images/arbusbook-thumb.jpg" width="370" height="277" alt="what a lovely hotel room you are living in" /></a>
+<a href="http://www.flickr.com/photos/bozo/380517082/" title="Photo Sharing"><img src="/images/arbusbook-thumb.jpg" width="370" height="277" alt="what a lovely hotel room you are living in" /></a>
 
 So Iain Tait's getting <a title="Computers Behind Blogs at iain tait | crackunit.com" href="http://www.crackunit.com/computersbehindblogs/">all memetastic</a> on our ass :-)
 

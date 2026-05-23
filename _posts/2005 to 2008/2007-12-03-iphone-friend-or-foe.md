@@ -12,7 +12,7 @@ tags: apple, iPhone, usability, user, ux
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/iphone-activation.jpg"><img alt="iphone-activation.jpg" src="http://www.donkeyontheedge.com/images/iphone-activation-thumb.jpg" width="360" height="184" /></a>
+<a href="/images/iphone-activation.jpg"><img alt="iphone-activation.jpg" src="/images/iphone-activation-thumb.jpg" width="360" height="184" /></a>
 
 <span class="caps">OK, </span>so I'm finishing the Orange gig which means new phone. I picked up an iPhone on Sunday and so far, the experience has been mixed...
 

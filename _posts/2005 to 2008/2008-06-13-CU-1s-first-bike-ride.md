@@ -12,7 +12,7 @@ tags: CU-1, CU-1
 author: dug
 ---
 
-<img alt="biker_CU-1.jpg" src="http://www.donkeyontheedge.com/images/biker_CU-1.jpg" width="370" height="500" />
+<img alt="biker_CU-1.jpg" src="/images/biker_CU-1.jpg" width="370" height="500" />
 
 Well, actually her first go on the GS was a couple of years ago in a Paddington car-park but today we got her into some jeans and strapped Nicki's old helmet on. We didn't go far as the fun-fair was only a few streets away but she kept her feet on the pegs and held on like a trouper.
 

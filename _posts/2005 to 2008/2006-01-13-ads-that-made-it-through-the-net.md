@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/beyon.jpg"><img alt="beyon.jpg" src="http://www.donkeyontheedge.com/images/beyon-thumb.jpg" width="364" height="273" /></a>
+<a href="/images/beyon.jpg"><img alt="beyon.jpg" src="/images/beyon-thumb.jpg" width="364" height="273" /></a>
 
 So I've been driving past this 48-sheet for a company called "Beyon" every morning this month and every time I pass it I wonder about how totally misguided the thing is...
 

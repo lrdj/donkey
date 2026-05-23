@@ -12,4 +12,4 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.logo-contest.com/finalists.php"><img style="padding:10px;" src="http://www.donkeyontheedge.com/images/dhs.gif" width="276" height="275" border="0" alt="mmmm..." /></a>
+<a href="http://www.logo-contest.com/finalists.php"><img style="padding:10px;" src="/images/dhs.gif" width="276" height="275" border="0" alt="mmmm..." /></a>

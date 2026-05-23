@@ -12,7 +12,7 @@ tags: acupuncture, alternative therapies, chinese medicine, flickr, geolocation,
 author: dug
 ---
 
-<img alt="foot.jpg" src="http://www.donkeyontheedge.com/images/foot.jpg" width="375" height="500" />
+<img alt="foot.jpg" src="/images/foot.jpg" width="375" height="500" />
 
 But the photo is <a href="http://www.flickr.com/photos/bozo/291440356/map/?view=everyones">geotagged</a> so if you follow the map to the store you can let me know what it's all about? 
 

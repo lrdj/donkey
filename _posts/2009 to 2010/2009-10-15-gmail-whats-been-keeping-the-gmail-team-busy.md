@@ -28,10 +28,10 @@ In any case, Gmail has just launched an addressee disambiguation system which do
 
 Ever included Bob (your boss) instead of Bob (your friend) on an email by accident? Oops! Turn on "Got the wrong Bob?" and Gmail will check if you meant to include Bob Smith rather than Bob Jones based on the groups of people you email most often.
 
-<img alt="wrongbob-a.png" src="http://www.donkeyontheedge.com/images/wrongbob-a.png" width="461" height="108"  style="" />
+<img alt="wrongbob-a.png" src="/images/wrongbob-a.png" width="461" height="108"  style="" />
 
 With "Don't forget Bob," you can start composing an email to a group of people, and Gmail will suggest other contacts you might want to include. Check out these experimental features and more on the Labs tab under Settings.
 
-<img alt="wrongbob-b.png" src="http://www.donkeyontheedge.com/images/wrongbob-b.png" width="461" height="108"  style="" />
+<img alt="wrongbob-b.png" src="/images/wrongbob-b.png" width="461" height="108"  style="" />
 
 Awesome, thanks Lab guys :-)

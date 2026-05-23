@@ -14,4 +14,4 @@ author: dug
 
 Just got this in the mail--sounds good in a kind of burning-man kind of way...
 
-<a href="http://www.themargateexodus.org.uk" title="check out their website"><img alt="exodus.gif" src="http://www.donkeyontheedge.com/images/exodus.gif" width="364" height="728" /></a>
+<a href="http://www.themargateexodus.org.uk" title="check out their website"><img alt="exodus.gif" src="/images/exodus.gif" width="364" height="728" /></a>

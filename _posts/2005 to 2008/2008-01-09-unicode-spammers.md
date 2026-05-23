@@ -12,7 +12,7 @@ tags: encoding, spam, unicode, webdesign
 author: dug
 ---
 
-<img alt="my gmail inbox with multiflavoured spam" src="http://www.donkeyontheedge.com/images/unicodeSpamers.gif" width="474" height="70" />
+<img alt="my gmail inbox with multiflavoured spam" src="/images/unicodeSpamers.gif" width="474" height="70" />
 
 So when I first started being interested in markup, I used to spend a lot of time trying to get non Western characters to work in web pages and imagining all sorts of crazy systems to support the transparent publishing across many weird and wonderful languages with their equally unique fonts.
 

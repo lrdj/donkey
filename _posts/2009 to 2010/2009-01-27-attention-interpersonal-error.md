@@ -12,6 +12,6 @@ tags: internet culture, ux
 author: dug
 ---
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Interpersonal error message" src="http://www.donkeyontheedge.com/images/maya-error-message.gif" width="492" height="120"  style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Interpersonal error message" src="/images/maya-error-message.gif" width="492" height="120"  style="" /></span>
 
 I'll bet <a href="http://scriptshifter.com/maya/?p=60">Maya's</a> forgotten about this old post but it cracked me up. Not only that but the online application (see <a href="http://atom.smasher.org/error/">AtomSmasher</a>) is still live...

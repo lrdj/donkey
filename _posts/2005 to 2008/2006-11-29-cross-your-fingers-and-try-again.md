@@ -12,6 +12,6 @@ tags: calendar, google, problems, unavailable
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/calendar-down.jpg"><img alt="calendar-down.jpg" src="http://www.donkeyontheedge.com/images/calendar-down-thumb.jpg" width="370" height="282" /></a>
+<a href="/images/calendar-down.jpg"><img alt="calendar-down.jpg" src="/images/calendar-down-thumb.jpg" width="370" height="282" /></a>
 
 This time it's Google calendar. Cross your fingers and try again? Gosh, they're getting creative...

@@ -26,8 +26,8 @@ Supports flexible public/semi-private ideation spaces?
 
 For the main everybody-at-the-same-table area i'd like to make a table (mdf, bits from builders merch etc etc) that's wobbly or round or just homemade looking (Jeff Bezos aparently still buys fireproof doors for desks at Amazon just like when he started--actually i find that hard to believe but the spirit is in the right place)
 
-<a href="http://donkeyontheedge.com/images/red-wobbly-tabble.jpg"><img alt="red-wobbly-tabble.jpg" src="/images/red-wobbly-tabble.jpg" width="535" height="347"  style="" /></a>
+<a href="/images/red-wobbly-tabble.jpg"><img alt="red-wobbly-tabble.jpg" src="/images/red-wobbly-tabble.jpg" width="535" height="347"  style="" /></a>
 
-<a href="http://donkeyontheedge.com/images/big-wobbly-table.jpg"><img alt="big-wobbly-table.jpg" src="/images/big-wobbly-table.jpg" width="535" height="334"  style="" /></a>
+<a href="/images/big-wobbly-table.jpg"><img alt="big-wobbly-table.jpg" src="/images/big-wobbly-table.jpg" width="535" height="334"  style="" /></a>
 
 (these images are also on Basecamp at <a href="https://dsgi.basecamphq.com/projects/4896059/files">https://dsgi.basecamphq.com/</a>)

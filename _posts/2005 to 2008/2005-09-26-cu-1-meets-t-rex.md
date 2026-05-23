@@ -12,7 +12,7 @@ category: "Family"
 author: dug
 ---
 
-<a href="http://www.flickr.com/photos/bozo/46398157/in/photostream/" title="see this image in Dug's Flickr photostream"><img src="http://www.donkeyontheedge.com/images/trex.gif" alt="CU-1 meets T-Rex" height="206" width="364" /></a>
+<a href="http://www.flickr.com/photos/bozo/46398157/in/photostream/" title="see this image in Dug's Flickr photostream"><img src="/images/trex.gif" alt="CU-1 meets T-Rex" height="206" width="364" /></a>
 
 CU-1 had a great afternoon today. She was totally terrified by the Museum of Natural History's T-rex model (it lunges and roars and comes complete with dry-ice and mood-lighting) but couldn't break away. 
 

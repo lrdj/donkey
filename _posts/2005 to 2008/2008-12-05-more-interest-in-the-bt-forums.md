@@ -17,7 +17,7 @@ tags:
 author: dug
 ---
 
-<img alt="BT orb logo graphic" src="http://www.donkeyontheedge.com/images/btlogo.gif" width="75" height="36" style="float: right; margin: 0 0 10px 10px;" />I seem to have inherited, largely by accident, a largeish contribution pool of disgruntled BT customers. Many of them comment with the phone strapped to their right ear, commenting on how many hours they spent on the phone to Mumbai or how many days they had been waiting for the callback that never came...
+<img alt="BT orb logo graphic" src="/images/btlogo.gif" width="75" height="36" style="float: right; margin: 0 0 10px 10px;" />I seem to have inherited, largely by accident, a largeish contribution pool of disgruntled BT customers. Many of them comment with the phone strapped to their right ear, commenting on how many hours they spent on the phone to Mumbai or how many days they had been waiting for the callback that never came...
 
 Anyhoo, got a couple of comments recently from Hannah, a television <a href="http://chameleontv.com/contact.html">production company</a> researcher who must have searched for blog posts by angry ex BT employees. We've got a couple of them here, so I guess they must have showed up in google (try <a href="http://www.google.com/search?hl=en&amp;safe=off&amp;q=bt+still+shit&amp;btnG=Search">this search</a> as an example)
 

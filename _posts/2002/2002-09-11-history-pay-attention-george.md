@@ -39,7 +39,7 @@ Now George, for our next exercise spot the difference between the two following 
 
 Of course the text refers to <a href="https://en.wikipedia.org/wiki/Executive_Order_9066">Executive Order 9066</a>, which resulted in the forcible internment of 120,000 people of Japanese ancestry in 1942, but it's surprisingly easy to replace 'Japanese' with 'Muslim' --- I don't know about you, but this worries me. Forgive me for bashing this point to death, check out <a href="http://memory.loc.gov/ammem/aamhtml/aamsp2.html">Ansel Adam's portraits</a> of the interned Americans. And repeat after me, "Muslims are people too".
 
-Finally, I'd like you to read <a href="http://donkeyontheedge.com/2002/02/15/if-you-are-american-read-this/">an address by President Dwight D Eisenhower</a>, one of America's greatest Commanders in Chief, regarding American foreign policy in a global, post-conflict situation (not too dissimilar from the feel of your own boots right now I should think...)
+Finally, I'd like you to read <a href="/if-you-are-american-read-this/">an address by President Dwight D Eisenhower</a>, one of America's greatest Commanders in Chief, regarding American foreign policy in a global, post-conflict situation (not too dissimilar from the feel of your own boots right now I should think...)
 
 I notice the White House website lauds "The Spirit of Freedom". I ask you to not be the instrument of its corruption.
 

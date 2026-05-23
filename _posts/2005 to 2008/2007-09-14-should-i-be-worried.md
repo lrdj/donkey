@@ -12,7 +12,7 @@ tags: J!INX, password, qcloud, quetchup, security, username, wordie
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/password.gif"><img alt="password.gif" src="http://www.donkeyontheedge.com/images/password-thumb.gif" width="370" height="259" /></a>
+<a href="/images/password.gif"><img alt="password.gif" src="/images/password-thumb.gif" width="370" height="259" /></a>
 
 Well, I cancelled my Quechup account two weeks ago. The interesting bit was that my gmail address book was spammed <strong>two days later</strong>. Now that is fucked up...
 

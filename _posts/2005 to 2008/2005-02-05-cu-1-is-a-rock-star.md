@@ -12,6 +12,6 @@ category: "Family"
 author: dug
 ---
 
-<img src="http://www.donkeyontheedge.com/images/book/mtrdb_364.jpg" alt="CU-1 cover art" height="97" width="364" />
+<img src="/images/book/mtrdb_364.jpg" alt="CU-1 cover art" height="97" width="364" />
 
 Family members may find it amusing to know that little <span class="caps">CU-1</span> Falby is appearing on the cover of a <a href="http://www.cognima.com/press/promo/music/vol3.shtml">promotional music CD</a> thus continuing a long Falby family tradition of using one's children in one's design pieces:-)

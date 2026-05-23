@@ -11,7 +11,7 @@ tags: advertising, naturalhistorymuseum, nhm, photography
 author: dug
 ---
 
-<img alt="ice_station.jpg" src="http://www.donkeyontheedge.com/images/ice_station.jpg" width="370" height="490" style="border:1px solid #ccc;" />
+<img alt="ice_station.jpg" src="/images/ice_station.jpg" width="370" height="490" style="border:1px solid #ccc;" />
 
 I love this photograph for the <a href="http://www.nhm.ac.uk/">Natural History Museum</a> kids only sections (sorry about the image quality, snapped on a bus stop). 
 

@@ -11,7 +11,7 @@ tags: card, customer service, eat, feedback, fraud, identity theft, value
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/eat.jpg"><img alt="eat.jpg" src="http://www.donkeyontheedge.com/images/eat-thumb.jpg" width="370" height="80" /></a>
+<a href="/images/eat.jpg"><img alt="eat.jpg" src="/images/eat-thumb.jpg" width="370" height="80" /></a>
 
 Wow, when was the last time you thought you'd get a response as a result of filling in a form on the web (never mind a rapid response)?
 

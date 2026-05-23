@@ -12,6 +12,6 @@ tags: #commons, #pd, copyright, jamesboyle
 author: dug
 ---
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://www.donkeyontheedge.com/images/owenblacker.png"><img alt="Owen Blacker on copyright" src="/images/owenblacker.png" width="490" height="258"  style="" /></a></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/owenblacker.png"><img alt="Owen Blacker on copyright" src="/images/owenblacker.png" width="490" height="258"  style="" /></a></span>
 
 James Boyle <a href="http://www.amazon.com/gp/product/0300137400">The Public Domain</a> time to go shopping methinks.

@@ -10,6 +10,6 @@ tags:
 author: dug
 ---
 
-<a href="http://donkeyontheedge.com/images/VandA.jpg"><img alt="Vorpin and Aphrodite" src="/images/VandA.jpg" width="640" foo="435"  style="" /></a>
+<a href="/images/VandA.jpg"><img alt="Vorpin and Aphrodite" src="/images/VandA.jpg" width="640" foo="435"  style="" /></a>
 
 Welcome Venus Flytraps, meet Vorpin and Aphrodite. Extra credit for identifying which child named which flytrap. And yes, CU-2 is determined to stuff as many bugs as possible in there.

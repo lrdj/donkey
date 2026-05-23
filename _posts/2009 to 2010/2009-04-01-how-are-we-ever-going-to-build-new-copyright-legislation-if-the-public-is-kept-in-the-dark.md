@@ -12,7 +12,7 @@ tags: Big Copyright, copyright, fair use, MPAA, RIAA
 author: dug
 ---
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Home sewing is killing fashion" src="http://www.donkeyontheedge.com/images/homesewing.gif" width="400" height="400" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Home sewing is killing fashion" src="/images/homesewing.gif" width="400" height="400" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
 
 I've just done something a bit odd. I watched Jonathan Ross' <em>Film 2009</em> on <span class="caps">BBC1 </span>and then called the duty officer (well, invested 50p on directory assistance to get the duty officer's number). He's not called the duty officer anymore and doesn't have a phone number as such... In today's <span class="caps">BBC </span>one <a href="http://www.bbc.co.uk/complaints/">uses the internet</a> to do these things :-)
 

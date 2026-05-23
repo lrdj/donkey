@@ -13,7 +13,7 @@ author: dug
 ---
 
 <ul>
-<li>Stanley Kubrik's <a href="http://www.donkeyontheedge.com/images/napoleon.pdf">Napoleon</a> (pdf file)</li>
+<li>Stanley Kubrik's <a href="/images/napoleon.pdf">Napoleon</a> (pdf file)</li>
 <li>The first Creative Commons <a href="http://mirrors.creativecommons.org/getcreative/">video</a> that explains the point of a 'commons' and why protecting everything forever might not be a good idea</li>
 <li>An update from the Creative commons team on <a href="http://mirrors.creativecommons.org/reticulum_rex/">where they are so far</a></li>
 </ul>

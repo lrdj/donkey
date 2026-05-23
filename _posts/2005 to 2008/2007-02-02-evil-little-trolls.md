@@ -17,7 +17,7 @@ I suggested he post the links to the swine so we'll see what happens.
 
 I was reminded on my own Troll, a nasty man (who, well, yes, nonetheless made some very good points but just not in a full-size-human kind of way...) called Andrew MacLaren who left a comment which had me floored for a week or two.
 
-I posted <a href="http://www.donkeyontheedge.com/design_and_usability/pissedoff_reader.html">the full text</a> at the time but I'm not sure if that helped. Here's a taster:
+I posted <a href="/pissed-off-reader/">the full text</a> at the time but I'm not sure if that helped. Here's a taster:
 
 <blockquote>...by some unfortunate deep linking i somehow landed at your 'website', having spent a few miserable minutes reading your mostly uninspiring and often self-rightous (pap) posts, it would appear to me that in many ways you come across as a borderline wanker, and although that may seem harsh i've just had another look and to put at nicely its a bag of shite! and from what i can gather this is what you actually do!??</blockquote>
 

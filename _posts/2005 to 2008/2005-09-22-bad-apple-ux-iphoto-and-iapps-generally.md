@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/bad_ia.gif"><img alt="bad_ia.gif" src="http://www.donkeyontheedge.com/images/bad_ia-thumb.gif" width="364" height="362" /></a>
+<a href="/images/bad_ia.gif"><img alt="bad_ia.gif" src="/images/bad_ia-thumb.gif" width="364" height="362" /></a>
 
 Well, don't get me started on the bloody 'brushed metal' look...  <span class="caps">OK, </span>on the whole I've been impressed with most of Apple's UX work. The iApps however are just plain shit and this little gem just about sums it up for<br />
 me.

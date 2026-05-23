@@ -11,7 +11,7 @@ tags: 6A, movable type, movabletype, mt, Six Apart
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/mt41_permissions.png"><img alt="mt41_permissions.png" src="http://www.donkeyontheedge.com/images/mt41_permissions-thumb.png" width="370" height="144" /></a>
+<a href="/images/mt41_permissions.png"><img alt="mt41_permissions.png" src="/images/mt41_permissions-thumb.png" width="370" height="144" /></a>
 
 A little confused by the implementations of permissions in <a href="http://movabletype.org/"><span class="caps">MT41</span></a> -- Are these 'permission tokens', fragments of data that exist independently of the user-object? I mean I get it that:
 

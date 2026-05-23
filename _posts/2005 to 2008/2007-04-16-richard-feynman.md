@@ -12,4 +12,4 @@ tags: electricvehicle, ev, ev1, feynman
 author: dug
 ---
 
-<img alt="feynman.jpg" src="http://www.donkeyontheedge.com/images/feynman.jpg" width="173" height="125" class="left" />A fan of Feynman writes an uplifting tribute: <a title="Richard Feynman: A Curious Character" href="http://www.teslamotors.com/blog4/">Richard Feynman: A Curious Character</a>
+<img alt="feynman.jpg" src="/images/feynman.jpg" width="173" height="125" class="left" />A fan of Feynman writes an uplifting tribute: <a title="Richard Feynman: A Curious Character" href="http://www.teslamotors.com/blog4/">Richard Feynman: A Curious Character</a>

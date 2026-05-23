@@ -56,6 +56,6 @@ While the test sample was very small, the recruitment and test moderation attemp
 <li>The test also clearly indicates that both product title and product image should both link to singleton view, however it might make sense in a future test to establish whether a link straight ot basket might be more appropriate on an ecommerce website.</li>
 </ul>
 
-Mohammed has attached the test findings as an excel spreadsheet:  <a href="http://donkeyontheedge.com/images/utest_10june2010.xls">utest_10june2010.xls</a>
+Mohammed has attached the test findings as an excel spreadsheet:  <a href="/images/utest_10june2010.xls">utest_10june2010.xls</a>
 
 Interesting stuff and fun, to boot :-)

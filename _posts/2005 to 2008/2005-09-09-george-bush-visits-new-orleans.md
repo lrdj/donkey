@@ -14,6 +14,6 @@ author: dug
 ---
 
 Ohna just sent this:<br />
-<a href="http://www.donkeyontheedge.com/images/BushVaca.jpg"><img alt="BushVaca.jpg" src="http://www.donkeyontheedge.com/images/BushVaca-thumb.jpg" width="364" height="233" /></a>
+<a href="/images/BushVaca.jpg"><img alt="BushVaca.jpg" src="/images/BushVaca-thumb.jpg" width="364" height="233" /></a>
 
 And another <a href="http://www.flickr.com/photos/mtg101/41663904/">American Pie:</a>

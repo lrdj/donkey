@@ -12,7 +12,7 @@ tags: 802.11x, coffee, wifi
 author: dug
 ---
 
-<img src="http://www.donkeyontheedge.com/images/freewifi.gif" alt="free wifi is available at this restaurant" height="72" width="144" class="left" style="float:left" />
+<img src="/images/freewifi.gif" alt="free wifi is available at this restaurant" height="72" width="144" class="left" style="float:left" />
 
 <blockquote>â€œBut isnâ€™t another coffee place in Portland like bringing coal to Newcastle?â€? asked an editor at the Oregonian, to which a reasonable response might be, yes, and at how many of these places does the coffee indeed taste like charcoal?</blockquote>
 

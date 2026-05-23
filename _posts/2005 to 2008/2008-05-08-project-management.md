@@ -11,6 +11,6 @@ tags: design, plan, project management, scope
 author: dug
 ---
 
-<a href="http://www.linuxkungfu.org/images/fun/geek/project.jpg"><img alt="linuxkungfuproject.jpg" src="http://www.donkeyontheedge.com/images/linuxkungfuproject-thumb.jpg" width="370" height="277" /></a>
+<a href="http://www.linuxkungfu.org/images/fun/geek/project.jpg"><img alt="linuxkungfuproject.jpg" src="/images/linuxkungfuproject-thumb.jpg" width="370" height="277" /></a>
 
 Just saw this on <a title="LinuxKungFu" href="http://www.linuxkungfu.org/">LinuxKungFu</a>. I love "how the analyst designed it" nothing like solving the wrong problems by not looking at the bigger picture. Fantastic:-)

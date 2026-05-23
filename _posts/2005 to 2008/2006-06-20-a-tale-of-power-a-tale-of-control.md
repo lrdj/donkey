@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/yawn.jpg"><img alt="yawn.jpg" src="http://www.donkeyontheedge.com/images/yawn-thumb.jpg" width="364" height="153" /></a>
+<a href="/images/yawn.jpg"><img alt="yawn.jpg" src="/images/yawn-thumb.jpg" width="364" height="153" /></a>
 
 So this one sounded good. I'm thinking 'power and control' sounds a lot like the mantra <em>du jour</em> "less control, greater influence". I'm thinking, crikey, they have Naomi Campbell and John Malkovich and they're doing some super-clever multilevel exploration of them (the company? the artists? the characters?) losing control and gaining influence mixed in with the 'power is nothing without control' brand message in a sort of advertising meets internet culture message mash-up...
 

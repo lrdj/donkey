@@ -24,4 +24,4 @@ We could probably refine that to
 
 <h2>(waterfall process + remote geolocation) * tight deadline = almost certain cockups</h2>
 
-<a href="http://donkeyontheedge.com/images/geoloc_software_engineering.pdf">Download the Zowghi report</a> (a bit dry but highlights the issues around requirements engineering)
+<a href="/images/geoloc_software_engineering.pdf">Download the Zowghi report</a> (a bit dry but highlights the issues around requirements engineering)

@@ -16,11 +16,11 @@ Information architecture and current state assessment.
 
 Role: Perform audit of all Museum's internet advertising and publishing activity, intranets, extranets and websites. Develop future publishing strategy and present plan to Directors. Establish costs and schedules for future activity.
 
-<img alt="BM-report-B.png" src="http://www.donkeyontheedge.com/images/BM-report-B.png" width="489" height="191"  style="padding-top:40px;" />
+<img alt="BM-report-B.png" src="/images/BM-report-B.png" width="489" height="191"  style="padding-top:40px;" />
 <small><em>Discovery workshop stimulus based on Museum structures</em></small>
 
-<img alt="BM-report-A.png" src="http://www.donkeyontheedge.com/images/BM-report-A.png" width="489" height="448"  style="padding-top:40px;" />
+<img alt="BM-report-A.png" src="/images/BM-report-A.png" width="489" height="448"  style="padding-top:40px;" />
 <small><em>Responding to the <span class="caps">DCMS </span>brief for Museums in the 21st Century</em></small>
 
-<img alt="BM-report-C.png" src="http://www.donkeyontheedge.com/images/BM-report-C.png" width="489" height="259"  style="padding-top:40px;" />
+<img alt="BM-report-C.png" src="/images/BM-report-C.png" width="489" height="259"  style="padding-top:40px;" />
 <small><em>Site flow dot file</em></small>

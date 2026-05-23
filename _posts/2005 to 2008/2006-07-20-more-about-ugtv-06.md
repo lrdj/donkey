@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/19072006845.jpg"><img alt="19072006845.jpg" src="http://www.donkeyontheedge.com/images/19072006845-thumb.jpg" width="160" height="120" style="float:left;margin:0 1em 0 0" /></a>Just got back from UGtv, crashed on the couch and have just woken up to Open University classics. How to give yourself jetlag without ever getting on a plane... 
+<a href="/images/19072006845.jpg"><img alt="19072006845.jpg" src="/images/19072006845-thumb.jpg" width="160" height="120" style="float:left;margin:0 1em 0 0" /></a>Just got back from UGtv, crashed on the couch and have just woken up to Open University classics. How to give yourself jetlag without ever getting on a plane... 
 
 Basically it was reasonably well attended with a few interesting speakers (and good catering too). I was hoping to hear about innovative image and film creation based on partnerships between production, broadcast and audience players. In the end, most talks and their associated questions were largely to do with how cheap UGtv is... More later if I can muster the enthusiasm.
 

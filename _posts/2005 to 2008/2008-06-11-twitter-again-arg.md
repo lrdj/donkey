@@ -12,6 +12,6 @@ tags: broken, down, scalable, services, sick, twitter
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/twitterdown.png"><img alt="twitterdown.png" src="http://www.donkeyontheedge.com/images/twitterdown-thumb.png" width="370" height="333" /></a>
+<a href="/images/twitterdown.png"><img alt="twitterdown.png" src="/images/twitterdown-thumb.png" width="370" height="333" /></a>
 
 <a title="Twitter / Over capacity" href="http://twitter.com/">Twitter / over capacity</a>. Man is there a tech case-study to be written here...

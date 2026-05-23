@@ -12,7 +12,7 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.ergame.com/"><img alt="ER:The Video Game" src="http://www.donkeyontheedge.com/images/erbox.jpg" width="150" height="185" class="right" style="border:none;" /></a> Just been contacted by Francis Poku at <a href="http://www.specialopsmedia.com">specialopsmedia.com</a> re featuring <a href="http://store.vugames.com/product.asp?cookie%5Ftest=1&amp;product%5Fid=645982&amp;affid=9155">the new ER game</a> on Donkey.
+<a href="http://www.ergame.com/"><img alt="ER:The Video Game" src="/images/erbox.jpg" width="150" height="185" class="right" style="border:none;" /></a> Just been contacted by Francis Poku at <a href="http://www.specialopsmedia.com">specialopsmedia.com</a> re featuring <a href="http://store.vugames.com/product.asp?cookie%5Ftest=1&amp;product%5Fid=645982&amp;affid=9155">the new ER game</a> on Donkey.
 
 The bumpf reads:
 

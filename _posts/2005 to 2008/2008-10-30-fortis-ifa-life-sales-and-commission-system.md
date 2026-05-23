@@ -16,6 +16,6 @@ Fortis: Life, pensions, investment products
 
 Role: Lead the conception and experience delivery of Fortis' latest transactional risk business tool (a secure, prime-partner portal). Establish <span class="caps">UCD </span>methodology in a <span class="caps">SCRUM </span>process environment and define and evangelise the role of user experience design in this traditional, software-engineering-led team.
 
-<img alt="Fortis-A.png" src="http://www.donkeyontheedge.com/images/Fortis-A.png" width="489" height="195"  style="" />
+<img alt="Fortis-A.png" src="/images/Fortis-A.png" width="489" height="195"  style="" />
 
 Outcome: We launched on time and our product has leapfrogged the industry leader in its first six months of operation.

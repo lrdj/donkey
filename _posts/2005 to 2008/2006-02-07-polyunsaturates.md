@@ -14,7 +14,7 @@ author: dug
 
 Cally has taken the time to reply. Thank you Cally:-)
 
-<blockquote><a href="http://www.donkeyontheedge.com/food/a_good_source_of_polyunsaturates.html">Dug asks</a> whether or not polyunsaturated fats are good for you. He quotes <a href="http://www.florahearts.co.uk/">a site</a> he has been working on, and in particular, the <a href="http://www.florahearts.co.uk/livingforahealthyheart/healthyeating/fats.aspx?style=1">page about fats</a> from the same site.
+<blockquote><a href="/a-good-source-of-polyunsaturates/">Dug asks</a> whether or not polyunsaturated fats are good for you. He quotes <a href="http://www.florahearts.co.uk/">a site</a> he has been working on, and in particular, the <a href="http://www.florahearts.co.uk/livingforahealthyheart/healthyeating/fats.aspx?style=1">page about fats</a> from the same site.
 
 Well... 
 

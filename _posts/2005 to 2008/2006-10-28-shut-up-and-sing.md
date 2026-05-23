@@ -20,4 +20,4 @@ For the most part, they find the site confusing and don't understand the mechani
 
 Check out <a href="http://www.myspace.com/shutupandsing">the Chicks' blog</a> they're using Wordpress and it looks good. The only shame is the flash front end doesn't let you record name and email so my post went up as "anonymous blogger"
 
-<a href="http://www.donkeyontheedge.com/images/dc-comment.jpg"><img alt="dc-comment.jpg" src="http://www.donkeyontheedge.com/images/dc-comment-thumb.jpg" width="354" height="109" style="border:1px solid #ccc;"/></a>
+<a href="/images/dc-comment.jpg"><img alt="dc-comment.jpg" src="/images/dc-comment-thumb.jpg" width="354" height="109" style="border:1px solid #ccc;"/></a>

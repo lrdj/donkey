@@ -14,7 +14,7 @@ author: dug
 
 Just saw Tim's piece on the <a href="http://www.glasshousepartnership.com/blog/orange-rockcorps-volunteering-yes-andwheres-the-social-capital/">Glasshouse</a> blog on Orange Rockcorps and understanding the value of the social capital.
 
-<a href="http://www.rockcorps.com/" title="visit the original rockcorps site in the US"><img alt="Rockcorps intro graphic" src="http://www.donkeyontheedge.com/images/rockcorps.gif" width="244" height="139" class="mt-image-left" style="border:none;float: left; margin: 0 1em 0.5em 0;" /></a>
+<a href="http://www.rockcorps.com/" title="visit the original rockcorps site in the US"><img alt="Rockcorps intro graphic" src="/images/rockcorps.gif" width="244" height="139" class="mt-image-left" style="border:none;float: left; margin: 0 1em 0.5em 0;" /></a>
 
 From there I had a quick look around and wow, quite a lot of negative opinion out there and a surprisingly <a href="http://www.brandrepublic.com/Discipline/Creative/57011/orange-rockcorps-fallon/">downbeat response</a> to the Orange rockcorps thing over at brandrepublic:
 

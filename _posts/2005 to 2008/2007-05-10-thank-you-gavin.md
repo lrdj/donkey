@@ -12,7 +12,7 @@ tags: breakfast, friendly, helpful, mac, service
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/images/worldfamouscafe.jpg"><img alt="worldfamouscafe.jpg" src="http://www.donkeyontheedge.com/images/worldfamouscafe-thumb.jpg" width="370" height="493" /></a>
+<a href="/images/worldfamouscafe.jpg"><img alt="worldfamouscafe.jpg" src="/images/worldfamouscafe-thumb.jpg" width="370" height="493" /></a>
 
 I just wanted to say thanks to Gavin at <a title="Mac Upgrades - Macintosh Upgrades in the UK" href="http://www.macupgrades.co.uk/store/">Mac Upgrades</a> for a really great job.
 

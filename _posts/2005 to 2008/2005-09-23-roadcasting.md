@@ -12,7 +12,7 @@ category: "Techno-bollocks"
 author: dug
 ---
 
-<img alt="roadcasting.gif" src="http://www.donkeyontheedge.com/images/roadcasting.gif" width="364" height="140" />
+<img alt="roadcasting.gif" src="/images/roadcasting.gif" width="364" height="140" />
 
 Well, those boffins over at Carnegie Mellon University are working on a new kind of collaborative, mobile broacasting they're calling <a href="http://www.roadcasting.org/">roadcasting</a>. In a nutshell,
 

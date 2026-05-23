@@ -12,7 +12,7 @@ tags: content, seo, ugc, video
 author: dug
 ---
 
-<a href="http://donkeyontheedge.com/images/An-illllustration-of-a-li-001.jpg"><img alt="Guardian illustration from LG promotion" src="/images/An-illllustration-of-a-li-001.jpg" width="535" height="395"  style="" /></a>
+<a href="/images/An-illllustration-of-a-li-001.jpg"><img alt="Guardian illustration from LG promotion" src="/images/An-illllustration-of-a-li-001.jpg" width="535" height="395"  style="" /></a>
 
 Just saw these this afternoon:
 

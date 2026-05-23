@@ -12,8 +12,8 @@ alt: ""
 author: dug
 ---
 
-<a href="http://www.donkeyontheedge.com/dugs_random_musings/raser_francais.html"><img src="/images/french_shave.jpg" alt="Pourquoi simplement se raser quand on peut se franchement compliquer la vie?" height="249" width="250" style="border:0;padding-left:4em;" /></a>
+<a href="/raser-francais/"><img src="/images/french_shave.jpg" alt="Pourquoi simplement se raser quand on peut se franchement compliquer la vie?" height="249" width="250" style="border:0;padding-left:4em;" /></a>
 
-After <a href="http://www.donkeyontheedge.com/dugs_random_musings/a_constructive_waste_of_time.html">mentioning</a> Alex B's post on shaving yesterday, I spotted this today. <a title="James Governor's MonkChips: On Razors: We're not consumers we're advertisers" href="http://www.redmonk.com/jgovernor/archives/001797.html">James Governor's MonkChips: On Razors: We're not consumers we're advertisers</a>
+After <a href="/a-constructive-waste-of-time/">mentioning</a> Alex B's post on shaving yesterday, I spotted this today. <a title="James Governor's MonkChips: On Razors: We're not consumers we're advertisers" href="http://www.redmonk.com/jgovernor/archives/001797.html">James Governor's MonkChips: On Razors: We're not consumers we're advertisers</a>
 
 Funny what we pick up on...

@@ -15,7 +15,7 @@ author: dug
 (This post isn't written yet but in the spirit of release early-and-often...)
 
 <!-- 
-<a href="http://www.donkeyontheedge.com/images/alexander_chadwick.jpg"><img alt="alexander_chadwick.jpg" src="http://www.donkeyontheedge.com/images/alexander_chadwick-thumb.jpg" width="120" height="69" /></a>
+<a href="/images/alexander_chadwick.jpg"><img alt="alexander_chadwick.jpg" src="/images/alexander_chadwick-thumb.jpg" width="120" height="69" /></a>
 -->
 
 <ul>
@@ -30,7 +30,7 @@ Quote from bbc guy:
 <blockquote>It certainly showed the power of what our users can do when they are close to a terrible event like this<br />
 Pete Clifton, <span class="caps">BBC</span> News Interactive</blockquote>
 
-<a href="http://www.donkeyontheedge.com/images/alex_chad2.jpg"><img src="http://www.donkeyontheedge.com/images/alex_chad2-thumb.jpg" alt="Passengers evacuate the tube" height="90" width="120" class="left" style="float:left" /></a>
+<a href="/images/alex_chad2.jpg"><img src="/images/alex_chad2-thumb.jpg" alt="Passengers evacuate the tube" height="90" width="120" class="left" style="float:left" /></a>
 
 The picture I'm refering to is captionned <em>"Passengers evacuate an underground train at Kings Cross (Photo: Alexander Chadwick)"</em>
 
