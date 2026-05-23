@@ -8,7 +8,7 @@ tags:
  - ui
  - usertesting
  - ux
-author: rob
+author: dug
 ---
 I saw this video and really enjoyed its simple method of creating the real user feedback we (as <span class="caps">DSG</span>i) so rarely do.
 
