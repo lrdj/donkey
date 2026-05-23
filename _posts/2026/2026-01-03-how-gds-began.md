@@ -29,11 +29,11 @@ But I'd hate to lose the magic of the moment, stars aligning and something truly
 
 *This is the story of what happened **before** GDS was created. There's sometimes a misconception that GDS was the first thing of its kind in government, but that's simply not the case. This story first appeared as a talk, which I did 2 or 3 times in Aviation House. I decided to write it up here on the wiki so that it doesn't get lost. -- Giles T [(blog link)](https://gilest.org/)*
 
-Most of the time, when we do presentations about our origins, we say that GDS began with the publication of [Martha Lane Fox](http://www.marthalanefox.com)'s letter to Francis Maude, [Revolution not Evolution](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox).
+Most of the time, when we do presentations about our origins, we say that GDS began with the publication of [Martha Lane Fox](https://en.wikipedia.org/wiki/Martha_Lane_Fox)'s letter to Francis Maude, [Revolution not Evolution](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox).
 
 In reality, the origins of GDS go back much further than that. GDS was actually the end of a longer path.
 
-It's a path that Martha herself called "the wave of inevitability". Her letter to Maude was the end of the beginning, the culmination of of all sorts of things that contributed to the wave.
+It's a path that Martha herself called "the wave of inevitability". Her letter to Maude was the end of the beginning, the culmination of all sorts of things that contributed to the wave.
 
 By 2010, government had already been thinking about digital change for at least 15 years.
 
