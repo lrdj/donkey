@@ -12,13 +12,11 @@ author: dug
 ---
 I saw this video and really enjoyed its simple method of creating the real user feedback we (as <span class="caps">DSG</span>i) so rarely do.
 
-<!-- new tag format -->
-<iframe width="425" height="344" 
-  src="https://www.youtube.com/embed/QckIzHC99Xc" frameborder="0" 
-  allowfullscreen></iframe>
-
-<!-- legacy format -->
+<!-- legacy format 
 <object style="height: 344px; width: 425px"><param name="movie" value="http://www.youtube.com/v/QckIzHC99Xc"><param  name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/QckIzHC99Xc" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></object>
+-->
+
+_May 2026: Rob's vide is long gone unfortunately_
 
 I think it would be great to start by testing a number of users (maybe just some non eCommerce types from head office) now and track how our improvements in design, content, functionality and proposition are received by some users when given a number of specific tasks to do.
 
