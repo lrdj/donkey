@@ -16,7 +16,7 @@ tags:
   - society
 ---
 
-I've been thinking about the ['Gilets Jaunes'](https://en.wikipedia.org/wiki/Yellow_vests_protests) movement that happened in France a few years ago. I'm trying to imagine what a similar movement in the UK would look like. A large group of broadly working class people decided they were pissed off at everything getting more expensive and their wages not keeping up. Reading about it, it seems like it stood out for having a greater proportion of women and first-time protesters. Also, members of the urban precariat were under-represented so it would be naïve to say everyobe was represented.
+I've been thinking about the ['Gilets Jaunes'](https://en.wikipedia.org/wiki/Yellow_vests_protests) movement that happened in France a few years ago. I'm trying to imagine what a similar movement in the UK would look like. A large group of broadly working class people decided they were pissed off at everything getting more expensive and their wages not keeping up. Reading about it, it seems like it stood out for having a greater proportion of women and first-time protesters. Also, members of the urban precariat were under-represented so it would be naïve to say everyone was there.
 
 I try to imagine the LBC broadcast or the Vox pop from the protest. I just can't imagine a group of anglo-saxons saying things like "we're angry at the erosion of our buying power". I mean we don't even have the language to go there...
 
