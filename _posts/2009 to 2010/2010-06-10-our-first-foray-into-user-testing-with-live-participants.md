@@ -7,11 +7,11 @@ description: "In the spirit of Rob&#8217;s earlier post I thought you guys might
 image: images/guerilla.jpg
 alt: "Impromptu testing out of a Starbucks"
 
-tags: 
-	- ui
-	- usability
-	- usertesting
-	- ux
+tags:
+  - ui
+  - usability
+  - usertesting
+  - ux
 
 author: dug
 ---
