@@ -17,7 +17,7 @@ tags:
   - family
 ---
 
-> Note from Dug 18 June 2026 - This page is still live at [https://bombsight.org/explore/](https://bombsight.org/explore/greater-london/barnet/golders-green/) but no longer renders correctly. As I linked the story of Jed in the Blitz to the page I've created a simplified mirror here so that family members reading the history can still access the data with an emphasis on making available to read the many stories posted to the original Bombsight website
+> Note from Dug 18 June 2026 - This page is still live at [https://bombsight.org/explore/](https://bombsight.org/explore/greater-london/barnet/golders-green/) but no longer renders correctly. As I linked the story of Jed as a child shetering from bombs in the Blitz to that page, I've created this simplified mirror here so that family members reading the history can still access the data with an emphasis on making available to read the many stories posted to the original Bombsight website
 
 Here is a simplified version of the content of that page.
 
