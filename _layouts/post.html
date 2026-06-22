@@ -67,6 +67,7 @@ layout: default
 					{% for img in page.bodygallery %}
 			        <figure class="gallery__item gallery__item--{{forloop.index}}">
 			            <a {% if img.first[1] != nil %}{% if img.first[1] contains "://" %}href="{{ img.first[1] }}" title="Were did I find this image?"{% else %}href="{{ site.url }}/{{ img.first[1] }}" title="read the original post"{% endif %}{%- else -%}href="{{ site.baseurl }}/images/{{ img.first[0] }}" title="view whole image"{%- endif -%}><img src="{{ site.baseurl }}/images/{{ img.first[0] }}" alt="Gallery image {{forloop.index}}" class="gallery__img"></a>
+				            {% assign imgkey = img.first[0] %}{% assign imgdate = site.data.image_dates[imgkey] %}{% if imgdate %}<figcaption class="gallery__date">{{ imgdate | date: "%-d %B %Y" }}</figcaption>{% endif %}
 			        </figure>
       	 			{% endfor %}
 			    </div>
@@ -79,6 +80,7 @@ layout: default
 					{% for img in page.bodygallerysmaller %}
 			        <figure class="gallery__item gallery__item--{{forloop.index}}">
 			            <a {% if img.first[1] != nil %}href="{{ site.url }}/{{ img.first[1] }}" title="read the original post"{%- else -%}href="{{ site.baseurl }}/images/{{ img.first[0] }}" title="view whole image"{%- endif -%}><img src="{{ site.baseurl }}/images/{{ img.first[0] }}" alt="Gallery image {{forloop.index}}" class="gallery__img"></a>
+				            {% assign imgkey = img.first[0] %}{% assign imgdate = site.data.image_dates[imgkey] %}{% if imgdate %}<figcaption class="gallery__date">{{ imgdate | date: "%-d %B %Y" }}</figcaption>{% endif %}
 			        </figure>
       	 			{% endfor %}
 			    </div>
