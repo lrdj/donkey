@@ -5,6 +5,7 @@ tags:
   - pictures
 categories:
   - "Pictures"
+  - "Digital Ixus"
 bodygallery:
   - ixus/184.jpg:
   - ixus/183.jpg:
