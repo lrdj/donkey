@@ -1,0 +1,7 @@
+- Intersting feedback, thanks. I think you're right that a clever jumpt to a page number makes no sense, not least because even the page numbers themselves are arbitrary subdivisions of the index set.
+- So I agree there's no need to add that extra complexity.
+- Agree jump to page is a keeper
+- Also agree re next/load more -- the default behaviour of this tool is to load the next index page, so 'next' is logical
+Worth thining about users and needs:
+1. Me - to be honest, I doubt anyone reads my blog. My mum used to read it occasionally but she's not with us anymore. What do I want? I want to be able to slide back and forth through the archive so I can find things and make edits, add comments etc. The search tool is great, I use that. For as a user, extensive numbers to click on are pretty useful but could probably be 'forward' / 'fast forward'
+2. My kids - one of the reason I want to maintain this thing is that it's my voice. It only covers a small frag,ent of their lifespan, but I wish my parents had done something like this. What do my kids need? I don't know, but this feels more like what you were describing "what was happening around when I was born" would be very useful. At the very least a year selector would be good, or a date or a month... That said, I think my daughter also scrolls so the 'next' button works for her...
