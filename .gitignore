@@ -26,6 +26,7 @@ claude.md
 # internal refactor process docs (narrate the name-scrub; keep out of public repo)
 refactor-log-May2026.md
 refactor-plan-May2026.md
+resume.md
 
 # Phase 2 backup staging — large, export to backup disk then delete; never commit
 collect-for-export-to-backup/
