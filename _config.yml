@@ -95,5 +95,5 @@ highlighter: rouge
 paginate: 40
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .DS_Store, collect-for-export-to-backup, refactor-log-May2026.md, refactor-plan-May2026.md, claude.md, _refactoring-May-2026]
+exclude: [README.markdown, claude-file-transfer, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .DS_Store, collect-for-export-to-backup, refactor-log-May2026.md, refactor-plan-May2026.md, claude.md, _refactoring-May-2026]
 
