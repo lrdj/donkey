@@ -47,7 +47,7 @@ I just read the news that Meta shut down the No Kings Instagram account.
 
 Clearly an automated fail-safe could have triggered the throttling because of a surge on that one account - absolutely fair enough. But realistically, given Meta's creepiness combined with their know-everything-all-the-time technology environment, the 'false alarm' could have been corrected in five minutes, not the five hours it took to get the community back online.
 
-So I wondered how we could bypass the our platform lords.
+So I wondered how we might try and bypass our platform lords
 
 A group whose members are already online does not need a hostile platform to coordinate. It can hand each member an installable web app, carry signed messages over several interchangeable open relays, and keep a fallback for every chokepoint.
 
