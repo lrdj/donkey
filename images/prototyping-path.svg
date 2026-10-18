@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 172" role="img" aria-label="Test the behaviour before the technology" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13">
+  <style>
+    .ink { fill: #1f1f1f; }
+    .quiet { fill: #6b6b6b; }
+    .edge { stroke: #b8b4a8; }
+    .arrowhead { fill: #b8b4a8; }
+    .accent { stroke: #2f6fd6; fill: #2f6fd6; fill-opacity: 0.12; }
+    @media (prefers-color-scheme: dark) {
+      .ink { fill: #ececec; }
+      .quiet { fill: #a8a8a8; }
+      .edge { stroke: #6e6b64; }
+      .arrowhead { fill: #6e6b64; }
+      .accent { stroke: #6aa0f5; fill: #6aa0f5; fill-opacity: 0.16; }
+    }
+  </style>
+  <defs>
+    <marker id="proto-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" class="arrowhead"/>
+    </marker>
+  </defs>
+
+  <text x="24" y="34" font-size="15" font-weight="600" class="ink">Test the behaviour before the technology</text>
+
+  <g fill="none" stroke-width="1.25" class="edge">
+    <path d="M176 104H208" marker-end="url(#proto-arrow)"/>
+    <path d="M360 104H392" marker-end="url(#proto-arrow)"/>
+    <path d="M544 104H576" marker-end="url(#proto-arrow)"/>
+  </g>
+
+  <!-- step 0 -->
+  <rect x="24" y="60" width="152" height="88" rx="8" stroke-width="2" class="accent"/>
+  <text x="36" y="80" font-size="11.5" class="quiet">STEP 0</text>
+  <text x="36" y="98" font-weight="600" class="ink">Behaviour test</text>
+  <text x="36" y="116" font-size="11.5" class="ink">One real group, one</text>
+  <text x="36" y="132" font-size="11.5" class="ink">event, off-the-shelf</text>
+
+  <!-- step 1 -->
+  <rect x="208" y="60" width="152" height="88" rx="8" fill="none" stroke-width="1.25" class="edge"/>
+  <text x="220" y="80" font-size="11.5" class="quiet">STEP 1</text>
+  <text x="220" y="98" font-weight="600" class="ink">Weekend PWA</text>
+  <text x="220" y="116" font-size="11.5" class="ink">Signed broadcasts</text>
+  <text x="220" y="132" font-size="11.5" class="ink">plus RSVP</text>
+
+  <!-- step 2 -->
+  <rect x="392" y="60" width="152" height="88" rx="8" fill="none" stroke-width="1.25" class="edge"/>
+  <text x="404" y="80" font-size="11.5" class="quiet">STEP 2</text>
+  <text x="404" y="98" font-weight="600" class="ink">Hostility drills</text>
+  <text x="404" y="116" font-size="11.5" class="ink">Kill a relay, block</text>
+  <text x="404" y="132" font-size="11.5" class="ink">a domain, go offline</text>
+
+  <!-- step 3 (conditional) -->
+  <rect x="576" y="60" width="152" height="88" rx="8" fill="none" stroke-width="1.25" stroke-dasharray="4 4" class="edge"/>
+  <text x="588" y="80" font-size="11.5" class="quiet">STEP 3 · IF NEEDED</text>
+  <text x="588" y="98" font-weight="600" class="ink">Group chat</text>
+  <text x="588" y="116" font-size="11.5" class="ink">Only if Step 0</text>
+  <text x="588" y="132" font-size="11.5" class="ink">shows demand</text>
+</svg>
