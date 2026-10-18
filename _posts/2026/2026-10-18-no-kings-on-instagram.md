@@ -155,9 +155,18 @@ Test the behaviour before the technology, and only build what Step 0 shows peopl
 | 2 | Hostility drills | The Step 1 prototype | Behaviour when a relay dies, the main domain is blocked, or phones go offline |
 | 3 | Group chat and moderation tooling | Matrix or encrypted Nostr groups | Only worth doing if Step 0 shows demand |
 
-**Next steps**
+**Possible next steps?**
 
-- [ ] Pick a friendly group and an event for Step 0
-- [ ] Define what counts as success (for example, share of members who saw the alert within 5 minutes)
-- [ ] Build the Step 1 prototype
+- Pick a friendly group and an event for Step 0
+- Define what counts as success (for example, share of members who saw the alert within 5 minutes)
+- Build the Step 1 prototype
+
+## But... ##
+
+We've been trying to make simple, downloadable federated versions of Meta platforms for years now. While some of the tech makes it easier today, the main challenges remain. Folk are broadly non-technical and they don't want to make all sorts of extra efforts just to attend No Kings (or indeed to vote). Whatever we come up with has to be as simple as Facebook itself and putting aside the trust thing, as 'painless' to install as Instagram. Not sure this does it, but would be curious to hear what folk thought...
+
+
+
+
+
 
