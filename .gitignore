@@ -30,3 +30,6 @@ resume.md
 
 # Phase 2 backup staging — large, export to backup disk then delete; never commit
 collect-for-export-to-backup/
+
+# LinkedIn data exports (private messages, CVs); raw input for the importer, never site content
+_incoming_LI_data/
