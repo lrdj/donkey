@@ -16,6 +16,9 @@ linkedin_url: "https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A751754616
 source: linkedin
 ---
 
-So if I understand correctly adding links in posts doesn't work? <https://donkeyontheedge.com/no-kings-on-instagram/>
 
-Basically, we've been talking about how to get around the platform vendors for years, but this latest foul play against No Kings feels like it could be time to start asking questions again. Have scribbled down a prototype spec for something the organisers could use to not be contained by Zuck and his crew. If anyone actually sees this or can read it would be interested to her from more technical colleagues how much of this looks like a good/bad idea:-)
+Basically, we've been talking about how to get around the platform vendors for years, but this latest foul play against No Kings feels like it could be time to start asking questions again. 
+
+Have [scribbled down a prototype spec](/no-kings-on-instagram/) for something the organisers could use to not be contained by Zuck and his crew. 
+
+If anyone actually sees this or can read it, would be interested to hear from my more technical colleagues how much of this looks possible or like a good / bad idea:-)
