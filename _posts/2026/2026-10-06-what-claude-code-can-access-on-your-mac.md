@@ -2,7 +2,7 @@
 title: "What Claude Code can access on your Mac"
 date: 2026-10-06 08:36:15 +0000
 image: "images/linkedin/what-claude-code-can-access-on-your-mac.webp"
-alt: "Abstract painting in the manner of Paul Klee, generated from the words of this post"
+alt: "Black and white film still of old television screens stacked on metal shelving, each glowing with a grid pattern"
 description: "Dug explains that Claude Code runs with your user's permissions, and considers running it as a separate user."
 categories:
   - "Techno-bollocks"

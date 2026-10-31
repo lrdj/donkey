@@ -2,7 +2,7 @@
 title: "A broken phone and no banking"
 date: 2026-09-27 10:30:51 +0000
 image: "images/linkedin/a-broken-phone-and-no-banking.webp"
-alt: "Abstract painting in the manner of Paul Klee, generated from the words of this post"
+alt: "An iPhone front camera and Face ID sensor module, removed from the phone on its ribbon cable, tinted pale green"
 description: "A damaged phone camera breaks Face ID, and Dug discovers how impossible banking becomes without it."
 categories:
   - "Techno-bollocks"
