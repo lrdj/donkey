@@ -122,6 +122,11 @@ layout: default
 			</nav>
 			{% endif %}
 
+            <!-- Link to the original LinkedIn thread for imported posts (31 Oct 2026) -->
+            {% if page.linkedin_url contains "https://" %}
+			<p><a class="text-dark" href="{{ page.linkedin_url }}">Comments on LinkedIn</a></p>
+            {% endif %}
+
             <!-- Comments (edit 16 Dec 2020) -->
             
             {% if page.comments != false %}
