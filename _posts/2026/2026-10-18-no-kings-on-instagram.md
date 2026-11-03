@@ -12,8 +12,8 @@ author: dug
 
 tags: 
   - federation
-  - sovereingty
-  - soveriegnsocial
+  - sovereignty
+  - sovereignsocial
   - meta
   - facebook
   - instagram
