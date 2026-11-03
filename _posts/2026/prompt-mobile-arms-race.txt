@@ -1,0 +1,10 @@
+
+
+
+There is an 'arms race' situation between orgs racing to build mobile apps because of device features (particularly around location, mapping, and security biometrics, etc) and device manufacturers finding ways to make device functions available to traditional mobile websites
+
+LLM-enhanced front-ends can helpfully co-exist with large content site information architecture chioces. There be a future where content design and info architecture work with LLMs to create content that is both clear and findable for both IA agents and humans.
+
+The era of apps is over. It was cool when we all learned the iPhone 3 was going to be a 'swiss army' knife of fun and helpful utilities, but the mobile app experience has become a chaotic mess of commercial bad faith actors, surveillance capitalism and enshitification driven aby advertising spend.
+
+With income inequality growing, the economy at a standstill and mass unemployment, services that claim to be for the common good or at least be universal in their service delivery need to stay as open and public as possible and that means orgs, and public sector orgs in particular should not be using mobile app as a primary channel.
