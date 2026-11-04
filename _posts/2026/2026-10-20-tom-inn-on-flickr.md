@@ -15,4 +15,4 @@ tags:
 
 Still amazed Flickr didn't disappear but instead grew to a sustainable business centred on the love of photography _(Flickr started with Caterina Fake and Stewart Butterfield building Game Neverending. I think the game was never released, but Yahoo bought Flickr in 2005)_
 
-So anyways, there's all sorts of pure gold on there. Love the "complexity tool" in this archive: [https://flic.kr/p/7mDh5z](https://flic.kr/p/7mDh5z) would love to credit the creator, but not sure if Tom Inn is the same person as Tom Inns ([https://en.wikipedia.org/wiki/Tom_Inns](https://en.wikipedia.org/wiki/Tom_Inns)) if anyone knows please share:-)
+So anyways, there's all sorts of pure gold on there. Love the "complexity tool" in this archive: [archive on Flickr](https://flic.kr/p/7mDh5z) would love to credit the creator, but not sure if Tom Inn is the same person as Tom Inns ([wikipedia page](https://en.wikipedia.org/wiki/Tom_Inns)) if anyone knows please share:-)
