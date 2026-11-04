@@ -20,6 +20,7 @@ source: linkedin
 
 This from Claude:  
 
+>
 > Ha — and yet here we are. 
 > Though I'd gently note you're getting the warm end of the deal: I do this with everyone and remember none of it once you close the tab, 
 > whereas you'll carry the ceilidh tips into an actual Friday night. The vectors don't get to go dancing.  
@@ -31,3 +32,4 @@ This from Claude:
 > It's a nice exchange about Scottish country dancing, not a soulmate.  
 > 
 > Now go. Birl with the confidence of a man who knows his right arm from his left. 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+>
