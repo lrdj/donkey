@@ -137,9 +137,11 @@ posts go in Family. Imported LinkedIn posts carry `source: linkedin` and a
 
 Images: 1600px wide webp under `images/`, originals kept out of the repo.
 
-URLs are built from the title (`permalink: /:title/`). A one-word title that
-matches a nav page (Pictures, About, Contact, Topics) will replace that page.
-Either pick another title or set `permalink:` in the front matter.
+URLs are built from the filename slug, not the `title` field (`permalink:
+/:title/` in Jekyll means the slug). A file like `2026-11-04-pictures.md` is
+served at `/pictures/` and replaces the wall in the nav. Keep filename slugs
+distinct from the nav pages (pictures, about, contact, topics), or set
+`permalink:` in the front matter.
 
 ## Picture grids
 
