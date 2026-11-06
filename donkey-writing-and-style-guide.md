@@ -137,6 +137,10 @@ posts go in Family. Imported LinkedIn posts carry `source: linkedin` and a
 
 Images: 1600px wide webp under `images/`, originals kept out of the repo.
 
+URLs are built from the title (`permalink: /:title/`). A one-word title that
+matches a nav page (Pictures, About, Contact, Topics) will replace that page.
+Either pick another title or set `permalink:` in the front matter.
+
 ## Picture grids
 
 A post can carry a grid of images via `bodygallery` (up to 8 images get a
@@ -192,3 +196,28 @@ What he actually wrote (17 June 2020):
 Note what a model would be tempted to add and he didn't: no opening line about
 lockdown, no reflection on what the river means, no tidy ending. Two typos
 left in. The feeling is entirely in "Counting the minutes".
+
+## Calibration from real edits
+
+What Dug changed in two drafts on 6 November 2026, kept here because the
+corrections are more useful than the rules.
+
+**Grid post.** Draft had a title ("Pictures from the phone") and two lines of
+text. He cut the text entirely, retitled it "Pictures", and backdated it two
+days. A grid post can have no body at all. One-word titles are fine.
+
+**Witness post.** Draft opened "So CU-1 and CU-2, this is the front page from
+Thursday. Kept it for you." He cut the direct address and kept "Kept it for
+you". The children are the reader; they do not need naming every time.
+
+Draft said Texas turning blue was something "I didn't think I'd see". He
+replaced it with "just one of many surpises that evening". Do not put an
+opinion or a prediction in his mouth; report what the page says.
+
+Draft ended "Wanted you to know I was paying attention." He replaced it with
+"No idea what happens next but I guess you'll know by the time you read
+this:-)". The feeling was stated outright, which the guide already says not
+to do, and the model did it anyway. The smiley and the wry line do that work.
+The future reader is acknowledged obliquely, never earnestly.
+
+The typo in "surpises" was his and stayed.
