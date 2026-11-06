@@ -13,7 +13,7 @@ author: dug
 # creation date: 2008-07-17 13:00:58
 ---
 
-<img src="/images/HEF-on-frame.jpg" width="180" alt="HEF on the big-boy climbing frame" style="float:left;margin:0 1em 0 0;" />So Charlotte wants me to spread the web2 love re ex-classmate <a href="http://www.imdb.com/name/nm0085736/">Dirk Blackman</a>'s new production <a href="http://en.wikipedia.org/wiki/Outlander_%28film%29">Outlander</a> and why not? (that's our in-house Viking H on the big-boy climbing frame over there on the left for our family readers)
+<img src="/images/CU-2-on-frame.jpg" width="180" alt="CU-2 on the big-boy climbing frame" style="float:left;margin:0 1em 0 0;" />So Charlotte wants me to spread the web2 love re ex-classmate <a href="http://www.imdb.com/name/nm0085736/">Dirk Blackman</a>'s new production <a href="http://en.wikipedia.org/wiki/Outlander_%28film%29">Outlander</a> and why not? (that's our in-house Viking H on the big-boy climbing frame over there on the left for our family readers)
 
 As Eva Metalios puts it:
 

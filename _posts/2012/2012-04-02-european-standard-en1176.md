@@ -7,7 +7,7 @@ tags:
   - 'Barnet General'
   - EN1176
   - 'first aid'
-  - HEF
+  - CU-2
 author: dug
 categories:
  - "Our story"

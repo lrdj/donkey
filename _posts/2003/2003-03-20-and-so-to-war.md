@@ -5,8 +5,9 @@ date: 2003-03-20 07:43:27
 description: "9661670"
 
 
-image: images/defaultThumbnail.png
-alt: ""
+image: images/and-so-to-war.webp
+target: images/and-so-to-war.webp
+alt: "A column of US Humvees with gunners on top driving through an orange sandstorm in Iraq, March 2003"
 
 
 author: dug

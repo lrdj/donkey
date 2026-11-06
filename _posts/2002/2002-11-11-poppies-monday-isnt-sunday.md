@@ -11,7 +11,7 @@ I had a discussion with my Dad when I was down in Devon a couple of weeks ago. H
 
 As I write these words, it is 150 minutes to 11:00. I mention the time because I personally mark this moment every year. While I don't wear the little red buttonhole, I do drop coins in the many tins and boxes doing the rounds. I guess the exact date and time is important to me. Of course exact is the wrong word, as 11:00 in that restaurant car in Compi&egrave;gne is most likely 10:00 at my desk in West Hampstead. For me, the date and time are important as they help me connect with the events of 1918.
 
-![Jed and HEF place a wreath in the field where Eddie died in 1916](/images/eddie-CU-2-cu.jpg)
+![Jed and CU-2 place a wreath in the field where Eddie died in 1916](/images/eddie-CU-2-cu.jpg)
 
 The minute of silence was made institution in 1919 on the first anniversary of the signing of the armistice (for you young 'uns out there, the document officially ending the Great War was signed in a converted restaurant car in Compi&egrave;gne, near Paris, France on the 1tth of November at 11 o'clock) and has continued since then. I make a point of pausing at that hour, every year, and thinking about what it all means.
 

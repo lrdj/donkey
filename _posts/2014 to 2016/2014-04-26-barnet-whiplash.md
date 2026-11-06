@@ -10,6 +10,6 @@ tags: diary, family
 author: dug
 ---
 
-What the hell is going on around here?!? First I get thwacked by a car and end up in ICU, then Nicki's Mum has a stroke and then she's back in an ambulance today with CU-1 giving herself whiplash on the trampoline (HEF and CU-1 are now happy they've both been issued neck braces).
+What the hell is going on around here?!? First I get thwacked by a car and end up in ICU, then Nicki's Mum has a stroke and then she's back in an ambulance today with CU-1 giving herself whiplash on the trampoline (CU-2 and CU-1 are now happy they've both been issued neck braces).
 
 So can we chill a bit now please?
