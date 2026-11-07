@@ -8,7 +8,12 @@ description: "Last year I built a couple of sites for a guy that I frequently co
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bridal, De Beers, diamonds, luxury, seo
+tags:
+  - "bridal"
+  - "De Beers"
+  - "diamonds"
+  - "luxury"
+  - "seo"
 author: dug
 ---
 

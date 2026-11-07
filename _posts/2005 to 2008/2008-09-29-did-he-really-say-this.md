@@ -8,7 +8,9 @@ description: "Frankly, it&#8217;s easy for me to go to washington and be somewha
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: elections, usa
+tags:
+  - "elections"
+  - "usa"
 author: dug
 ---
 

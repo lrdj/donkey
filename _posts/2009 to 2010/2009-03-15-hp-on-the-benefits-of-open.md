@@ -8,7 +8,13 @@ description: "From news.bbc.co.uk While most companies keep their most valuable 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: copyright, hp, ip, open, patent, recession
+tags:
+  - "copyright"
+  - "hp"
+  - "ip"
+  - "open"
+  - "patent"
+  - "recession"
 author: dug
 ---
 

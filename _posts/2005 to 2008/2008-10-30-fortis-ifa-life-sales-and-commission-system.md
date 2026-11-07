@@ -8,7 +8,8 @@ description: "Fortis --  Life, pensions, investment products Role --  Lead the c
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Projects
+tags:
+  - "Projects"
 author: dug
 ---
 

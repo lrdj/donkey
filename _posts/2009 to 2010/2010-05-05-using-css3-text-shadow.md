@@ -8,7 +8,11 @@ description: ""
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: browsers, code, css3, text-shadow
+tags:
+  - "browsers"
+  - "code"
+  - "css3"
+  - "text-shadow"
 author: neil
 ---
 

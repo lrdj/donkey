@@ -8,7 +8,15 @@ description: " A man after my own heart  -- -)&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 5k, bandwidth, design, lightweight, quality, twitter, UE, usability
+tags:
+  - "5k"
+  - "bandwidth"
+  - "design"
+  - "lightweight"
+  - "quality"
+  - "twitter"
+  - "UE"
+  - "usability"
 author: dug
 ---
 

@@ -8,7 +8,14 @@ description: " Alex over at artflutter just posted a link to an mp3 of the Banks
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: appropriation, artflutter, banksy, dangermouse, paris, paris hilton, value
+tags:
+  - "appropriation"
+  - "artflutter"
+  - "banksy"
+  - "dangermouse"
+  - "paris"
+  - "paris hilton"
+  - "value"
 author: dug
 ---
 

@@ -8,7 +8,9 @@ description: "Overheard on the train this morning --  &#8230;but if people reall
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: value co-creation, value-mapping
+tags:
+  - "value co-creation"
+  - "value-mapping"
 author: dug
 ---
 

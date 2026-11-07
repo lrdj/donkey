@@ -8,7 +8,13 @@ description: "How did I miss this one&#8230; &#8220;Malaria is spread by mosquit
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: billgates, health, malaria, microsoft, mosquitoes, TED
+tags:
+  - "billgates"
+  - "health"
+  - "malaria"
+  - "microsoft"
+  - "mosquitoes"
+  - "TED"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: "I had an idea to increase promotional aspects of the sites. We cou
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: competition, ideas, promotional
+tags:
+  - "competition"
+  - "ideas"
+  - "promotional"
 author: neil
 ---
 

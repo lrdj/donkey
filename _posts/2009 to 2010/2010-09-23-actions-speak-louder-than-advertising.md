@@ -8,7 +8,11 @@ description: "Awesome deck from razorfish --  View more presentations from Razor
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, experience, media, ux
+tags:
+  - "advertising"
+  - "experience"
+  - "media"
+  - "ux"
 author: dug
 ---
 

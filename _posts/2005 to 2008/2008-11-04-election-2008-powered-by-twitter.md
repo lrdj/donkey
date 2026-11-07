@@ -8,7 +8,9 @@ description: "Man this is something, the twitter election feed which uses a scri
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: election08, Obama
+tags:
+  - "election08"
+  - "Obama"
 author: dug
 ---
 

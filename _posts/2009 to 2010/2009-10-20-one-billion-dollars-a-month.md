@@ -8,7 +8,14 @@ description: "Never mind the pithy and insightful piece on yet more examples of 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cleptocracy, evil, finance, fun, greed, overstatement, understatement
+tags:
+  - "cleptocracy"
+  - "evil"
+  - "finance"
+  - "fun"
+  - "greed"
+  - "overstatement"
+  - "understatement"
 author: dug
 ---
 

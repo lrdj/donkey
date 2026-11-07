@@ -8,7 +8,13 @@ description: "Governments (well, the current UK government) don&#8217;t get it. 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: count, electronic, poll, technology, vote, voting
+tags:
+  - "count"
+  - "electronic"
+  - "poll"
+  - "technology"
+  - "vote"
+  - "voting"
 author: dug
 ---
 

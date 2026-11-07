@@ -8,7 +8,14 @@ description: " Just love it that Rockstar devs and designers use post-its too --
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: design, games, gaming, gta, post-its, UI, UX
+tags:
+  - "design"
+  - "games"
+  - "gaming"
+  - "gta"
+  - "post-its"
+  - "UI"
+  - "UX"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: "To all As mentioned yesterday, here are some of the blogs and webs
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: inspiration, ui, ux
+tags:
+  - "inspiration"
+  - "ui"
+  - "ux"
 author: neil
 ---
 

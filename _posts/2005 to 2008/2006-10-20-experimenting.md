@@ -8,7 +8,12 @@ description: "Glad to see Iain Tait is experimenting (and, in the process has fo
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, gender, internet culture, politics, second life
+tags:
+  - "advertising"
+  - "gender"
+  - "internet culture"
+  - "politics"
+  - "second life"
 author: dug
 ---
 

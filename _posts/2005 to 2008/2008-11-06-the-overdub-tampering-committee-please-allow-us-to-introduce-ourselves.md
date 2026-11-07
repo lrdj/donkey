@@ -8,7 +8,8 @@ description: "Oh thanks Mark this is just wonderful on so many levels  -- -) Che
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Big Copyright
+tags:
+  - "Big Copyright"
 author: dug
 ---
 

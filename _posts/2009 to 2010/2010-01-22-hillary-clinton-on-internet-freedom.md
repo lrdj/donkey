@@ -8,7 +8,13 @@ description: "Love these comments from Hilary Clinton as they rekindle my belief
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: finance, mft, microfinance, microfutures, mobile, policy
+tags:
+  - "finance"
+  - "mft"
+  - "microfinance"
+  - "microfutures"
+  - "mobile"
+  - "policy"
 author: dug
 ---
 

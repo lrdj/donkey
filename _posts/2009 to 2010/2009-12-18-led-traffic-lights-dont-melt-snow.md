@@ -8,7 +8,16 @@ description: "Franco just sent me this utterly wonderful example of what happens
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: complexity, context of use, contextofuse, design, human, humanfactors, systems, ucd, ux
+tags:
+  - "complexity"
+  - "context of use"
+  - "contextofuse"
+  - "design"
+  - "human"
+  - "humanfactors"
+  - "systems"
+  - "ucd"
+  - "ux"
 author: dug
 ---
 

@@ -8,7 +8,13 @@ description: "Adaptive Path&#8217;s Andrew Crow on peer generated achievements i
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: gaming, reward, social, team structures, trophies, ux
+tags:
+  - "gaming"
+  - "reward"
+  - "social"
+  - "team structures"
+  - "trophies"
+  - "ux"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: "Not like us cheeky biker-types who are familiar with little two-st
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: F1, fun, petrolhead
+tags:
+  - "F1"
+  - "fun"
+  - "petrolhead"
 author: dug
 ---
 

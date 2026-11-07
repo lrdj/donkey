@@ -7,7 +7,11 @@ description: "CU-1 has recorded a song for Ruth who is unwell and is stuck in a 
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: CU-1, CU-1, diary, family, mum
+tags:
+  - "CU-1"
+  - "diary"
+  - "family"
+  - "mum"
 author: dug
 ---
 

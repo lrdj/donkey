@@ -7,7 +7,11 @@ description: "I&#8217;d love to know what got me started on this thing&#8230; Of
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: generalelection debill libdems ge10
+tags:
+  - "generalelection"
+  - "debill"
+  - "libdems"
+  - "ge10"
 author: dug
 ---
 

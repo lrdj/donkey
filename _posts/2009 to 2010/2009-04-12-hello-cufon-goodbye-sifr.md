@@ -8,7 +8,15 @@ description: "Wow, finally a sensible-looking alternative to sIFR. I mean don&#8
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Cufón, cufon, flash, sIFR, type, typography, vml, web
+tags:
+  - "Cufón"
+  - "cufon"
+  - "flash"
+  - "sIFR"
+  - "type"
+  - "typography"
+  - "vml"
+  - "web"
 author: dug
 ---
 

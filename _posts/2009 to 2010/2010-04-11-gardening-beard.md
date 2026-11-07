@@ -8,7 +8,8 @@ description: "One of the fun side-effects of not shaving for a few weeks is that
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: family
+tags:
+  - "family"
 author: dug
 ---
 

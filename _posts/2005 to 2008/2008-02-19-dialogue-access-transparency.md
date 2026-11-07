@@ -7,7 +7,9 @@ description: "I&#8217;ve been following the birth of the Tesla roadster and this
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: ev, tesla
+tags:
+  - "ev"
+  - "tesla"
 author: dug
 ---
 

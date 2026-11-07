@@ -8,7 +8,11 @@ description: "Pharmacist --  Have you renewed that prescription, do you know how
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Boots, iPad, service design, silver surfers
+tags:
+  - "Boots"
+  - "iPad"
+  - "service design"
+  - "silver surfers"
 author: dug
 ---
 

@@ -8,7 +8,15 @@ description: "Gosh, the word &#8220;Starbucks&#8221; appears twenty-three times 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, clinique, collaborative media, lg15, lonelygirl15, marketing, product placement, starbucks
+tags:
+  - "advertising"
+  - "clinique"
+  - "collaborative media"
+  - "lg15"
+  - "lonelygirl15"
+  - "marketing"
+  - "product placement"
+  - "starbucks"
 author: dug
 ---
 

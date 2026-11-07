@@ -8,7 +8,10 @@ description: " I&#8217;ve been thinking quite a bit about colours since before C
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: colour, colourways, pantone
+tags:
+  - "colour"
+  - "colourways"
+  - "pantone"
 author: dug
 ---
 

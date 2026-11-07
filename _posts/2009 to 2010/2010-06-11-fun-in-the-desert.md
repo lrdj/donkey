@@ -8,7 +8,13 @@ description: " Just came across Blue Collar Moto. Awesome vintage bikes, desert 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bikes, desertracing, fun, motorcycle, motos, vintage
+tags:
+  - "bikes"
+  - "desertracing"
+  - "fun"
+  - "motorcycle"
+  - "motos"
+  - "vintage"
 author: dug
 ---
 

@@ -8,7 +8,14 @@ description: "This latest example takes the biscuit. I have read several documen
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Big Copyright, IP, markets, mobile, patents, softwarepatents, ux
+tags:
+  - "Big Copyright"
+  - "IP"
+  - "markets"
+  - "mobile"
+  - "patents"
+  - "softwarepatents"
+  - "ux"
 author: dug
 ---
 

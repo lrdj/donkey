@@ -8,7 +8,11 @@ description: "Yes siree bob it&#8217;s that day again, document freedom day Docu
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: dfd, dfd09, open standards, standards
+tags:
+  - "dfd"
+  - "dfd09"
+  - "open standards"
+  - "standards"
 author: dug
 ---
 

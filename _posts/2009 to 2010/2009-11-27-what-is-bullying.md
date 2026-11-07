@@ -8,7 +8,15 @@ description: " CU-1&#8217;s school has just finished a session of National anti-
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bullying, education, management, primary, school, team, team structures, UK
+tags:
+  - "bullying"
+  - "education"
+  - "management"
+  - "primary"
+  - "school"
+  - "team"
+  - "team structures"
+  - "UK"
 author: dug
 ---
 

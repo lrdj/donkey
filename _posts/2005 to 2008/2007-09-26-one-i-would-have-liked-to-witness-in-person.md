@@ -8,7 +8,10 @@ description: "Complete Video of the SIPA-World Leaders Forum with the President 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: columbia, iran, politics
+tags:
+  - "columbia"
+  - "iran"
+  - "politics"
 author: dug
 ---
 

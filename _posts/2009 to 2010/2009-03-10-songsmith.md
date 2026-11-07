@@ -8,7 +8,15 @@ description: " There was some chat this morning about corporate videos for emplo
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: embarrassing, funny, KPMG, microsoft, misguided, music, unfortunate, video
+tags:
+  - "embarrassing"
+  - "funny"
+  - "KPMG"
+  - "microsoft"
+  - "misguided"
+  - "music"
+  - "unfortunate"
+  - "video"
 author: dug
 ---
 

@@ -8,7 +8,14 @@ description: "25 created by oneplusyou &#8212; a free dating site How many five-
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: co-creation, creativity, dating, engagement, marketing, spam, viral
+tags:
+  - "co-creation"
+  - "creativity"
+  - "dating"
+  - "engagement"
+  - "marketing"
+  - "spam"
+  - "viral"
 author: dug
 ---
 

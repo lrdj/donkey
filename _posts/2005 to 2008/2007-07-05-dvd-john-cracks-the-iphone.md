@@ -7,7 +7,14 @@ description: "Wey hey, a sim unlock for iPhone is on it&#8217;s way&#8230; DVD J
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: iphone, mobile, network, simlock, unlock, value, value co-creation
+tags:
+  - "iphone"
+  - "mobile"
+  - "network"
+  - "simlock"
+  - "unlock"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

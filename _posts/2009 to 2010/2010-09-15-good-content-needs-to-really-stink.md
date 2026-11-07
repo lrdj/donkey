@@ -8,7 +8,10 @@ description: "Or &#8220;have scent&#8221; in the words of Jared Spool In the art
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: agile, ui, ux
+tags:
+  - "agile"
+  - "ui"
+  - "ux"
 author: dug
 ---
 

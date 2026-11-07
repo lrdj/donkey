@@ -8,7 +8,8 @@ description: " Turns out the trick to building high mileages is not to hack your
 image: images/45.44-miles.png
 alt: "45.44-miles.png"
 
-tags: palace2palace
+tags:
+  - "palace2palace"
 author: dug
 ---
 

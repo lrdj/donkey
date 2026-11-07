@@ -8,7 +8,14 @@ description: "Everyone is quoting the really great stuff from Stephen on the imp
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: fanbow, ipad, keynote, mac, reviews, stephenfry, stevejobs
+tags:
+  - "fanbow"
+  - "ipad"
+  - "keynote"
+  - "mac"
+  - "reviews"
+  - "stephenfry"
+  - "stevejobs"
 author: dug
 ---
 

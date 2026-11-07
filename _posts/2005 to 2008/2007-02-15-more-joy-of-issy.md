@@ -8,7 +8,9 @@ description: "Billy claims that Issy-Les-Moulineaux is the star of a famous exam
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: issylesmoulineaux, pragmatics
+tags:
+  - "issylesmoulineaux"
+  - "pragmatics"
 author: dug
 ---
 

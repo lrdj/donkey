@@ -8,7 +8,12 @@ description: " Wow, I&#8217;ve been suggesting that institutions who depend on h
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: art, artists, copyright, institutions, photography
+tags:
+  - "art"
+  - "artists"
+  - "copyright"
+  - "institutions"
+  - "photography"
 author: dug
 ---
 

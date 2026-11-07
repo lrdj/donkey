@@ -8,7 +8,16 @@ description: "So I maintain a pile of Windows disk images to test sites in the n
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: AT, browser, explorer, FUT, IE, microsoft, test, testing, useragent
+tags:
+  - "AT"
+  - "browser"
+  - "explorer"
+  - "FUT"
+  - "IE"
+  - "microsoft"
+  - "test"
+  - "testing"
+  - "useragent"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: "So here&#8217;s an article on Facebook landing pages The site wide
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: facebook, fanpage, socialmedia
+tags:
+  - "facebook"
+  - "fanpage"
+  - "socialmedia"
 author: dug
 ---
 

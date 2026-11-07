@@ -8,7 +8,12 @@ description: "It centers around the idea that apps shouldn&#8217;t force us to a
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: apps, experience, flock, mobile, value
+tags:
+  - "apps"
+  - "experience"
+  - "flock"
+  - "mobile"
+  - "value"
 author: dug
 ---
 

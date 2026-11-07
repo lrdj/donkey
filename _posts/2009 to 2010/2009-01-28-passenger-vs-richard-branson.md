@@ -8,7 +8,9 @@ description: "A quality letter of complaint is a thing of beauty  -- -)&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: consumer, ugc
+tags:
+  - "consumer"
+  - "ugc"
 author: dug
 ---
 

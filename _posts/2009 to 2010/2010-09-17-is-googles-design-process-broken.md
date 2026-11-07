@@ -8,7 +8,11 @@ description: "Really interesting article on the Google un-design process by the 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: creativity, design, process, product
+tags:
+  - "creativity"
+  - "design"
+  - "process"
+  - "product"
 author: dug
 ---
 

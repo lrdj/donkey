@@ -11,7 +11,10 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: evil, ir35, thatcher
+tags:
+  - "evil"
+  - "ir35"
+  - "thatcher"
 author: dug
 ---
 

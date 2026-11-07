@@ -8,7 +8,9 @@ description: "This is what it means for old spice Everybody loved it; those vide
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: communication, value
+tags:
+  - "communication"
+  - "value"
 author: dug
 ---
 

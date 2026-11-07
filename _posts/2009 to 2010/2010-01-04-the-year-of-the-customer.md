@@ -8,7 +8,14 @@ description: "@edent just sent me this video from Domino&#8217;s&#8230; Funny as
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cluetrain, cvm, edent, modernmarketing, pizza, value creation, value mapping
+tags:
+  - "cluetrain"
+  - "cvm"
+  - "edent"
+  - "modernmarketing"
+  - "pizza"
+  - "value creation"
+  - "value mapping"
 author: dug
 ---
 

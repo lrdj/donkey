@@ -8,7 +8,8 @@ description: "My favourite quote of the day --  Within 5yrs of Betamax case, whe
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #pd
+tags:
+  - "#pd"
 author: dug
 ---
 

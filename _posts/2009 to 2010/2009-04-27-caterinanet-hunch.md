@@ -8,7 +8,12 @@ description: "I just love it that Caterina hasn&#8217;t changed her blog templat
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: amplify, caterina, equalise, filter, intelligence
+tags:
+  - "amplify"
+  - "caterina"
+  - "equalise"
+  - "filter"
+  - "intelligence"
 author: dug
 ---
 

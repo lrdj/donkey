@@ -8,7 +8,8 @@ description: "5714355"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: EFF
+tags:
+  - "EFF"
 author: dug
 ---
 

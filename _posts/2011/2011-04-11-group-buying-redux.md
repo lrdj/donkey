@@ -8,7 +8,12 @@ description: "I know it&#8217;s a little embarrassing, but what&#8217;s the poin
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: ecommerce, group buying, groupon, let's buy it together, vodafone
+tags:
+  - "ecommerce"
+  - "group buying"
+  - "groupon"
+  - "let's buy it together"
+  - "vodafone"
 author: dug
 ---
 

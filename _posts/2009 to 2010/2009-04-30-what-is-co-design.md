@@ -8,7 +8,13 @@ description: "Been thinking a lot about co-design recently and came across this 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: co-design, cocreation, codesign, csr, public services, social
+tags:
+  - "co-design"
+  - "cocreation"
+  - "codesign"
+  - "csr"
+  - "public services"
+  - "social"
 author: dug
 ---
 

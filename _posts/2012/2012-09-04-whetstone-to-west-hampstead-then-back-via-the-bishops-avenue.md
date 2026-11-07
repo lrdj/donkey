@@ -8,7 +8,8 @@ description: " 4 Sept, 16.3 miles In the meantime, give us yer money! Sponsor Du
 image: images/training-4Sept.png
 alt: "training-4Sept.png"
 
-tags: palace2palace
+tags:
+  - "palace2palace"
 author: dug
 ---
 

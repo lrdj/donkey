@@ -8,7 +8,10 @@ description: "So hopefully by now you will have noticed the in-your-face red str
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: blog, iphone, phone
+tags:
+  - "blog"
+  - "iphone"
+  - "phone"
 author: dug
 ---
 

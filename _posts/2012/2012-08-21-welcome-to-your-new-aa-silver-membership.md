@@ -8,7 +8,10 @@ description: "Dear Andrew Strong, Your letter read --  Your AA membership comes 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: aa, leaving, theaa
+tags:
+  - "aa"
+  - "leaving"
+  - "theaa"
 author: dug
 ---
 

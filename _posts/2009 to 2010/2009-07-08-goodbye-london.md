@@ -8,7 +8,10 @@ description: "A nice man called Luke Jackson sent me the following email --  Hey
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: goodbyelondon, lukejackson, music
+tags:
+  - "goodbyelondon"
+  - "lukejackson"
+  - "music"
 author: dug
 ---
 

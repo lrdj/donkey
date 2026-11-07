@@ -7,7 +7,12 @@ description: "OK so just a quickie as I take in Today on R4&#8230; I haven&#8217
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: Christine Lagarde, Dominique Strauss-Kahn, IMF, New York Times, NYT
+tags:
+  - "Christine Lagarde"
+  - "Dominique Strauss-Kahn"
+  - "IMF"
+  - "New York Times"
+  - "NYT"
 author: dug
 ---
 

@@ -8,7 +8,15 @@ description: "Nicki first mentioned the &#8220;thought shower&#8221; thing to me
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: accessibility, brainstorm, disability, testing, thoughtshower, user experience, users, ux
+tags:
+  - "accessibility"
+  - "brainstorm"
+  - "disability"
+  - "testing"
+  - "thoughtshower"
+  - "user experience"
+  - "users"
+  - "ux"
 author: dug
 ---
 

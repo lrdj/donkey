@@ -8,7 +8,11 @@ description: " Lolo 1962 Helga Ansel 1974 cinéma (there is also &#8220;infrared
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cameraBag, cameraphone, fun, iPhone
+tags:
+  - "cameraBag"
+  - "cameraphone"
+  - "fun"
+  - "iPhone"
 author: dug
 ---
 

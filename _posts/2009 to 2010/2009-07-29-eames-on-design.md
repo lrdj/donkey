@@ -8,7 +8,13 @@ description: "David sent this through on Sunday. I didn&#8217;t manage to read i
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: design, eames, needs, services, user experience, ux
+tags:
+  - "design"
+  - "eames"
+  - "needs"
+  - "services"
+  - "user experience"
+  - "ux"
 author: dug
 ---
 

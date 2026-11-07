@@ -8,7 +8,12 @@ description: "Been playing with tumblr  -- -)&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: ambientintimacy, blogging, flickr, tumblr, twitter
+tags:
+  - "ambientintimacy"
+  - "blogging"
+  - "flickr"
+  - "tumblr"
+  - "twitter"
 author: dug
 ---
 

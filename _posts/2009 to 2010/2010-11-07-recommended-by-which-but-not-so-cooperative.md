@@ -8,7 +8,12 @@ description: "Our car insurance is coming up for renewal and we&#8217;ve just re
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #CIS, #cooperativeinsurance, #fail, #which, insurance
+tags:
+  - "#CIS"
+  - "#cooperativeinsurance"
+  - "#fail"
+  - "#which"
+  - "insurance"
 author: dug
 ---
 

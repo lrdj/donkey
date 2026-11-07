@@ -7,7 +7,11 @@ description: " Just saw this on LinuxKungFu. I love &#8220;how the analyst desig
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: design, plan, project management, scope
+tags:
+  - "design"
+  - "plan"
+  - "project management"
+  - "scope"
 author: dug
 ---
 

@@ -8,7 +8,11 @@ description: "DesignBombs.com I just recently discovered this website on my virt
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: css, jquery, standards, w3c
+tags:
+  - "css"
+  - "jquery"
+  - "standards"
+  - "w3c"
 author: louis
 ---
 

@@ -8,7 +8,12 @@ description: " Yeay -- -) She wobbled it for what feels like weeks and she&#8217
 image: images/defaultThumbnail.png
 alt: ""
 category: "Family"
-tags: CU-1, fairy, family, tooth, toothfairy
+tags:
+  - "CU-1"
+  - "fairy"
+  - "family"
+  - "tooth"
+  - "toothfairy"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: "Didar Zowghi from the University of Technology in Sydney writes --
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: development, process, software
+tags:
+  - "development"
+  - "process"
+  - "software"
 author: dug
 ---
 

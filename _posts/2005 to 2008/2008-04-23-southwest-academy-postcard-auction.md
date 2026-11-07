@@ -7,7 +7,12 @@ description: " Hey, Jed&#8217;s on TV  -- -)&#8230;"
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: art, auction, jed, postcard, swac
+tags:
+  - "art"
+  - "auction"
+  - "jed"
+  - "postcard"
+  - "swac"
 author: dug
 ---
 

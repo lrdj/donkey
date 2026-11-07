@@ -7,7 +7,8 @@ description: "Have recently followed a couple of discussions along the lines of 
 
 image: images/structures.jpg
 alt: "wireframe structure from USC Proving Ground training"
-tags: UX
+tags:
+  - "UX"
 author: dug
 ---
 

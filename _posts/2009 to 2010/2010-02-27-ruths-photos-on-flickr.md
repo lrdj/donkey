@@ -8,7 +8,13 @@ description: "Thanks to all the folk who are sending in wishes. I need to apolog
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: diary, family, memory, mom, mum, ruth
+tags:
+  - "diary"
+  - "family"
+  - "memory"
+  - "mom"
+  - "mum"
+  - "ruth"
 author: dug
 ---
 

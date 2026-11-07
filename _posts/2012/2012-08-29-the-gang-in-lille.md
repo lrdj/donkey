@@ -8,7 +8,9 @@ description: ""
 image: images/hnc-pano.png
 alt: "hnc-pano.png"
 
-tags: family, TGV
+tags:
+  - "family"
+  - "TGV"
 author: dug
 ---
 

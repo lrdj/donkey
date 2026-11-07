@@ -8,7 +8,11 @@ description: "last night. Haven&#8217;t got time to go into it but the place is 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: dinner, food, fun, paris
+tags:
+  - "dinner"
+  - "food"
+  - "fun"
+  - "paris"
 author: dug
 ---
 

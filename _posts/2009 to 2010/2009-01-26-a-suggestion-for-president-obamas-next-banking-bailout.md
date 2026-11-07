@@ -8,7 +8,10 @@ description: "So I&#8217;d been watching money as debt trying to figure out how 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: banking, banks, fractional-reserve system
+tags:
+  - "banking"
+  - "banks"
+  - "fractional-reserve system"
 author: dug
 ---
 

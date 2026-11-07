@@ -8,7 +8,8 @@ description: " Set out on Saturday to cycle home from Cambridge. Expected to fol
 image: images/cambridge-to-highcross.png
 alt: "cambridge-to-highcross.png"
 
-tags: palace2palace
+tags:
+  - "palace2palace"
 author: dug
 ---
 

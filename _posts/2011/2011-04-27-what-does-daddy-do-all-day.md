@@ -7,7 +7,12 @@ description: " CU-1 and CU-2 are always wondering what dad does all day. Well, t
 
 image: images/internetretailing2011.jpg
 alt: "Internet Retailing Expo 2011"
-tags: ecommerce, etail, internet retailing, interview, video
+tags:
+  - "ecommerce"
+  - "etail"
+  - "internet retailing"
+  - "interview"
+  - "video"
 author: dug
 ---
 

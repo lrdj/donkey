@@ -8,7 +8,13 @@ description: "Have been thinking about how brands need engagement systems built 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Customer, Identity, management, Module, relationship, Subscriber
+tags:
+  - "Customer"
+  - "Identity"
+  - "management"
+  - "Module"
+  - "relationship"
+  - "Subscriber"
 author: dug
 ---
 

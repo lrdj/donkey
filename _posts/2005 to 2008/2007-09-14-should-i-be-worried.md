@@ -8,7 +8,14 @@ description: " Well, I cancelled my Quechup account two weeks ago. The interesti
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: J!INX, password, qcloud, quetchup, security, username, wordie
+tags:
+  - "J!INX"
+  - "password"
+  - "qcloud"
+  - "quetchup"
+  - "security"
+  - "username"
+  - "wordie"
 author: dug
 ---
 

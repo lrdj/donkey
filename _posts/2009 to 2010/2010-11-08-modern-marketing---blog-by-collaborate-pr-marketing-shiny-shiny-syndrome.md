@@ -8,7 +8,11 @@ description: "James has a great new post on the management of innovation in busi
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: app, innovation, management, mobile
+tags:
+  - "app"
+  - "innovation"
+  - "management"
+  - "mobile"
 author: dug
 ---
 

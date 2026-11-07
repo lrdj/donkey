@@ -8,7 +8,9 @@ description: "This twitter by little_ceeg cracked me up&#8230; Credit scores are
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: little_ceeg, twitter
+tags:
+  - "little_ceeg"
+  - "twitter"
 author: dug
 ---
 

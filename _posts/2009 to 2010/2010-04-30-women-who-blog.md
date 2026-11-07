@@ -8,7 +8,11 @@ description: "I know there are countless &#8220;blogher&#8221; spinoff sites out
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: engagement, socialmedia, womenwhoblog, writing
+tags:
+  - "engagement"
+  - "socialmedia"
+  - "womenwhoblog"
+  - "writing"
 author: dug
 ---
 

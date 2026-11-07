@@ -8,7 +8,11 @@ description: "I was just about to shutdown and head hamewards when I noticed thi
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: app, design, iphone, kern
+tags:
+  - "app"
+  - "design"
+  - "iphone"
+  - "kern"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "Ethan Nicholas, on his iPhone game &#8220;iShoot&#8221; and why it
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: app, apps, appstore, games, iphone
+tags:
+  - "app"
+  - "apps"
+  - "appstore"
+  - "games"
+  - "iphone"
 author: dug
 ---
 

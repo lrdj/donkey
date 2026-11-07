@@ -8,7 +8,9 @@ description: " Trying to remember the first thing I coded&#8230; it think it was
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: code, learning
+tags:
+  - "code"
+  - "learning"
 author: dug
 ---
 

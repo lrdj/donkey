@@ -8,7 +8,12 @@ description: " This photo really doesn&#8217;t do the quality of the repro or in
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: guideduroutard, nokia, Nokia6300, photography, pub
+tags:
+  - "guideduroutard"
+  - "nokia"
+  - "Nokia6300"
+  - "photography"
+  - "pub"
 author: dug
 ---
 

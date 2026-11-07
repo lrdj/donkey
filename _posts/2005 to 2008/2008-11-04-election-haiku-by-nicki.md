@@ -8,7 +8,9 @@ description: "Air quivers with possibility Punch chad New president Punch air Fi
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: election08, Obama
+tags:
+  - "election08"
+  - "Obama"
 author: dug
 ---
 

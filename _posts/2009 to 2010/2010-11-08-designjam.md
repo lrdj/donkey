@@ -8,7 +8,9 @@ description: "Thinking some Hemel Visual and UX folk might enjoy designjamlondon
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: design, ux
+tags:
+  - "design"
+  - "ux"
 author: dug
 ---
 

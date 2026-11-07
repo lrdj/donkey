@@ -8,7 +8,13 @@ description: "OK, so could someone be real nice and do some explaining re the tr
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: chanson, elson, gainsbourg, jetaimemoinonplus, music, power
+tags:
+  - "chanson"
+  - "elson"
+  - "gainsbourg"
+  - "jetaimemoinonplus"
+  - "music"
+  - "power"
 author: dug
 ---
 

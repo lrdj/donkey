@@ -8,7 +8,11 @@ description: " Thanks Pliny&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 category: "Linkage"
-tags: bird and fortune, credit crunch, economy, markets
+tags:
+  - "bird and fortune"
+  - "credit crunch"
+  - "economy"
+  - "markets"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "Modern Marketing - Blog by Collaborate PR &amp; Marketing --  Soci
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, collaborative media, communities, networks, value co-creation
+tags:
+  - "advertising"
+  - "collaborative media"
+  - "communities"
+  - "networks"
+  - "value co-creation"
 author: dug
 ---
 

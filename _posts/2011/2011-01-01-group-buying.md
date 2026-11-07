@@ -8,7 +8,17 @@ description: "The daddy, Groupon, trading since 2008 Groupola, one of the many c
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: buy, buying, club, competition, coupon, groupon, it, let's, together, vodafone
+tags:
+  - "buy"
+  - "buying"
+  - "club"
+  - "competition"
+  - "coupon"
+  - "groupon"
+  - "it"
+  - "let's"
+  - "together"
+  - "vodafone"
 author: dug
 ---
 

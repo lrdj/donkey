@@ -8,7 +8,10 @@ description: "Don&#8217;t forget, you iPhone users, that the new iOS4 comes out 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: iOS4, iphone, mobile
+tags:
+  - "iOS4"
+  - "iphone"
+  - "mobile"
 author: tim
 ---
 

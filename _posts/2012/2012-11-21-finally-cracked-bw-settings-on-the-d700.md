@@ -8,7 +8,9 @@ description: " So I&#8217;ve been playing with the D700 monochrome setting. Took
 image: images/blurrydug.jpg
 alt: "Blurry Dug"
 
-tags: B&W, D700
+tags:
+  - "B&W"
+  - "D700"
 author: dug
 ---
 

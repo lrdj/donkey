@@ -8,7 +8,12 @@ description: " OK, so I&#8217;m finishing the Orange gig which means new phone. 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: apple, iPhone, usability, user, ux
+tags:
+  - "apple"
+  - "iPhone"
+  - "usability"
+  - "user"
+  - "ux"
 author: dug
 ---
 

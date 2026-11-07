@@ -8,7 +8,10 @@ description: " As enterprise software continues to implode and disappoint all ar
 image: images/screen.gif
 alt: "The screen from Slorp server"
 
-tags: entreprise, Newton, server
+tags:
+  - "entreprise"
+  - "Newton"
+  - "server"
 author: dug
 ---
 

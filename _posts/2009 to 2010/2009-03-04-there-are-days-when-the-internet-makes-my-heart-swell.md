@@ -8,7 +8,12 @@ description: "There are days when the last ten years feel like time well spent. 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #spectrial, Big Copyright, law, p2p, piratebay
+tags:
+  - "#spectrial"
+  - "Big Copyright"
+  - "law"
+  - "p2p"
+  - "piratebay"
 author: dug
 ---
 

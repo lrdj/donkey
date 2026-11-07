@@ -8,7 +8,9 @@ description: "A proclamation --  NO WORK be done on NOVEMBER FOURTH Thanks Jim (
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: election08, Obama
+tags:
+  - "election08"
+  - "Obama"
 author: dug
 ---
 

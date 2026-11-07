@@ -8,7 +8,12 @@ description: "These words from David Bausola really resonate as I navigate my wa
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: exchange, markets, mft, value, value co-creation
+tags:
+  - "exchange"
+  - "markets"
+  - "mft"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

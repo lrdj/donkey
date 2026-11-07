@@ -11,7 +11,10 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: censorship, flickr, safe
+tags:
+  - "censorship"
+  - "flickr"
+  - "safe"
 author: dug
 ---
 

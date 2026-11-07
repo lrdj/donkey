@@ -8,7 +8,17 @@ description: "Just saw this item on Slashdot. A classic example of a big corpora
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, film, intellectual property, internet culture, ip, marketing, tv, universal, value, value co-creation
+tags:
+  - "advertising"
+  - "film"
+  - "intellectual property"
+  - "internet culture"
+  - "ip"
+  - "marketing"
+  - "tv"
+  - "universal"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

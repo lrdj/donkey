@@ -8,7 +8,9 @@ description: "Well you can&#8217;t, or at least I can&#8217;t -- -( Instead, I h
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: iPhone, rsync
+tags:
+  - "iPhone"
+  - "rsync"
 author: dug
 ---
 

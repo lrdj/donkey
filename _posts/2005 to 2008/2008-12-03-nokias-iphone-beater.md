@@ -8,7 +8,10 @@ description: " Well, not exactly&#8230; I wish Nokia all the best, but I&#8217;v
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: iPhone, n97, nokia
+tags:
+  - "iPhone"
+  - "n97"
+  - "nokia"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "I&#8217;ll be happy if we create a single cheer chain,&#8221; said
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, engagement, marketing, metrics, value co-creation
+tags:
+  - "advertising"
+  - "engagement"
+  - "marketing"
+  - "metrics"
+  - "value co-creation"
 author: dug
 ---
 

@@ -8,7 +8,11 @@ description: "Wow, I thought I&#8217;d be playing with RC5 for a while before ge
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: mt, mt42, Six Apart, value
+tags:
+  - "mt"
+  - "mt42"
+  - "Six Apart"
+  - "value"
 author: dug
 ---
 

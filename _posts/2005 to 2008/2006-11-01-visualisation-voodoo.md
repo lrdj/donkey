@@ -8,7 +8,11 @@ description: " More fantastic visualisation voodoo from Dion Hinchcliffe. This o
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: network effects, network potential, RIA, web2.0 SOA
+tags:
+  - "network effects"
+  - "network potential"
+  - "RIA"
+  - "web2.0 SOA"
 author: dug
 ---
 

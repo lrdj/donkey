@@ -8,7 +8,12 @@ description: " 27 August, 12.6 miles In the meantime, give us yer money! Sponsor
 image: images/Training27Aug.png
 alt: "Training27Aug.png"
 
-tags: cycling, palace2palace, princestrust, sponsorship, training
+tags:
+  - "cycling"
+  - "palace2palace"
+  - "princestrust"
+  - "sponsorship"
+  - "training"
 author: dug
 ---
 

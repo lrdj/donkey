@@ -8,7 +8,12 @@ description: "Kevin at http -- //www.sbwmotorrad-bmw.com recently fitted some Mi
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #uksnow, mitas, r1200gs, snow, tyre
+tags:
+  - "#uksnow"
+  - "mitas"
+  - "r1200gs"
+  - "snow"
+  - "tyre"
 author: dug
 ---
 

@@ -8,7 +8,9 @@ description: "Well, this morning I&#8217;ve noticed a couple --  the great (if s
 image: images/defaultThumbnail.png
 alt: ""
 category: "Family"
-tags: france, paris
+tags:
+  - "france"
+  - "paris"
 author: dug
 ---
 

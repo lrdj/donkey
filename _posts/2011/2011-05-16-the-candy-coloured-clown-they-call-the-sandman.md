@@ -8,7 +8,14 @@ description: " I quoted from Blue Velvet the other day and got blank stares. Am 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Blue Velvet, bluevelvet, David Lynch, film, Frank, guitar, Roy Orbison
+tags:
+  - "Blue Velvet"
+  - "bluevelvet"
+  - "David Lynch"
+  - "film"
+  - "Frank"
+  - "guitar"
+  - "Roy Orbison"
 author: dug
 ---
 

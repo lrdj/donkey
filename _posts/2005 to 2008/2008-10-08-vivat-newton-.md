@@ -7,7 +7,9 @@ description: " OK one last post before bed&#8230; I&#8217;ve just been reviewing
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: httpd, Newton
+tags:
+  - "httpd"
+  - "Newton"
 author: dug
 ---
 

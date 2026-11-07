@@ -8,7 +8,10 @@ description: "Invert the polarity of the neutron flow! from Morten Hjerde on Vim
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: colour, light, photography
+tags:
+  - "colour"
+  - "light"
+  - "photography"
 author: dug
 ---
 

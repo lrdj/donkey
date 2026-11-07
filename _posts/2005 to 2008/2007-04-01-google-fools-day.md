@@ -7,7 +7,10 @@ description: "Check out Google&#8217;s amazing new product TiSP. Nicely done but
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: google, poissondavril, TiSP
+tags:
+  - "google"
+  - "poissondavril"
+  - "TiSP"
 author: dug
 ---
 

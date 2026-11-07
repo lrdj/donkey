@@ -8,7 +8,10 @@ description: "I spotted this post back in April and got a chuckle the &#8220;Sim
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: fun, office, process
+tags:
+  - "fun"
+  - "office"
+  - "process"
 author: dug
 ---
 

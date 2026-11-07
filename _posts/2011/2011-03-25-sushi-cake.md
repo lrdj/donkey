@@ -8,7 +8,13 @@ description: " Nicki baked a bunch of cakes for a Japan relief cake and sushi sa
 image: images/sushicake.jpg
 alt: "sushicake.jpg"
 
-tags: cake, diary, family, icing, japan, school
+tags:
+  - "cake"
+  - "diary"
+  - "family"
+  - "icing"
+  - "japan"
+  - "school"
 author: dug
 ---
 

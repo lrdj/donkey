@@ -8,7 +8,9 @@ description: "Off to FOWA will let you know how it goes&#8230;."
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: FOWA, FOWALondon07
+tags:
+  - "FOWA"
+  - "FOWALondon07"
 author: dug
 ---
 

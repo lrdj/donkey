@@ -7,7 +7,12 @@ description: " A little confused by the implementations of permissions in MT41 &
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: 6A, movable type, movabletype, mt, Six Apart
+tags:
+  - "6A"
+  - "movable type"
+  - "movabletype"
+  - "mt"
+  - "Six Apart"
 author: dug
 ---
 

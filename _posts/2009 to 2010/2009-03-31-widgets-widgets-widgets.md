@@ -8,7 +8,12 @@ description: "If ever proof was needed of the impending world domination of widg
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: apps, developer, platform, widgets, yahoo
+tags:
+  - "apps"
+  - "developer"
+  - "platform"
+  - "widgets"
+  - "yahoo"
 author: dug
 ---
 

@@ -8,7 +8,11 @@ description: "The unstoppable Johnnie Moore is at it again I&#8217;m still runni
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cocreation, johnniemoore, noticing, workshops
+tags:
+  - "cocreation"
+  - "johnniemoore"
+  - "noticing"
+  - "workshops"
 author: dug
 ---
 

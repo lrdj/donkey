@@ -8,7 +8,10 @@ description: "I learnt a lovely new word today --  Copasetic&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: copasetic, dictionary, word
+tags:
+  - "copasetic"
+  - "dictionary"
+  - "word"
 author: dug
 ---
 

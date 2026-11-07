@@ -8,7 +8,19 @@ description: "Just installed Fallon&#8217;s Skimmer app and as much as I&#8217;m
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, agency, air, blog, blogging, jQuery, marketing, middleware, planning, platform, ux, wordpress
+tags:
+  - "advertising"
+  - "agency"
+  - "air"
+  - "blog"
+  - "blogging"
+  - "jQuery"
+  - "marketing"
+  - "middleware"
+  - "planning"
+  - "platform"
+  - "ux"
+  - "wordpress"
 author: dug
 ---
 

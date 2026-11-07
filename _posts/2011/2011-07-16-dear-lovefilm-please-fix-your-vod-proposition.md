@@ -8,7 +8,12 @@ description: "Dear Lovefilm, thanks for taking the time to compose such a thorou
 image: images/boxee-netflix.png
 alt: "Netflix on the Boxee media centre"
 
-tags: Big Copyright, lovefilm, netflix, premium, vod
+tags:
+  - "Big Copyright"
+  - "lovefilm"
+  - "netflix"
+  - "premium"
+  - "vod"
 author: dug
 ---
 

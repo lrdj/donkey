@@ -8,7 +8,9 @@ description: "6957429"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: fanfic, slash
+tags:
+  - "fanfic"
+  - "slash"
 author: dug
 ---
 

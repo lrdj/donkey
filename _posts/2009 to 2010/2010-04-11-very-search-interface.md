@@ -8,7 +8,16 @@ description: "I recently tried out the @verynetwork web store to get a feel for 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: error, fail, retail, search, trapping, ui, ux, validation, very
+tags:
+  - "error"
+  - "fail"
+  - "retail"
+  - "search"
+  - "trapping"
+  - "ui"
+  - "ux"
+  - "validation"
+  - "very"
 author: dug
 ---
 

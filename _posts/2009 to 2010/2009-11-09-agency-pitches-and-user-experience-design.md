@@ -8,7 +8,13 @@ description: "A nice man called David tweeted me once with a link to a video of 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: agencies, experience, experiencedesign, IA, servicedesign, UX
+tags:
+  - "agencies"
+  - "experience"
+  - "experiencedesign"
+  - "IA"
+  - "servicedesign"
+  - "UX"
 author: dug
 ---
 

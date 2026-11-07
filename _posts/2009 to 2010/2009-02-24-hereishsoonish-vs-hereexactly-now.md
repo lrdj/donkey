@@ -8,7 +8,10 @@ description: " Love this and the post it comes from is well worth a read&#8230;.
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: google, latitude, LBS
+tags:
+  - "google"
+  - "latitude"
+  - "LBS"
 author: dug
 ---
 

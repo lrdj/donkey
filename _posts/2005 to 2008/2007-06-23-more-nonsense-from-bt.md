@@ -7,7 +7,8 @@ description: "More activity on the old Is BT still shit? post. A chap called Car
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: edgedujour
+tags:
+  - "edgedujour"
 author: dug
 ---
 

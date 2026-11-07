@@ -8,7 +8,13 @@ description: " Trifle for lunch (well, for pudding)  -- -)&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: canteen, orange, sherry, sherrytrifle, trifle, yummy
+tags:
+  - "canteen"
+  - "orange"
+  - "sherry"
+  - "sherrytrifle"
+  - "trifle"
+  - "yummy"
 author: dug
 ---
 

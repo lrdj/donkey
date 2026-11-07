@@ -8,7 +8,12 @@ description: " Took this after a meeting in Richmond last year. The fearless dee
 image: images/deer-richmond-park.png
 alt: "deer-richmond-park.png"
 
-tags: deer, london, photography, richmond, richmond park
+tags:
+  - "deer"
+  - "london"
+  - "photography"
+  - "richmond"
+  - "richmond park"
 author: dug
 ---
 

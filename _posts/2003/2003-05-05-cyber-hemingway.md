@@ -8,7 +8,11 @@ description: "10281350"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 6degrees, foaf, social, social software
+tags:
+  - "6degrees"
+  - "foaf"
+  - "social"
+  - "social software"
 author: dug
 ---
 

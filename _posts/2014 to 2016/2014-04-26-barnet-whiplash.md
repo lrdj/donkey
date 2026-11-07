@@ -6,7 +6,9 @@ description: "What the hell is going on around here?!? First I get thwacked by a
 
 image: images/c-whiplash.jpg
 alt: "c-whiplash.jpg"
-tags: diary, family
+tags:
+  - "diary"
+  - "family"
 author: dug
 ---
 

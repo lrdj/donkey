@@ -2,7 +2,10 @@
 title: "Woody Allen"
 image: images/lemtosh_ecommerce.jpg
 alt: "Screen from the Lemtosh ecommerce site"
-tags: glasses, michelhenau, moscot
+tags:
+  - "glasses"
+  - "michelhenau"
+  - "moscot"
 author: dug
 ---
 

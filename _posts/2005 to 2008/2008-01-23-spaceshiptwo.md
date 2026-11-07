@@ -8,7 +8,10 @@ description: "I just love this shit  -- -) Virgin Galactic Unveils Design For Sp
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: richard branson, storm surge, virgin galactic
+tags:
+  - "richard branson"
+  - "storm surge"
+  - "virgin galactic"
 author: dug
 ---
 

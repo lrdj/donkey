@@ -8,7 +8,8 @@ description: " So CU-1&#8217;s cousin Apoa is learning Photoshop in art class --
 image: images/CU-1_apoa.jpg
 alt: ""
 category: "Family"
-tags: CU-1, CU-1, CU-1
+tags:
+  - "CU-1"
 author: dug
 ---
 

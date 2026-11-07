@@ -8,7 +8,15 @@ description: "Well, I&#8217;ve been following Scoble&#8217;s tweets today and it
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: creativecommons, data, facebook, information, scoble, shared value, social, utility
+tags:
+  - "creativecommons"
+  - "data"
+  - "facebook"
+  - "information"
+  - "scoble"
+  - "shared value"
+  - "social"
+  - "utility"
 author: dug
 ---
 

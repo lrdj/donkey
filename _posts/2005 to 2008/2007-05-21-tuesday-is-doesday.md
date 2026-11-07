@@ -8,7 +8,11 @@ description: "So David has decided to get stuff done on Tuesdays. He&#8217;s chr
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bausola, davidbausola, doesday, zeroinfluence
+tags:
+  - "bausola"
+  - "davidbausola"
+  - "doesday"
+  - "zeroinfluence"
 author: dug
 ---
 

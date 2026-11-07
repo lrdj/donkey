@@ -8,7 +8,11 @@ description: " Paul Downey This poster by Paul Downey just totally made my morni
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: internet culture, open, open source, web2.0
+tags:
+  - "internet culture"
+  - "open"
+  - "open source"
+  - "web2.0"
 author: dug
 ---
 

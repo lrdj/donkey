@@ -8,7 +8,10 @@ description: " This made me smile. The Pojman pocket protector collection 802 an
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: collecting collectors geekery
+tags:
+  - "collecting"
+  - "collectors"
+  - "geekery"
 author: dug
 ---
 

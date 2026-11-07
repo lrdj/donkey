@@ -8,7 +8,10 @@ description: "Having just finished a big SAP UX project, I&#8217;ve been thinkin
 image: images/badboy.png
 alt: "badboy.png"
 
-tags: fail, software, ux
+tags:
+  - "fail"
+  - "software"
+  - "ux"
 author: dug
 ---
 

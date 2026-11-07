@@ -8,7 +8,9 @@ description: "Wow, astonishing&#8230; Thanks dabitch&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #fail, hp
+tags:
+  - "#fail"
+  - "hp"
 author: dug
 ---
 

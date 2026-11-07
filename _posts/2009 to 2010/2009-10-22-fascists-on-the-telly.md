@@ -8,7 +8,12 @@ description: " Quite like this pic of Nick Griffin back when his position was ou
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #bbcqt, bnp, nf, NickGriffin, politics
+tags:
+  - "#bbcqt"
+  - "bnp"
+  - "nf"
+  - "NickGriffin"
+  - "politics"
 author: dug
 ---
 

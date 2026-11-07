@@ -8,7 +8,11 @@ description: "It’s all just people lobbing rocks into a bottomless pit. Maybe 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: communities, community, iaintait, youtube
+tags:
+  - "communities"
+  - "community"
+  - "iaintait"
+  - "youtube"
 author: dug
 ---
 

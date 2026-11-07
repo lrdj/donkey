@@ -8,7 +8,9 @@ description: "Darn, I&#8217;ve just this second dropped the last of my beautiful
 image: images/defaultThumbnail.png
 alt: ""
 category: "Family"
-tags: banania, coffee
+tags:
+  - "banania"
+  - "coffee"
 author: dug
 ---
 

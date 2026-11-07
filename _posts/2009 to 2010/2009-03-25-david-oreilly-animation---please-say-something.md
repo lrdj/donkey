@@ -8,7 +8,10 @@ description: "Please Say Something - Full Length from David OReilly on Vimeo. Me
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: animation, Berlin, video
+tags:
+  - "animation"
+  - "Berlin"
+  - "video"
 author: dug
 ---
 

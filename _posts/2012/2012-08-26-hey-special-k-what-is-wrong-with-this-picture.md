@@ -8,7 +8,11 @@ description: " So CU-2 eats Special K. It&#8217;s the only breakfast cereal he e
 image: images/specialk.png
 alt: "specialk.png"
 
-tags: carbs, cereal, food, nutrition
+tags:
+  - "carbs"
+  - "cereal"
+  - "food"
+  - "nutrition"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: "This has gotta be my quote for the day -- -) Last year, Facebook t
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: facebook, takeover, yahoo
+tags:
+  - "facebook"
+  - "takeover"
+  - "yahoo"
 author: dug
 ---
 

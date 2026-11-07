@@ -8,7 +8,14 @@ description: " Well, very impressed by the free and so far very reliable wifi on
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 6300, fun, gner, nokia, train, trains, wifi
+tags:
+  - "6300"
+  - "fun"
+  - "gner"
+  - "nokia"
+  - "train"
+  - "trains"
+  - "wifi"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: " This person&#8217;s work totally made me smile -- -)&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: art, communication, informationvisualisation
+tags:
+  - "art"
+  - "communication"
+  - "informationvisualisation"
 author: dug
 ---
 

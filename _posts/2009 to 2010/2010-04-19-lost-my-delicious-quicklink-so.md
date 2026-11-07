@@ -8,7 +8,10 @@ description: "Read this --  Again --  if Farmville is laborious to play and aest
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: farmville, liberty, selfdetermination
+tags:
+  - "farmville"
+  - "liberty"
+  - "selfdetermination"
 author: dug
 ---
 

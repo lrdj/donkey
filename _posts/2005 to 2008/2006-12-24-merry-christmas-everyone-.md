@@ -8,7 +8,8 @@ description: " (CU-1, Apoa and Kiloh sing away in a manger and CU-1 really goes 
 image: images/defaultThumbnail.png
 alt: ""
 category: "Family"
-tags: Christmas2006
+tags:
+  - "Christmas2006"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: "Well, if we keep alienating our inalienable rights we could well b
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: education, kids, rights
+tags:
+  - "education"
+  - "kids"
+  - "rights"
 author: dug
 ---
 

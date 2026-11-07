@@ -8,7 +8,9 @@ description: "Hi, I was looking at the websites (currys, dixons and pcworld) per
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: performance, usability
+tags:
+  - "performance"
+  - "usability"
 author: darren
 ---
 

@@ -9,7 +9,15 @@ image: images/philips.jpg
 
 alt: "philips.jpg"
 
-tags: crowed-sourced proposition development, ideation, innovation, itunes, mp3, music, quirky, social
+tags:
+  - "crowed-sourced proposition development"
+  - "ideation"
+  - "innovation"
+  - "itunes"
+  - "mp3"
+  - "music"
+  - "quirky"
+  - "social"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "A colleague just sent this image around This is his description --
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: ar, augmented, Dusseldorf, retail, ux
+tags:
+  - "ar"
+  - "augmented"
+  - "Dusseldorf"
+  - "retail"
+  - "ux"
 author: dug
 ---
 

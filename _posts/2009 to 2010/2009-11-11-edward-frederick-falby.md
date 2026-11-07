@@ -8,7 +8,9 @@ description: "Well CU-1, well H, the time has come again to think about Edward F
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: family, war
+tags:
+  - "family"
+  - "war"
 author: dug
 ---
 

@@ -8,7 +8,11 @@ description: "Just love this from You are Sleeping Modern sayings --  Give a man
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: funny, qotd, t-shirt, teeshirt
+tags:
+  - "funny"
+  - "qotd"
+  - "t-shirt"
+  - "teeshirt"
 author: dug
 ---
 

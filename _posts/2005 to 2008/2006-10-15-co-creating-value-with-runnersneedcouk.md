@@ -8,7 +8,14 @@ description: "Got this a couple of weeks ago from Chris, a man I trust. Hi Dug, 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, co-creation, collaboration, marketing, unique value, value, value co-creation
+tags:
+  - "advertising"
+  - "co-creation"
+  - "collaboration"
+  - "marketing"
+  - "unique value"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

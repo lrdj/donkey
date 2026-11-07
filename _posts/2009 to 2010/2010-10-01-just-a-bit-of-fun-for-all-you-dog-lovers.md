@@ -8,7 +8,12 @@ description: ""
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: dogs, fun, music, OKgo, video
+tags:
+  - "dogs"
+  - "fun"
+  - "music"
+  - "OKgo"
+  - "video"
 author: tim
 ---
 

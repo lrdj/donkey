@@ -8,7 +8,18 @@ description: " I get a lot of questions about MySpace from clients. For the most
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, advocacy, appeals, co-creation, collaboration, collaborative media, Dixie Chicks, dixiechicks, music, politics, texas
+tags:
+  - "advertising"
+  - "advocacy"
+  - "appeals"
+  - "co-creation"
+  - "collaboration"
+  - "collaborative media"
+  - "Dixie Chicks"
+  - "dixiechicks"
+  - "music"
+  - "politics"
+  - "texas"
 author: dug
 ---
 

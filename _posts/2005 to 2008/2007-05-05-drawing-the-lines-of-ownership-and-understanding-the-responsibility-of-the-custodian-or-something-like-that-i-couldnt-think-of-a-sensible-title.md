@@ -8,7 +8,14 @@ description: "I couldn&#8217;t help noticing that James Governor picked up on my
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: community, contact, contacts, mashup, spam, spammer, spamming
+tags:
+  - "community"
+  - "contact"
+  - "contacts"
+  - "mashup"
+  - "spam"
+  - "spammer"
+  - "spamming"
 author: dug
 ---
 

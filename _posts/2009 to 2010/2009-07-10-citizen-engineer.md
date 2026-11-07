@@ -7,7 +7,15 @@ description: " Yeah, I know, it&#8217;s another engadget retweet but I just love
 
 image: images/adafruit.jpg
 alt: "Citizen Engineer with SIM Reading Kit"
-tags: arduino, citizen, diy, engineering, hack, hacking, ieee, sim
+tags:
+  - "arduino"
+  - "citizen"
+  - "diy"
+  - "engineering"
+  - "hack"
+  - "hacking"
+  - "ieee"
+  - "sim"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "So I used to think I was subverting from within. That&#8217;s boll
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: collaborative markets, David Bausola, davidbausola, value co-creation, zeroinfluence
+tags:
+  - "collaborative markets"
+  - "David Bausola"
+  - "davidbausola"
+  - "value co-creation"
+  - "zeroinfluence"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: " Love this piratebay slideshow from Vaxzine. While you&#8217;re th
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #spectrial, Big Copyright, flickr, piratebay, vaxzine
+tags:
+  - "#spectrial"
+  - "Big Copyright"
+  - "flickr"
+  - "piratebay"
+  - "vaxzine"
 author: dug
 ---
 

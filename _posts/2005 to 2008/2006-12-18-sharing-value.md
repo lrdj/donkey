@@ -8,7 +8,15 @@ description: " (Photo --  CU-1 Falby by David Hockney) So I&#8217;ve just finish
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: dart, flickr, mobile, network operators, telecoms, unique value, value, value co-creation
+tags:
+  - "dart"
+  - "flickr"
+  - "mobile"
+  - "network operators"
+  - "telecoms"
+  - "unique value"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

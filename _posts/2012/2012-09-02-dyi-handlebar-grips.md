@@ -8,7 +8,8 @@ description: " My bike is a bit shit really and I&#8217;ve enrolled in a charity
 image: images/crappy-gel-pack.jpg
 alt: "crappy-gel-pack.jpg"
 
-tags: palace2palace
+tags:
+  - "palace2palace"
 author: dug
 ---
 

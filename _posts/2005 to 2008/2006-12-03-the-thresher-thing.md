@@ -8,7 +8,11 @@ description: "Jonathan and Ross over at TMW are working through the Thresher pro
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: gapingvoid, stormhoek, thresher, viral
+tags:
+  - "gapingvoid"
+  - "stormhoek"
+  - "thresher"
+  - "viral"
 author: dug
 ---
 

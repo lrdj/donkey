@@ -8,7 +8,9 @@ description: " I&#8217;ll bet Maya&#8217;s forgotten about this old post but it 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: internet culture, ux
+tags:
+  - "internet culture"
+  - "ux"
 author: dug
 ---
 

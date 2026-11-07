@@ -8,7 +8,12 @@ description: " I&#8217;ve just done something a bit odd. I watched Jonathan Ross
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Big Copyright, copyright, fair use, MPAA, RIAA
+tags:
+  - "Big Copyright"
+  - "copyright"
+  - "fair use"
+  - "MPAA"
+  - "RIAA"
 author: dug
 ---
 

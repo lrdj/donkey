@@ -7,7 +7,11 @@ description: " Are you guys already familiar with De Bono&#8217;s &#8220;6 Think
 
 image: images/De_Bono_thinking_hats.gif
 alt: "De Bono&#8217;s 6 hats"
-tags: brainstorming, creativity, ideation, workshop
+tags:
+  - "brainstorming"
+  - "creativity"
+  - "ideation"
+  - "workshop"
 author: dug
 ---
 

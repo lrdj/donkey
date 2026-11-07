@@ -7,7 +7,10 @@ description: " Nicki is going to kill me for posting this but it was v. funny (a
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: allergy, lips, nokia
+tags:
+  - "allergy"
+  - "lips"
+  - "nokia"
 author: dug
 ---
 

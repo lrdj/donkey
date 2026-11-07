@@ -8,7 +8,9 @@ description: "Bloody hell, never before has my trusty Powerbook spotted such a r
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 802.11x, wifi
+tags:
+  - "802.11x"
+  - "wifi"
 author: dug
 ---
 

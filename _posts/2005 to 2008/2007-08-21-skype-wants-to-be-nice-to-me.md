@@ -11,7 +11,13 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: edgedujour, microsoft, Niklas Zennström, skype, transparency, value co-creation
+tags:
+  - "edgedujour"
+  - "microsoft"
+  - "Niklas Zennström"
+  - "skype"
+  - "transparency"
+  - "value co-creation"
 author: dug
 ---
 

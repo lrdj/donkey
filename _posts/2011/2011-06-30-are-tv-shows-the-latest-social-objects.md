@@ -8,7 +8,14 @@ description: "I worked on a project called &#8220;Fanbases&#8221; last year, a p
 image: images/miso_iphone.png
 alt: "The Miso iPhone app"
 
-tags: iptv, miso, plex, social, social object, socialtv, xbmc
+tags:
+  - "iptv"
+  - "miso"
+  - "plex"
+  - "social"
+  - "social object"
+  - "socialtv"
+  - "xbmc"
 author: dug
 ---
 

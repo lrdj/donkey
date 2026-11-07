@@ -8,7 +8,11 @@ description: " Just saw these this afternoon --  John Lewis colleague expert vid
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: content, seo, ugc, video
+tags:
+  - "content"
+  - "seo"
+  - "ugc"
+  - "video"
 author: dug
 ---
 

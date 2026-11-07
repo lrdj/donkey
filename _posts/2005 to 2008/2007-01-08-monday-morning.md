@@ -8,7 +8,10 @@ description: " Her forearms are long and thin, and the sleeve of her floppy jump
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: eurostar joelstein community
+tags:
+  - "eurostar"
+  - "joelstein"
+  - "community"
 author: dug
 ---
 

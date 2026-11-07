@@ -8,7 +8,15 @@ description: "You know, I just twittered this, but I get the odd S60 developer r
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: basestation, bridge, hub, n95, nokia, s60, symbian, wifi
+tags:
+  - "basestation"
+  - "bridge"
+  - "hub"
+  - "n95"
+  - "nokia"
+  - "s60"
+  - "symbian"
+  - "wifi"
 author: dug
 ---
 

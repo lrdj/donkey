@@ -8,7 +8,10 @@ description: "Yeah&#8230; So allow me a few thoughts on Apple&#8217;s entry. Fir
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: android, iphone, xbox
+tags:
+  - "android"
+  - "iphone"
+  - "xbox"
 author: dug
 ---
 

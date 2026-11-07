@@ -8,7 +8,12 @@ description: "Just saw Tim&#8217;s piece on the Glasshouse blog on Orange Rockco
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: orange, rockcorps, social, value, volunteer
+tags:
+  - "orange"
+  - "rockcorps"
+  - "social"
+  - "value"
+  - "volunteer"
 author: dug
 ---
 

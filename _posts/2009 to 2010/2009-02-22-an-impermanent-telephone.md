@@ -8,7 +8,11 @@ description: "Love this green handset concept from greenergrass LINC is a typica
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: energy, green, handsets, mobile
+tags:
+  - "energy"
+  - "green"
+  - "handsets"
+  - "mobile"
 author: dug
 ---
 

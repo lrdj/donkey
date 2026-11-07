@@ -8,7 +8,11 @@ description: "Give to get --  The system does not promote Orange&#8217;s text or
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: energy, fun, generosity, value
+tags:
+  - "energy"
+  - "fun"
+  - "generosity"
+  - "value"
 author: dug
 ---
 

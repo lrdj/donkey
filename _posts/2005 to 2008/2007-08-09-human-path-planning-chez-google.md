@@ -8,7 +8,11 @@ description: " This is kinda interesting. The folk at Google Groups have built i
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: google, googlegroups, humanpath, user
+tags:
+  - "google"
+  - "googlegroups"
+  - "humanpath"
+  - "user"
 author: dug
 ---
 

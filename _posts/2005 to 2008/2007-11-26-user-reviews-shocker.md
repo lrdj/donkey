@@ -8,7 +8,10 @@ description: "Really? Wow, this is kinda odd. I mean it&#8217;s November 2007 an
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: reviews web2.0 ugc
+tags:
+  - "reviews"
+  - "web2.0"
+  - "ugc"
 author: dug
 ---
 

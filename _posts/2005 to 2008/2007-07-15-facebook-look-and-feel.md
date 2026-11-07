@@ -8,7 +8,11 @@ description: "One of the things I&#8217;m enjoying about facebook is the complet
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: experience, facebook, navigation, UI
+tags:
+  - "experience"
+  - "facebook"
+  - "navigation"
+  - "UI"
 author: dug
 ---
 

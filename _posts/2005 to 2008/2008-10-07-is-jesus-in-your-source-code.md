@@ -8,7 +8,10 @@ description: " Well I don&#8217;t want to offend church-goers but this really go
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: code, jesus, source
+tags:
+  - "code"
+  - "jesus"
+  - "source"
 author: dug
 ---
 

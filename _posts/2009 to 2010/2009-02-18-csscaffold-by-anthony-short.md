@@ -8,7 +8,12 @@ description: "I&#8217;ve been working on my own type of CSS framework lately. Wh
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cacheer, css, csscaffold, frameworks, serverside
+tags:
+  - "cacheer"
+  - "css"
+  - "csscaffold"
+  - "frameworks"
+  - "serverside"
 author: dug
 ---
 

@@ -8,7 +8,9 @@ description: " mmm not sure what&#8217;s going on here&#8230; why does the guy w
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: raiuno, weatherman
+tags:
+  - "raiuno"
+  - "weatherman"
 author: dug
 ---
 

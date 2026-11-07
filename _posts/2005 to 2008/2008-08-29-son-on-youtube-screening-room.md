@@ -7,7 +7,9 @@ description: " Ohna&#8217;s film Son won best UK short film at Edinburgh last mo
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: family, film
+tags:
+  - "family"
+  - "film"
 author: dug
 ---
 

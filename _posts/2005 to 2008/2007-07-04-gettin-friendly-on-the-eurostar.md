@@ -8,7 +8,10 @@ description: "So you know how us whitey westerners travel in the tight confines 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: drool, eurostar, personalspace
+tags:
+  - "drool"
+  - "eurostar"
+  - "personalspace"
 author: dug
 ---
 

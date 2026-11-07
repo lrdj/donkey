@@ -8,7 +8,8 @@ description: " Ran out of daylight so stopped before making it home. Need to sta
 image: images/loop-ride.png
 alt: "loop-ride.png"
 
-tags: palace2palace
+tags:
+  - "palace2palace"
 author: dug
 ---
 

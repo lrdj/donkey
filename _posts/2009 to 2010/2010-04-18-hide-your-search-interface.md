@@ -8,7 +8,10 @@ description: "The big Visa widget at the top has the shape, drop-shadow design a
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: search, ui, ux
+tags:
+  - "search"
+  - "ui"
+  - "ux"
 author: dug
 ---
 

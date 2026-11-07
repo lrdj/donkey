@@ -8,7 +8,10 @@ description: "Recruiters continue to amaze me. This just came through on a list 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: agency, HR, recruiters
+tags:
+  - "agency"
+  - "HR"
+  - "recruiters"
 author: dug
 ---
 

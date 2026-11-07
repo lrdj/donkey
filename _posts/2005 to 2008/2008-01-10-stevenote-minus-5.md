@@ -8,7 +8,10 @@ description: "MWSF 2008 keynote bingo It&#8217;s Stevenote - 5. I&#8217;m now pi
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: mwsf, mwsf08, stevenote
+tags:
+  - "mwsf"
+  - "mwsf08"
+  - "stevenote"
 author: dug
 ---
 

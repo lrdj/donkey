@@ -8,7 +8,11 @@ description: "I recently had a QA on Linkedin with a guy who asked --  Community
 image: images/defaultThumbnail.png
 alt: ""
 category: "Business transformation"
-tags: business transformation, product experience, value co-creation, value-mapping
+tags:
+  - "business transformation"
+  - "product experience"
+  - "value co-creation"
+  - "value-mapping"
 author: dug
 ---
 

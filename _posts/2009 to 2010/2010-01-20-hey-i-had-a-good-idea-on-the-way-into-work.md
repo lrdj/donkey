@@ -8,7 +8,13 @@ description: "I forget who said the that the best way to have great ideas is to 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: ideas, mobile, mobile operators, thought, ux, xd
+tags:
+  - "ideas"
+  - "mobile"
+  - "mobile operators"
+  - "thought"
+  - "ux"
+  - "xd"
 author: dug
 ---
 

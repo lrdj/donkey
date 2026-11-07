@@ -7,7 +7,11 @@ description: "My 85mm prime lens finally arrived and I&#8217;ve been playing aro
 
 image: images/CU-1_flowers.jpg
 alt: "CU-1 at the lambing weekend"
-tags: 85mm, bokeh, D700, photography
+tags:
+  - "85mm"
+  - "bokeh"
+  - "D700"
+  - "photography"
 author: dug
 ---
 

@@ -8,7 +8,13 @@ description: "Just had lunch with Palin on the box. I&#8217;m trying to decode e
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: election08, elections, nasty, Obama, palin, usa
+tags:
+  - "election08"
+  - "elections"
+  - "nasty"
+  - "Obama"
+  - "palin"
+  - "usa"
 author: dug
 ---
 

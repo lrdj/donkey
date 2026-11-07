@@ -11,7 +11,11 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: impot, revenu, tax, taxation
+tags:
+  - "impot"
+  - "revenu"
+  - "tax"
+  - "taxation"
 author: dug
 ---
 

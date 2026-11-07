@@ -8,7 +8,13 @@ description: "Phil asks an interesting question --  open source experience desig
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: experiencedesign, LBi, opensource, uniquevalue, value, valuecocreation
+tags:
+  - "experiencedesign"
+  - "LBi"
+  - "opensource"
+  - "uniquevalue"
+  - "value"
+  - "valuecocreation"
 author: dug
 ---
 

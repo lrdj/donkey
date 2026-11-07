@@ -8,7 +8,8 @@ description: "Information architecture and current state assessment. Role --  Pe
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Projects
+tags:
+  - "Projects"
 author: dug
 ---
 

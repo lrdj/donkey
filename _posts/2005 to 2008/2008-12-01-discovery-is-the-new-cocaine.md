@@ -8,7 +8,9 @@ description: "The ever-groovy Mark (@redeye) links to this funky service. I&#821
 image: images/defaultThumbnail.png
 alt: ""
 category: "Business transformation"
-tags: twitter discovery
+tags:
+  - "twitter"
+  - "discovery"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "Great piece on the WSJ blog on P2P currencies &#8220;You&#8217;re 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: currency, exchange, p2p currency, value, value co-creation
+tags:
+  - "currency"
+  - "exchange"
+  - "p2p currency"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

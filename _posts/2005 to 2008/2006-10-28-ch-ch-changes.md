@@ -8,7 +8,16 @@ description: "Well a bunch of stuff has happened recently and I just noticed tha
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 82kiss, blog, css, design, kiss, movable type, movabletype, oinam, styles
+tags:
+  - "82kiss"
+  - "blog"
+  - "css"
+  - "design"
+  - "kiss"
+  - "movable type"
+  - "movabletype"
+  - "oinam"
+  - "styles"
 author: dug
 ---
 

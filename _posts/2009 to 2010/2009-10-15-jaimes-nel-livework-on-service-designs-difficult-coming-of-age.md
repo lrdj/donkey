@@ -8,7 +8,11 @@ description: "Really good stuff (thanks @malbonster) The third stream as I see i
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: design, experience, servicedesign, UE
+tags:
+  - "design"
+  - "experience"
+  - "servicedesign"
+  - "UE"
 author: dug
 ---
 

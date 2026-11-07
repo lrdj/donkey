@@ -7,7 +7,8 @@ description: "President Obama and other leaders are meeting in Asia right now to
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: EFF
+tags:
+  - "EFF"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "(the following sent to Zopa helpdesk) Your system is simply diabol
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: experience, experiencedesign, ui, ux, zopa
+tags:
+  - "experience"
+  - "experiencedesign"
+  - "ui"
+  - "ux"
+  - "zopa"
 author: dug
 ---
 

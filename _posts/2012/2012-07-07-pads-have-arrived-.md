@@ -8,7 +8,12 @@ description: " So the thing about Wild Bill at Pro-Designed is that when you ord
 image: images/dugdirt.jpg
 alt: "fall"
 
-tags: kneepads, longboarding, pads, protection, safety equipment
+tags:
+  - "kneepads"
+  - "longboarding"
+  - "pads"
+  - "protection"
+  - "safety equipment"
 author: dug
 ---
 

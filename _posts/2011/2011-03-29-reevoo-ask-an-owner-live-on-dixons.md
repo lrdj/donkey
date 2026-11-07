@@ -8,7 +8,10 @@ description: " It&#8217;s great to see the Ask an owner function live on dixons.
 image: images/dixons_ask_an_owner.png
 alt: "Revoo ask an owner now deployed on http://dixons.co.uk"
 
-tags: ecommerce, economy, social commerce
+tags:
+  - "ecommerce"
+  - "economy"
+  - "social commerce"
 author: dug
 ---
 

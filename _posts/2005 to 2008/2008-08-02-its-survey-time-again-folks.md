@@ -8,7 +8,10 @@ description: "Yes, the A List Apart guys are running an improved version of the 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: ala, research, survey
+tags:
+  - "ala"
+  - "research"
+  - "survey"
 author: dug
 ---
 

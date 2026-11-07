@@ -8,7 +8,9 @@ description: " The Avanade Palace 2 Palace team at the start on The Mall So I di
 image: images/palace2palacegroup.jpg
 alt: "palace2palacegroup.jpg"
 
-tags: cycling, palace2palace
+tags:
+  - "cycling"
+  - "palace2palace"
 author: dug
 ---
 

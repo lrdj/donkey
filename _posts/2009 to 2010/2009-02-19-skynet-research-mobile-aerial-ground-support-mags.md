@@ -8,7 +8,14 @@ description: "Kudos to Special Ops Media somewhere in the freeworld (5th avenue)
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: areyousarahconnor, sarahconnor, skynet, specialopsmedia, T4, T5, terminator
+tags:
+  - "areyousarahconnor"
+  - "sarahconnor"
+  - "skynet"
+  - "specialopsmedia"
+  - "T4"
+  - "T5"
+  - "terminator"
 author: dug
 ---
 

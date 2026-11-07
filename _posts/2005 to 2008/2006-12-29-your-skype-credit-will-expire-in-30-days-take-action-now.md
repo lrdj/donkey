@@ -11,7 +11,10 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: dart, skype, transparency
+tags:
+  - "dart"
+  - "skype"
+  - "transparency"
 author: dug
 ---
 

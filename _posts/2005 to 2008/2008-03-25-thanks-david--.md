@@ -8,7 +8,14 @@ description: "A nice man called David tweeted me yesterday with a link to a vide
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, co-creation, IA, marketing, unique value, UX, value
+tags:
+  - "advertising"
+  - "co-creation"
+  - "IA"
+  - "marketing"
+  - "unique value"
+  - "UX"
+  - "value"
 author: dug
 ---
 

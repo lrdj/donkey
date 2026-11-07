@@ -8,7 +8,11 @@ description: "Stumbled across this design studio on my web travels, they do some
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: design, graphics, icons, visual
+tags:
+  - "design"
+  - "graphics"
+  - "icons"
+  - "visual"
 author: louis
 ---
 

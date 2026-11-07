@@ -8,7 +8,12 @@ description: "12674231"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: death, diary, family, kids, nicki
+tags:
+  - "death"
+  - "diary"
+  - "family"
+  - "kids"
+  - "nicki"
 author: dug
 ---
 

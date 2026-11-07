@@ -8,7 +8,8 @@ description: " Create Maps or search from 80 million at MapMyRide Man P2P just c
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: palace2palace
+tags:
+  - "palace2palace"
 author: dug
 ---
 

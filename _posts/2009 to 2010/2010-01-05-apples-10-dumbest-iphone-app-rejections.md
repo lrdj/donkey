@@ -8,7 +8,19 @@ description: "Not sure I 100% agree with the attitude but yeah&#8230; 10 dumbest
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: algorithm, app, apple, apps, appstore, dev, developer, iphone, itms, justice, unfair
+tags: 
+  - algorithm
+  - app
+  - apple
+  - apps
+  - appstore
+  - dev
+  - developer
+  - iphone
+  - itms
+  - justice
+  - unfair
+
 author: dug
 ---
 

@@ -11,7 +11,14 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: facebook, microsoft, open, proprietary, public interest, scoble, scobleizer
+tags:
+  - "facebook"
+  - "microsoft"
+  - "open"
+  - "proprietary"
+  - "public interest"
+  - "scoble"
+  - "scobleizer"
 author: dug
 ---
 

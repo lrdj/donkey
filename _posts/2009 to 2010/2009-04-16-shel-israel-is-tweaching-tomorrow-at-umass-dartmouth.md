@@ -8,7 +8,11 @@ description: "The unstoppable Shel Israel continues his journey of immersion and
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #UMD, learning, shelisrael, twitter
+tags:
+  - "#UMD"
+  - "learning"
+  - "shelisrael"
+  - "twitter"
 author: dug
 ---
 

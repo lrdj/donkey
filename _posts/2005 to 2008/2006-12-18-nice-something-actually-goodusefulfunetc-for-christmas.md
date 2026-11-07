@@ -8,7 +8,10 @@ description: "Flickr --  Give the Gift of Flickr&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
 category: "Pictures"
-tags: collaborative media, flickr, social software
+tags:
+  - "collaborative media"
+  - "flickr"
+  - "social software"
 author: dug
 ---
 

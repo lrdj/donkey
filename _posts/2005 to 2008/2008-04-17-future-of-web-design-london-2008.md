@@ -6,7 +6,12 @@ description: "Well, the afternoon was pretty good too, but with a dead powerbook
 image: images/Larissa-Meeks-12-Simple-Rules.jpg
 alt: "Larissa Meek (AgencyNet) Getting your designs approved - 12 Simple Rules"
 
-tags: fowd, fowd08, fowdlondon, fowdlondon08, poke
+tags:
+  - "fowd"
+  - "fowd08"
+  - "fowdlondon"
+  - "fowdlondon08"
+  - "poke"
 author: dug
 ---
 

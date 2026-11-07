@@ -8,7 +8,12 @@ description: " CU-2 keeps getting given these Lego sets. Most recently, he&#8217
 image: images/f22.png
 alt: "f22.png"
 
-tags: family, fun, kids, lego, toys
+tags:
+  - "family"
+  - "fun"
+  - "kids"
+  - "lego"
+  - "toys"
 author: dug
 ---
 

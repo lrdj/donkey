@@ -8,7 +8,11 @@ description: "So missrogue says, for those of you doing work on Government 2.0 (
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: government, government2.0, magnolia, missrogue
+tags:
+  - "government"
+  - "government2.0"
+  - "magnolia"
+  - "missrogue"
 author: dug
 ---
 

@@ -8,7 +8,12 @@ description: "More on the imminent Twitter &#8216;Pro&#8217; accounts. http -- /
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: monetisation, paid for, premium, pro account, Twitter
+tags:
+  - "monetisation"
+  - "paid for"
+  - "premium"
+  - "pro account"
+  - "Twitter"
 author: dug
 ---
 

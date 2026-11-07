@@ -8,7 +8,11 @@ description: " So we&#8217;ve all been using the logo-in-the-top-left-corner as 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: experience, facebook, navigation, UI
+tags:
+  - "experience"
+  - "facebook"
+  - "navigation"
+  - "UI"
 author: dug
 ---
 

@@ -8,7 +8,8 @@ description: "Client --  Orange Project --  European comms product development f
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Projects
+tags:
+  - "Projects"
 author: dug
 ---
 

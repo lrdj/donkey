@@ -8,7 +8,10 @@ description: " Well, it&#8217;s not very Christmassy but Nick was transferring p
 image: images/CU-1_wedding.jpg
 alt: ""
 category: "Family"
-tags: wedding dress Christmas CU-1 CU-1 CU-1
+tags:
+  - "wedding dress"
+  - "Christmas"
+  - "CU-1"
 author: dug
 ---
 

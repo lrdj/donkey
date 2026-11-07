@@ -8,7 +8,10 @@ description: " â€œBut isnâ€™t another coffee place in Portland like bri
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 802.11x, coffee, wifi
+tags:
+  - "802.11x"
+  - "coffee"
+  - "wifi"
 author: dug
 ---
 

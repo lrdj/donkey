@@ -8,7 +8,11 @@ description: "So in the recent flurry of template and CMS tests, tweaks and play
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: blog, donkey, favicon, icon
+tags:
+  - "blog"
+  - "donkey"
+  - "favicon"
+  - "icon"
 author: dug
 ---
 

@@ -8,7 +8,11 @@ description: "I frequently receive emails at work with reports that measure the 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cocreation, gapingvoid, value, value mapping
+tags:
+  - "cocreation"
+  - "gapingvoid"
+  - "value"
+  - "value mapping"
 author: dug
 ---
 

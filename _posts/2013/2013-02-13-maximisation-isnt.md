@@ -8,7 +8,12 @@ description: "Wow, sure I love Jason as much as the next guy but this really rea
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 37signals, design, product, product experience, sustainable
+tags:
+  - "37signals"
+  - "design"
+  - "product"
+  - "product experience"
+  - "sustainable"
 author: dug
 ---
 

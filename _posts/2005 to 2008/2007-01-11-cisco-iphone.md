@@ -8,7 +8,10 @@ description: "So it turns out Cisco have a corporate blog -- -) They even use Mo
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: apple, cisco, iphone
+tags:
+  - "apple"
+  - "cisco"
+  - "iphone"
 author: dug
 ---
 

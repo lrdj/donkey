@@ -8,7 +8,11 @@ description: " Love this giant post-it pad made with paper and pallet  -- -)&#82
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: brainstorm, design, ideas, lift
+tags:
+  - "brainstorm"
+  - "design"
+  - "ideas"
+  - "lift"
 author: dug
 ---
 

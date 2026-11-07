@@ -7,7 +7,14 @@ description: "OK so it&#8217;s now Stevenote - 7 and my iPhone is stuck in an im
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: firmware, iPhone, mobile operators, O2, orange, value, value-mapping
+tags:
+  - "firmware"
+  - "iPhone"
+  - "mobile operators"
+  - "O2"
+  - "orange"
+  - "value"
+  - "value-mapping"
 author: dug
 ---
 

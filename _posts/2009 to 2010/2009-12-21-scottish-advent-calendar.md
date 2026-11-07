@@ -8,7 +8,11 @@ description: "Nicki sent me this last week, cracked me up&#8230; I think this ma
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: christmas, family, fun, scotland
+tags:
+  - "christmas"
+  - "family"
+  - "fun"
+  - "scotland"
 author: dug
 ---
 

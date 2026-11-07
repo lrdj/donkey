@@ -8,7 +8,14 @@ description: "What&#8217;s that Dug? A new-year&#8217;s prediction in September?
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: decommodification, Mobile Lifestyle, mobileoperator, pipes, telecoms, value, value co-creation
+tags:
+  - "decommodification"
+  - "Mobile Lifestyle"
+  - "mobileoperator"
+  - "pipes"
+  - "telecoms"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

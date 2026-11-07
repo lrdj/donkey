@@ -7,7 +7,14 @@ description: "I think the nice man who went in search of my Identity theft woes 
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: card, customer service, eat, feedback, fraud, identity theft, value
+tags:
+  - "card"
+  - "customer service"
+  - "eat"
+  - "feedback"
+  - "fraud"
+  - "identity theft"
+  - "value"
 author: dug
 ---
 

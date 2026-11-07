@@ -8,7 +8,9 @@ description: "Currently working on social marketplaces (ad-hod associations) and
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: mft, value co-creation
+tags:
+  - "mft"
+  - "value co-creation"
 author: dug
 ---
 

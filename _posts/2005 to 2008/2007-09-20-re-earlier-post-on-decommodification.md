@@ -8,7 +8,15 @@ description: "I wrote a little brain-dump on decommodification this morning and 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: decommodification, interesting07, Mobile Lifestyle, mobileoperator, pipes, telecoms, value, value co-creation
+tags:
+  - "decommodification"
+  - "interesting07"
+  - "Mobile Lifestyle"
+  - "mobileoperator"
+  - "pipes"
+  - "telecoms"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

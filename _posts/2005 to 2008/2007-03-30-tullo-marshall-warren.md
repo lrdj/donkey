@@ -8,7 +8,10 @@ description: "If you&#8217;re a regular donkey reader please ignore this post. I
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: hosting, mtengine, tmw
+tags:
+  - "hosting"
+  - "mtengine"
+  - "tmw"
 author: dug
 ---
 

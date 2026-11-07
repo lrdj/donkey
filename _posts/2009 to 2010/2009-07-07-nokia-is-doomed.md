@@ -8,7 +8,13 @@ description: " Say your friendly tech commentators Gizmodo The N97 is Nokia&#821
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: iphone, n-series, n97, nokia, smartfone, symbian
+tags:
+  - "iphone"
+  - "n-series"
+  - "n97"
+  - "nokia"
+  - "smartfone"
+  - "symbian"
 author: dug
 ---
 

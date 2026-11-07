@@ -8,7 +8,10 @@ description: "Props @marshamusic for pointing to @veryshortstory &#8220;Firetruc
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #vss, twitter, writing
+tags:
+  - "#vss"
+  - "twitter"
+  - "writing"
 author: dug
 ---
 

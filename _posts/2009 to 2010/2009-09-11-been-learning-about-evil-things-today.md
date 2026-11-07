@@ -8,7 +8,10 @@ description: "For those of you not on Twitter, today has seen Alan Turing become
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: eugenics, evil, turing
+tags:
+  - "eugenics"
+  - "evil"
+  - "turing"
 author: dug
 ---
 

@@ -8,7 +8,14 @@ description: " Another great deck from Priya. I particularly love the simple nee
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: AI, needs, priya, slideshare, UE, UI, value co-creation
+tags:
+  - "AI"
+  - "needs"
+  - "priya"
+  - "slideshare"
+  - "UE"
+  - "UI"
+  - "value co-creation"
 author: dug
 ---
 

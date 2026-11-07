@@ -8,7 +8,10 @@ description: "Mom died last night. She was admitted to the Royal Devon &amp; Exe
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: family, memory, mum
+tags:
+  - "family"
+  - "memory"
+  - "mum"
 author: dug
 ---
 

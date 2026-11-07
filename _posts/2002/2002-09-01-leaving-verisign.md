@@ -11,7 +11,8 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: edgedujour
+tags:
+  - "edgedujour"
 author: dug
 ---
 

@@ -8,7 +8,11 @@ description: "OK so the news late last night was pretty horrific. Yes, we&#8217;
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: art, bbc, Chris Morris, The Day Today
+tags:
+  - "art"
+  - "bbc"
+  - "Chris Morris"
+  - "The Day Today"
 author: dug
 ---
 

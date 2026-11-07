@@ -8,7 +8,11 @@ description: " (This is a Textile rendition of my OmniOutliner file) Not a niche
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: FOWA, FOWALondon07, openid, simonwillison
+tags:
+  - "FOWA"
+  - "FOWALondon07"
+  - "openid"
+  - "simonwillison"
 author: dug
 ---
 

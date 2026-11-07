@@ -8,7 +8,12 @@ description: "Tarnations, last I heard this song, Tom barged into a Futurism sem
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cezannes, columbia, music, specialguests, tommeltzer
+tags:
+  - "cezannes"
+  - "columbia"
+  - "music"
+  - "specialguests"
+  - "tommeltzer"
 author: dug
 ---
 

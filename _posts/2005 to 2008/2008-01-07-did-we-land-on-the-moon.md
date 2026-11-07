@@ -8,7 +8,10 @@ description: "I love it that The Lecture List is still running (thank you thank 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: lunar landing, moon, Neil Armstrong
+tags:
+  - "lunar landing"
+  - "moon"
+  - "Neil Armstrong"
 author: dug
 ---
 

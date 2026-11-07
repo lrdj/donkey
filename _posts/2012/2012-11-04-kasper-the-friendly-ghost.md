@@ -8,7 +8,11 @@ description: "I&#8217;ve always thought it would be wonderful to do a doctorate.
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: adoption, hci, interface, users
+tags:
+  - "adoption"
+  - "hci"
+  - "interface"
+  - "users"
 author: dug
 ---
 

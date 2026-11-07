@@ -8,7 +8,8 @@ description: "27.63 mi Road Cycling in London on 15 Sep 2012 17 -- 57 and more r
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: palace2palace
+tags:
+  - "palace2palace"
 author: dug
 ---
 

@@ -8,7 +8,16 @@ description: "Ruth&#8217;s celebration was held at Salem Chapel East Budleigh, D
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: diary, family, jobbles, jobbleswood, memory, mom, mum, ruth, ruthfalby
+tags:
+  - "diary"
+  - "family"
+  - "jobbles"
+  - "jobbleswood"
+  - "memory"
+  - "mom"
+  - "mum"
+  - "ruth"
+  - "ruthfalby"
 author: dug
 ---
 

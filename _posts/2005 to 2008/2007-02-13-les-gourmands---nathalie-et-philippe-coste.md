@@ -8,7 +8,12 @@ description: "OK. I for some reason that escapes me haven&#8217;t managed to eat
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: food, lesgourmands, paris, restaurants, resto
+tags:
+  - "food"
+  - "lesgourmands"
+  - "paris"
+  - "restaurants"
+  - "resto"
 author: dug
 ---
 

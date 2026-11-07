@@ -8,7 +8,12 @@ description: "SF to Paris in Two Minutes from Beep Show on Vimeo. Timelapse by b
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: beepshow, canon, EOS 5D2, photography, time-lapse
+tags:
+  - "beepshow"
+  - "canon"
+  - "EOS 5D2"
+  - "photography"
+  - "time-lapse"
 author: dug
 ---
 

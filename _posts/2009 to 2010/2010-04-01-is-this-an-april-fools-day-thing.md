@@ -8,7 +8,15 @@ description: "Talk about what makes a great customer experience&#8230; My O2 iPh
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: edgedujour, fail, iphone, mobile, mobile operators, O2, ofcom, ux
+tags:
+  - "edgedujour"
+  - "fail"
+  - "iphone"
+  - "mobile"
+  - "mobile operators"
+  - "O2"
+  - "ofcom"
+  - "ux"
 author: dug
 ---
 

@@ -8,7 +8,11 @@ description: "Hi, I&#8217;ve spent a few minutes looking at a typical user flow 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: landingpages, optimisation, seo, value
+tags:
+  - "landingpages"
+  - "optimisation"
+  - "seo"
+  - "value"
 author: darren
 ---
 

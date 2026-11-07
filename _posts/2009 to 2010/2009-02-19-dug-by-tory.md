@@ -8,7 +8,9 @@ description: " Love this camerafone portrait by Tory. She used Panolab to captur
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: iphone, panolab
+tags:
+  - "iphone"
+  - "panolab"
 author: dug
 ---
 

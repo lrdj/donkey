@@ -8,7 +8,10 @@ description: "Wow, I&#8217;m speechless, and get a load of those necklaces -- -)
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: 70s, magma, music
+tags:
+  - "70s"
+  - "magma"
+  - "music"
 author: dug
 ---
 

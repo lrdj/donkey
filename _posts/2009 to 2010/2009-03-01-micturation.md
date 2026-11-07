@@ -8,7 +8,10 @@ description: "H has just pissed all over my laptop bag. Ahh, kids kids kids, sig
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: diary, family, kids
+tags:
+  - "diary"
+  - "family"
+  - "kids"
 author: dug
 ---
 

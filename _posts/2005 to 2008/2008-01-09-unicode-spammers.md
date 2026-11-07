@@ -8,7 +8,11 @@ description: " So when I first started being interested in markup, I used to spe
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: encoding, spam, unicode, webdesign
+tags:
+  - "encoding"
+  - "spam"
+  - "unicode"
+  - "webdesign"
 author: dug
 ---
 

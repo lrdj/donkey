@@ -8,7 +8,12 @@ description: "Wow, I can&#8217;t remember the last time I saw someone&#8217;s po
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: art, fun, graphics, kylebean, mobile
+tags:
+  - "art"
+  - "fun"
+  - "graphics"
+  - "kylebean"
+  - "mobile"
 author: dug
 ---
 

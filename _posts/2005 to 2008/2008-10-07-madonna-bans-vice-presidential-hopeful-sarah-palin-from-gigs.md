@@ -8,7 +8,12 @@ description: "Madona I love you  -- -) Madonna bans Vice-Presidential hopeful Sa
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: election08, elections, madona, Obama, usa
+tags:
+  - "election08"
+  - "elections"
+  - "madona"
+  - "Obama"
+  - "usa"
 author: dug
 ---
 

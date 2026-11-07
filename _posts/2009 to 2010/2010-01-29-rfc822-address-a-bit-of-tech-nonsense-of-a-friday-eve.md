@@ -8,7 +8,16 @@ description: "Ahh looks like the old MT vs. Wordpress flame war may be heating u
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bugs, cms, exploits, melody, movabletype, perl, php, security, wordpress
+tags:
+  - "bugs"
+  - "cms"
+  - "exploits"
+  - "melody"
+  - "movabletype"
+  - "perl"
+  - "php"
+  - "security"
+  - "wordpress"
 author: dug
 ---
 

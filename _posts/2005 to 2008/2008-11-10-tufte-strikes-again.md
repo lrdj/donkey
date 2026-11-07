@@ -8,7 +8,9 @@ description: "Well, I don&#8217;t do Lowest Common Denominator Design. Lowest Co
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: iPhone, tufte
+tags:
+  - "iPhone"
+  - "tufte"
 author: dug
 ---
 

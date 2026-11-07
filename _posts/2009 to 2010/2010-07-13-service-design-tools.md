@@ -8,7 +8,9 @@ description: " Great service design artefacts from Rachel Shadoan I&#8217;m look
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: servicedesign, ux
+tags:
+  - "servicedesign"
+  - "ux"
 author: dug
 ---
 

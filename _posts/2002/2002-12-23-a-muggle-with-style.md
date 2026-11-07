@@ -8,7 +8,9 @@ description: "8608103"
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: css, design
+tags:
+  - "css"
+  - "design"
 author: dug
 ---
 

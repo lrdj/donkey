@@ -8,7 +8,14 @@ description: "You know, Billy and I have been really struggling to keep The Lect
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: alexjames, blur, britpop, cheese, lecture, lecturelist, lectures
+tags:
+  - "alexjames"
+  - "blur"
+  - "britpop"
+  - "cheese"
+  - "lecture"
+  - "lecturelist"
+  - "lectures"
 author: dug
 ---
 

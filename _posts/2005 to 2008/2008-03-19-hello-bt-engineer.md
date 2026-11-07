@@ -7,7 +7,13 @@ description: "Hey, we&#8217;ve just had a long and very informative post from Ma
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: BT, customer service, edgedujour, is BT still shit, value, value co-creation
+tags:
+  - "BT"
+  - "customer service"
+  - "edgedujour"
+  - "is BT still shit"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

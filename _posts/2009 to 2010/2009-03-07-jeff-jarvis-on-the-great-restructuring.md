@@ -8,7 +8,16 @@ description: "Great piece on buzzmachine re the evolution required to the ways w
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: collaboration, ecosystems, flexibilism, frameworks, networks, recession, restructure, sharing, value creation
+tags:
+  - "collaboration"
+  - "ecosystems"
+  - "flexibilism"
+  - "frameworks"
+  - "networks"
+  - "recession"
+  - "restructure"
+  - "sharing"
+  - "value creation"
 author: dug
 ---
 

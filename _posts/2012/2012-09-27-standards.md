@@ -8,7 +8,12 @@ description: "Saw this question on a forum and had to answer --  Is it acceptabl
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: internet culture, net neutrality, standards, wai, web
+tags:
+  - "internet culture"
+  - "net neutrality"
+  - "standards"
+  - "wai"
+  - "web"
 author: dug
 ---
 

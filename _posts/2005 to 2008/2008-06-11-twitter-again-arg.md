@@ -8,7 +8,13 @@ description: " Twitter / over capacity. Man is there a tech case-study to be wri
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: broken, down, scalable, services, sick, twitter
+tags:
+  - "broken"
+  - "down"
+  - "scalable"
+  - "services"
+  - "sick"
+  - "twitter"
 author: dug
 ---
 

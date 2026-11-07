@@ -8,7 +8,13 @@ description: "The company has the balls to invite bloggers into its press and an
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: csr, dialogue, pr, redmonk, sap, transparency
+tags:
+  - "csr"
+  - "dialogue"
+  - "pr"
+  - "redmonk"
+  - "sap"
+  - "transparency"
 author: dug
 ---
 

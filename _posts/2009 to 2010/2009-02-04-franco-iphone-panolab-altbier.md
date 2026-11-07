@@ -8,7 +8,11 @@ description: " Nicki assures me the the &#8216;alt&#8217; in altbier has to do w
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: altbier, fun, iphone, panlab
+tags:
+  - "altbier"
+  - "fun"
+  - "iphone"
+  - "panlab"
 author: dug
 ---
 

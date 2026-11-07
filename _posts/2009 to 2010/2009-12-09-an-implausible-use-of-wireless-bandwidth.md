@@ -8,7 +8,14 @@ description: "Love this Guardian article by Cory Doctorow. It still amazes me th
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: downloads, mobile, mobile operators, money, rtsp, self-determination, streaming
+tags:
+  - "downloads"
+  - "mobile"
+  - "mobile operators"
+  - "money"
+  - "rtsp"
+  - "self-determination"
+  - "streaming"
 author: dug
 ---
 

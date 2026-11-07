@@ -8,7 +8,12 @@ description: "Wow, it&#8217;s a voyage of discovery&#8230; Turns out the post of
 image: images/laposte.gif
 alt: "Postman Pat"
 
-tags: parcelforce, post office, rmg, royal mail, royal mail group
+tags:
+  - "parcelforce"
+  - "post office"
+  - "rmg"
+  - "royal mail"
+  - "royal mail group"
 author: dug
 ---
 

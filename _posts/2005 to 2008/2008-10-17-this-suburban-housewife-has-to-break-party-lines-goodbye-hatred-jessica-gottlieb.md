@@ -8,7 +8,12 @@ description: "Wow, a great voice from the republican side explains how hatred ca
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: election08, nuremberg, Obama, palin, usa
+tags:
+  - "election08"
+  - "nuremberg"
+  - "Obama"
+  - "palin"
+  - "usa"
 author: dug
 ---
 

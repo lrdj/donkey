@@ -8,7 +8,10 @@ description: "Just came across this BBC article on OnLive sounds like the cloud 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: cloud, console, online gaming
+tags:
+  - "cloud"
+  - "console"
+  - "online gaming"
 author: dug
 ---
 

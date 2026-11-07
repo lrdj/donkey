@@ -8,7 +8,10 @@ description: "Je trouve quand même étonnant que le dico internaute propose une
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: dico, dictionary, france
+tags:
+  - "dico"
+  - "dictionary"
+  - "france"
 author: dug
 ---
 

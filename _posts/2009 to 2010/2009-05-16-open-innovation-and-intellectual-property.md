@@ -8,7 +8,13 @@ description: "John Wilbanks on yesterday&#8217;s NESTA event. Gotta say, I left 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: network effects, network potential, networks, sciencecommons, value, value co-creation
+tags:
+  - "network effects"
+  - "network potential"
+  - "networks"
+  - "sciencecommons"
+  - "value"
+  - "value co-creation"
 author: dug
 ---
 

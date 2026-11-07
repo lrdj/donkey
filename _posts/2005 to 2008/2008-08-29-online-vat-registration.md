@@ -11,7 +11,11 @@ tags:
   - le mouton enragé
   - making it right
 
-tags: government2.0, hmrc, tax, vat
+tags:
+  - "government2.0"
+  - "hmrc"
+  - "tax"
+  - "vat"
 author: dug
 ---
 

@@ -4,7 +4,11 @@ title: "An equitable trade --  a great service in exchange for my attention"
 description: "Back in the late nineties I spent a lot of time trying to convince brands that the web was bringing about a market where you had to give to get. In 2001 I wrote businesses will benefit most from&#8230;"
 image: images/defaultThumbnail.png
 alt: ""
-tags: advertising, exchange, value co-creation, wetransfer
+tags:
+  - "advertising"
+  - "exchange"
+  - "value co-creation"
+  - "wetransfer"
 author: dug
 ---
 <!--

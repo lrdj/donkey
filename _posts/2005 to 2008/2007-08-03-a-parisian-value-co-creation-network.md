@@ -8,7 +8,11 @@ description: " I was working with a colleague this morning and she pointed at th
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: paris, personalisation, personalspace, value co-creation
+tags:
+  - "paris"
+  - "personalisation"
+  - "personalspace"
+  - "value co-creation"
 author: dug
 ---
 

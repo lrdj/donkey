@@ -7,7 +7,15 @@ description: "OK, I think O2 wins this donkey&#8217;s current &#8220;Edge du Jou
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: ecss, edgedujour, interface, iphone, mobile, mobileoperator, self-care, user experience
+tags:
+  - "ecss"
+  - "edgedujour"
+  - "interface"
+  - "iphone"
+  - "mobile"
+  - "mobileoperator"
+  - "self-care"
+  - "user experience"
 author: dug
 ---
 

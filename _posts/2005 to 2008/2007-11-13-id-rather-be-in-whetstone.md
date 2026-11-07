@@ -8,7 +8,12 @@ description: "(Family thoughts, you tech readers may want to skip this post) So 
 image: images/defaultThumbnail.png
 alt: ""
 category: "Family"
-tags: barnet, family, move, moving, whetstone
+tags:
+  - "barnet"
+  - "family"
+  - "move"
+  - "moving"
+  - "whetstone"
 author: dug
 ---
 

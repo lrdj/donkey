@@ -8,7 +8,14 @@ description: "So I&#8217;ve now had the pleasure of being slid into an MRI and i
 image: images/defaultThumbnail.png
 alt: ""
 category: "Family"
-tags: arthroscopy, Bristol, John Hardy, knee, knee arthroscopy, orthopaedic surgeon, surgery
+tags:
+  - "arthroscopy"
+  - "Bristol"
+  - "John Hardy"
+  - "knee"
+  - "knee arthroscopy"
+  - "orthopaedic surgeon"
+  - "surgery"
 author: dug
 ---
 

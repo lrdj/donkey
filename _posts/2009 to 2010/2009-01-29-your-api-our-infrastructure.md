@@ -8,7 +8,12 @@ description: "What a beautifully succinct way of expressing quite a complex syst
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: api, mobile, mobile operators, partnership, value co-creation
+tags:
+  - "api"
+  - "mobile"
+  - "mobile operators"
+  - "partnership"
+  - "value co-creation"
 author: dug
 ---
 

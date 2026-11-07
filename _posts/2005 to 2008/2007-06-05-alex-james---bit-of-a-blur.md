@@ -8,7 +8,11 @@ description: "Good to see Serge the Concierge doing his bit to promote the Alex 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: alexjames, blur, cheese, food
+tags:
+  - "alexjames"
+  - "blur"
+  - "cheese"
+  - "food"
 author: dug
 ---
 

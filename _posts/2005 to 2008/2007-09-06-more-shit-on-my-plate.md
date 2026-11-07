@@ -8,7 +8,9 @@ description: "As I sit here in the middle of the night orchestrating the organis
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: void, whatsthefuckingpoint
+tags:
+  - "void"
+  - "whatsthefuckingpoint"
 author: dug
 ---
 

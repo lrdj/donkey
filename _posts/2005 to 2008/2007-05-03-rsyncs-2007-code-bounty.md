@@ -7,7 +7,12 @@ description: "When it comes to open source (and, I imagine in pretty much every 
 
 image: images/defaultThumbnail.png
 alt: ""
-tags: kozubik, open, opensource, os, rsync
+tags:
+  - "kozubik"
+  - "open"
+  - "opensource"
+  - "os"
+  - "rsync"
 author: dug
 ---
 

@@ -8,7 +8,10 @@ description: " Have been uploading stuff to YouTube in prep for a work thing and
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: diary, ugc, video
+tags:
+  - "diary"
+  - "ugc"
+  - "video"
 author: dug
 ---
 

@@ -8,7 +8,13 @@ description: "The helping-corporates-move-towards-standards thing started for me
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: ai, markup, semantic web, ux, web2.0, xhtml
+tags:
+  - "ai"
+  - "markup"
+  - "semantic web"
+  - "ux"
+  - "web2.0"
+  - "xhtml"
 author: dug
 ---
 

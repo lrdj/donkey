@@ -8,7 +8,15 @@ description: " You know you&#8217;re a Mac OS X user when you tend to forget abo
 image: images/defaultThumbnail.png
 alt: ""
 category: "Family"
-tags: Alison Statton, alsoft, cold, diskwarrior, garage, orange, Weekend, work
+tags:
+  - "Alison Statton"
+  - "alsoft"
+  - "cold"
+  - "diskwarrior"
+  - "garage"
+  - "orange"
+  - "Weekend"
+  - "work"
 author: dug
 ---
 

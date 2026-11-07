@@ -8,7 +8,10 @@ description: "Well well well, a new kind of phishing has landed in my inbox. Jus
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: irs, phishing, spam
+tags:
+  - "irs"
+  - "phishing"
+  - "spam"
 author: dug
 ---
 

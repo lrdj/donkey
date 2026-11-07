@@ -8,7 +8,9 @@ description: "Her name will forever live on in the halls of justice for her vict
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: annanicole, jamesgovernor
+tags:
+  - "annanicole"
+  - "jamesgovernor"
 author: dug
 ---
 

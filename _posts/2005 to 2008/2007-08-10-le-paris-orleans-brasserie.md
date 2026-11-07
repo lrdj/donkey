@@ -8,7 +8,11 @@ description: " Dans la série c&#8217;est fou ce qu&#8217;on mange mal à Paris 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: inmangable, paris, restaurants, resto
+tags:
+  - "inmangable"
+  - "paris"
+  - "restaurants"
+  - "resto"
 author: dug
 ---
 

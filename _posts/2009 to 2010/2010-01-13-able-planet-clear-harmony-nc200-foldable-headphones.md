@@ -8,7 +8,14 @@ description: "So I got an email from a pr in the states before Christmas asking 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: ableplanet, audio, electronics, headphones, hifi, noisecancelling, reviews
+tags:
+  - "ableplanet"
+  - "audio"
+  - "electronics"
+  - "headphones"
+  - "hifi"
+  - "noisecancelling"
+  - "reviews"
 author: dug
 ---
 

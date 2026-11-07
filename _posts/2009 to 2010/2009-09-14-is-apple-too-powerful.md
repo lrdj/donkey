@@ -8,7 +8,16 @@ description: "Interesting article over at mobileopportunity Jobs said There&#821
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: apple, capital, innovation, interesting, markets, media, music, pure digital, video
+tags:
+  - "apple"
+  - "capital"
+  - "innovation"
+  - "interesting"
+  - "markets"
+  - "media"
+  - "music"
+  - "pure digital"
+  - "video"
 author: dug
 ---
 

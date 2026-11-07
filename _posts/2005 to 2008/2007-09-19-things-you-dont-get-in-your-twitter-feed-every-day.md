@@ -8,7 +8,11 @@ description: "This just in via twitter+gtalk --  twitter --  bbcvideo --  Hundre
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bbc, news, peru, space
+tags:
+  - "bbc"
+  - "news"
+  - "peru"
+  - "space"
 author: dug
 ---
 

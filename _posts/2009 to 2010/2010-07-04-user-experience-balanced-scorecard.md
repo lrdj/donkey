@@ -8,7 +8,9 @@ description: "Via UXmatters As user experience becomes more established as part 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: strategy, ux
+tags:
+  - "strategy"
+  - "ux"
 author: dug
 ---
 

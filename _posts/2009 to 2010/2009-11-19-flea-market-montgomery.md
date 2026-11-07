@@ -8,7 +8,12 @@ description: "Fer, our star groovy Android developer just recommended this as a 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: agora, marketing, markets, mft, video
+tags:
+  - "agora"
+  - "marketing"
+  - "markets"
+  - "mft"
+  - "video"
 author: dug
 ---
 

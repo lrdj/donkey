@@ -8,7 +8,11 @@ description: " I am currently looking at a guideline which reads --  All sites m
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: design, flexible layouts, grids, guidelines
+tags:
+  - "design"
+  - "flexible layouts"
+  - "grids"
+  - "guidelines"
 author: dug
 ---
 

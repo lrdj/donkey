@@ -8,7 +8,10 @@ description: " So I managed to read through Adam Buxton&#8217;s website for ages
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: adamandjoe, songsofpraise, youtube
+tags:
+  - "adamandjoe"
+  - "songsofpraise"
+  - "youtube"
 author: dug
 ---
 

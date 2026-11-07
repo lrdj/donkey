@@ -8,7 +8,11 @@ description: " So Iain Tait&#8217;s getting all memetastic on our ass  -- -) Wel
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bloggers, computersbehindblogs, flickr groups, iain tait
+tags:
+  - "bloggers"
+  - "computersbehindblogs"
+  - "flickr groups"
+  - "iain tait"
 author: dug
 ---
 

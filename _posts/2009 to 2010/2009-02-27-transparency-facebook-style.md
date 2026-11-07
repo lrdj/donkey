@@ -8,7 +8,12 @@ description: "The Facebook charter states --  Users own their data and can remov
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: facebook, legal, self-determination, transparency, trends
+tags:
+  - "facebook"
+  - "legal"
+  - "self-determination"
+  - "transparency"
+  - "trends"
 author: dug
 ---
 

@@ -8,7 +8,14 @@ description: "You know it doesn&#8217;t get more cutting edge than this. First, 
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: firmware2.0, ifart, iphone, iphone 2.0, jailbreak, light-saber, value
+tags:
+  - "firmware2.0"
+  - "ifart"
+  - "iphone"
+  - "iphone 2.0"
+  - "jailbreak"
+  - "light-saber"
+  - "value"
 author: dug
 ---
 

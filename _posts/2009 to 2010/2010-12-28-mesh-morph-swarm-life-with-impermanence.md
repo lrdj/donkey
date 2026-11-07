@@ -8,7 +8,11 @@ description: " Interesting vid of my old boss talking about a theme we uncovered
 image: images/candidates_A0.jpg
 alt: "Project 2012 theme candidates"
 
-tags: design, exchange, transaction, value
+tags:
+  - "design"
+  - "exchange"
+  - "transaction"
+  - "value"
 author: dug
 ---
 

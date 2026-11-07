@@ -8,7 +8,11 @@ description: " James Boyle The Public Domain time to go shopping methinks&#8230;
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: #commons, #pd, copyright, jamesboyle
+tags:
+  - "#commons"
+  - "#pd"
+  - "copyright"
+  - "jamesboyle"
 author: dug
 ---
 

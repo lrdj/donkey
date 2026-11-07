@@ -8,7 +8,11 @@ description: "A fan of Feynman writes an uplifting tribute --  Richard Feynman -
 image: images/defaultThumbnail.png
 alt: ""
 category: "Techno-bollocks"
-tags: electricvehicle, ev, ev1, feynman
+tags:
+  - "electricvehicle"
+  - "ev"
+  - "ev1"
+  - "feynman"
 author: dug
 ---
 

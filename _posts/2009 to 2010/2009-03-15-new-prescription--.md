@@ -8,7 +8,12 @@ description: " This one is for Ben. Mock me, mock me how the mighty are fallen e
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: Ben, blindness, glasses, prescription, qik
+tags:
+  - "Ben"
+  - "blindness"
+  - "glasses"
+  - "prescription"
+  - "qik"
 author: dug
 ---
 

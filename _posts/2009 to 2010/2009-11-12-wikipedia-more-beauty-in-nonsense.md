@@ -8,7 +8,9 @@ description: "Heather pointed us at Magma&#8217;s page on Wikipedia. I loved thi
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: magma, wikipedia
+tags:
+  - "magma"
+  - "wikipedia"
 author: dug
 ---
 

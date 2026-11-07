@@ -8,7 +8,16 @@ description: "Look around your office, now imagine being a part of this massive 
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: bbc, design, mediajunkie, mobile, patterns, platforms, ue, ux, xd
+tags:
+  - "bbc"
+  - "design"
+  - "mediajunkie"
+  - "mobile"
+  - "patterns"
+  - "platforms"
+  - "ue"
+  - "ux"
+  - "xd"
 author: dug
 ---
 

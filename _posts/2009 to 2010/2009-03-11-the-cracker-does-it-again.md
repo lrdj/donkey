@@ -8,7 +8,15 @@ description: " We&#8217;ve been talking about this at work so I was interested t
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: anar, Big Copyright, copyright, free, iaintait, lynetter, music, radiohead
+tags:
+  - "anar"
+  - "Big Copyright"
+  - "copyright"
+  - "free"
+  - "iaintait"
+  - "lynetter"
+  - "music"
+  - "radiohead"
 author: dug
 ---
 

@@ -8,7 +8,15 @@ description: "This post isn&#8217;t so much about the usefulness of mailing list
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: google, googlegroups, javascript, johnresig, jQuery, lists, mail, spam
+tags:
+  - "google"
+  - "googlegroups"
+  - "javascript"
+  - "johnresig"
+  - "jQuery"
+  - "lists"
+  - "mail"
+  - "spam"
 author: dug
 ---
 

@@ -8,7 +8,14 @@ description: "A university professor describes the educational experience in ter
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: education, elearning, learning, podcasting, technology, value, value mapping
+tags:
+  - "education"
+  - "elearning"
+  - "learning"
+  - "podcasting"
+  - "technology"
+  - "value"
+  - "value mapping"
 author: dug
 ---
 

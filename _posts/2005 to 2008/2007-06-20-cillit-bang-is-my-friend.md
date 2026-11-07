@@ -8,7 +8,12 @@ description: "Mike Butcher points out that new European legislation will make as
 image: images/defaultThumbnail.png
 alt: ""
 
-tags: advertising, astroturfing, barryscott, cillitbang, marketing
+tags:
+  - "advertising"
+  - "astroturfing"
+  - "barryscott"
+  - "cillitbang"
+  - "marketing"
 author: dug
 ---
 
